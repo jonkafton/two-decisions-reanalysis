@@ -1,0 +1,14 @@
+The data in this repository that was produced for this reanalysis —
+data/second_judge_verdicts.jsonl, data/matched_items.json and
+results/second_judge_analysis.json — is licensed under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0).
+
+  https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Jon Kafton. Attribute as: Kafton, J. (2026). Two decisions,
+not three architectures: A reanalysis of cognitive memory in LLM agents —
+code and data. https://github.com/jonkafton/two-decisions-reanalysis
+
+This licence does not cover the files fetch_data.sh downloads from the
+whitepaper's companion repository, or the benchmark data they contain. Those
+remain under their authors' terms: see README.md, "Sources and licences".

@@ -1,0 +1,309 @@
+{
+ "prediction": 4,
+ "procedure": "The 213 (sample_id, system) pairs on the 368 matched items where the published judge and the second judge (pass 1) disagree, sorted by (sample_id, system), then random.Random(20260925).sample(pairs, 60) in Python 3. Listed in draw order.",
+ "seed": 20260925,
+ "population": 213,
+ "drawn": 60,
+ "items": [
+  {
+   "n": 1,
+   "sample_id": "cog_0175",
+   "system": "zep"
+  },
+  {
+   "n": 2,
+   "sample_id": "cog_0067",
+   "system": "mem0"
+  },
+  {
+   "n": 3,
+   "sample_id": "cog_0381",
+   "system": "letta"
+  },
+  {
+   "n": 4,
+   "sample_id": "cog_0257",
+   "system": "letta"
+  },
+  {
+   "n": 5,
+   "sample_id": "cog_0061",
+   "system": "zep"
+  },
+  {
+   "n": 6,
+   "sample_id": "cog_0229",
+   "system": "mem0"
+  },
+  {
+   "n": 7,
+   "sample_id": "cog_0292",
+   "system": "letta"
+  },
+  {
+   "n": 8,
+   "sample_id": "cog_0372",
+   "system": "letta"
+  },
+  {
+   "n": 9,
+   "sample_id": "cog_0395",
+   "system": "mem0"
+  },
+  {
+   "n": 10,
+   "sample_id": "cog_0332",
+   "system": "letta"
+  },
+  {
+   "n": 11,
+   "sample_id": "cog_0320",
+   "system": "letta"
+  },
+  {
+   "n": 12,
+   "sample_id": "cog_0124",
+   "system": "zep"
+  },
+  {
+   "n": 13,
+   "sample_id": "cog_0292",
+   "system": "mem0"
+  },
+  {
+   "n": 14,
+   "sample_id": "cog_0253",
+   "system": "letta"
+  },
+  {
+   "n": 15,
+   "sample_id": "cog_0208",
+   "system": "mem0"
+  },
+  {
+   "n": 16,
+   "sample_id": "cog_0047",
+   "system": "zep"
+  },
+  {
+   "n": 17,
+   "sample_id": "cog_0257",
+   "system": "zep"
+  },
+  {
+   "n": 18,
+   "sample_id": "cog_0139",
+   "system": "zep"
+  },
+  {
+   "n": 19,
+   "sample_id": "cog_0013",
+   "system": "mem0"
+  },
+  {
+   "n": 20,
+   "sample_id": "cog_0147",
+   "system": "mem0"
+  },
+  {
+   "n": 21,
+   "sample_id": "cog_0377",
+   "system": "zep"
+  },
+  {
+   "n": 22,
+   "sample_id": "cog_0186",
+   "system": "zep"
+  },
+  {
+   "n": 23,
+   "sample_id": "cog_0393",
+   "system": "mem0"
+  },
+  {
+   "n": 24,
+   "sample_id": "cog_0318",
+   "system": "letta"
+  },
+  {
+   "n": 25,
+   "sample_id": "cog_0303",
+   "system": "zep"
+  },
+  {
+   "n": 26,
+   "sample_id": "cog_0335",
+   "system": "zep"
+  },
+  {
+   "n": 27,
+   "sample_id": "cog_0347",
+   "system": "letta"
+  },
+  {
+   "n": 28,
+   "sample_id": "cog_0113",
+   "system": "zep"
+  },
+  {
+   "n": 29,
+   "sample_id": "cog_0247",
+   "system": "letta"
+  },
+  {
+   "n": 30,
+   "sample_id": "cog_0294",
+   "system": "mem0"
+  },
+  {
+   "n": 31,
+   "sample_id": "cog_0004",
+   "system": "zep"
+  },
+  {
+   "n": 32,
+   "sample_id": "cog_0061",
+   "system": "letta"
+  },
+  {
+   "n": 33,
+   "sample_id": "cog_0102",
+   "system": "zep"
+  },
+  {
+   "n": 34,
+   "sample_id": "cog_0255",
+   "system": "mem0"
+  },
+  {
+   "n": 35,
+   "sample_id": "cog_0139",
+   "system": "letta"
+  },
+  {
+   "n": 36,
+   "sample_id": "cog_0293",
+   "system": "letta"
+  },
+  {
+   "n": 37,
+   "sample_id": "cog_0224",
+   "system": "zep"
+  },
+  {
+   "n": 38,
+   "sample_id": "cog_0175",
+   "system": "letta"
+  },
+  {
+   "n": 39,
+   "sample_id": "cog_0105",
+   "system": "zep"
+  },
+  {
+   "n": 40,
+   "sample_id": "cog_0122",
+   "system": "letta"
+  },
+  {
+   "n": 41,
+   "sample_id": "cog_0363",
+   "system": "zep"
+  },
+  {
+   "n": 42,
+   "sample_id": "cog_0229",
+   "system": "letta"
+  },
+  {
+   "n": 43,
+   "sample_id": "cog_0254",
+   "system": "zep"
+  },
+  {
+   "n": 44,
+   "sample_id": "cog_0237",
+   "system": "mem0"
+  },
+  {
+   "n": 45,
+   "sample_id": "cog_0028",
+   "system": "mem0"
+  },
+  {
+   "n": 46,
+   "sample_id": "cog_0047",
+   "system": "letta"
+  },
+  {
+   "n": 47,
+   "sample_id": "cog_0054",
+   "system": "zep"
+  },
+  {
+   "n": 48,
+   "sample_id": "cog_0144",
+   "system": "mem0"
+  },
+  {
+   "n": 49,
+   "sample_id": "cog_0355",
+   "system": "mem0"
+  },
+  {
+   "n": 50,
+   "sample_id": "cog_0085",
+   "system": "letta"
+  },
+  {
+   "n": 51,
+   "sample_id": "cog_0143",
+   "system": "letta"
+  },
+  {
+   "n": 52,
+   "sample_id": "cog_0099",
+   "system": "zep"
+  },
+  {
+   "n": 53,
+   "sample_id": "cog_0327",
+   "system": "letta"
+  },
+  {
+   "n": 54,
+   "sample_id": "cog_0228",
+   "system": "zep"
+  },
+  {
+   "n": 55,
+   "sample_id": "cog_0195",
+   "system": "zep"
+  },
+  {
+   "n": 56,
+   "sample_id": "cog_0072",
+   "system": "mem0"
+  },
+  {
+   "n": 57,
+   "sample_id": "cog_0229",
+   "system": "zep"
+  },
+  {
+   "n": 58,
+   "sample_id": "cog_0216",
+   "system": "mem0"
+  },
+  {
+   "n": 59,
+   "sample_id": "cog_0282",
+   "system": "letta"
+  },
+  {
+   "n": 60,
+   "sample_id": "cog_0197",
+   "system": "mem0"
+  }
+ ]
+}

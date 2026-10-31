@@ -1,0 +1,10 @@
+# downloaded by fetch_data.sh; not redistributed (see README, "Sources and licences")
+data/source/
+# the runner's output on a re-run
+results/rerun_verdicts.jsonl
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# annotators' packets for prediction 4 hold the benchmark's text; never redistributed
+preregistration/packets/

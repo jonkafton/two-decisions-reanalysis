@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "two-decisions-reanalysis: code and data for Two Decisions, Not Three Architectures"
+type: software
+authors:
+  - family-names: Kafton
+    given-names: Jon
+repository-code: "https://github.com/jonkafton/two-decisions-reanalysis"
+license: MIT
+keywords:
+  - agent memory
+  - cognitive memory
+  - LLM-as-a-judge
+  - reanalysis
+  - LoCoMo-Plus
+preferred-citation:
+  type: report
+  title: "Two Decisions, Not Three Architectures: A Reanalysis of Cognitive Memory in LLM Agents"
+  authors:
+    - family-names: Kafton
+      given-names: Jon
+  year: 2026
+  month: 9
+  publisher:
+    name: "1Presence Build Log"
+  url: "https://1presence.com/blog/two-decisions-not-three-architectures"

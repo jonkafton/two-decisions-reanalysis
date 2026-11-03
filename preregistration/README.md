@@ -1,6 +1,6 @@
 # Registered predictions
 
-The paper's four predictions were registered on OSF before any of them was tested. The registration's address is added here once it is public.
+The paper's four predictions were registered on OSF on 3 November 2026, before any of them was tested: https://osf.io/xufd9. The registration is embargoed until the paper is listed, and until 31 December 2026 at the latest, so the address shows nothing to the public before then.
 
 This folder holds everything the registration fixes for predictions 3 and 4. Both run on the 368 matched items and need no new system. Predictions 1 and 2 need studies that do not exist yet; each will get its own registration before its data are collected.
 

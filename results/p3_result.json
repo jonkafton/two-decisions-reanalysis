@@ -1,0 +1,46 @@
+{
+ "prediction": 3,
+ "n_items": 368,
+ "systems_mean_under_published_judge_items": 80.0,
+ "published_judge_correct": 92,
+ "published_judge_pct": 25.0,
+ "published_judge_wilson95_pct": [
+  20.8,
+  29.7
+ ],
+ "second_judge_correct": 5,
+ "second_judge_pct": 1.36,
+ "second_judge_wilson95_pct": [
+  0.6,
+  3.1
+ ],
+ "thresholds": {
+  "supported_if_published_at_least": 40,
+  "failed_if_published_at_most": 19,
+  "failed_if_second_at_least": 8
+ },
+ "decision": "supported",
+ "flags": {},
+ "by_relation_type_exploratory": {
+  "causal": {
+   "n": 90,
+   "published": 23,
+   "second": 1
+  },
+  "goal": {
+   "n": 98,
+   "published": 20,
+   "second": 0
+  },
+  "state": {
+   "n": 88,
+   "published": 24,
+   "second": 1
+  },
+  "value": {
+   "n": 92,
+   "published": 25,
+   "second": 3
+  }
+ }
+}

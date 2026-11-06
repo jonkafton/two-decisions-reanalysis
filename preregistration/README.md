@@ -14,6 +14,10 @@ This folder holds everything the registration fixes for predictions 3 and 4. Bot
 | `p4_instructions.md` | What the two annotators are told |
 | `p4_annotation.py` | Builds each annotator's packet, in a separately shuffled order with no verdicts and no system names, and applies prediction 4's decision rule to their labels |
 
+## Predictions 1 and 2: the H1 and H2 study designs
+
+`h2/` holds the second registration, the study designs for predictions 1 and 2 on one shared run of the system under test: the factual draw and its drawn sample (`p2_draw.py`, `p2_factual_sample.json`), prediction 2's decision rule (`p2_score.py`), and the script that fills and submits the OSF registration from the written design (`osf_register_h2.py`). The system's own code is published with the result; the registration carries excerpts of the switches and the prompts. See `h2/README.md`.
+
 ## Order of work
 
 1. Nothing here runs against a real model, or reaches an annotator, before the registration is approved. A `--stub` run makes no calls and is the only exception.

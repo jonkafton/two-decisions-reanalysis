@@ -1,0 +1,1152 @@
+{
+ "prediction": 2,
+ "procedure": "Every question in locomo10.json whose evidence resolves to a turn of its conversation (1977 of 1986; 9 dropped for evidence in another form), grouped by LoCoMo category, each group sorted by identifier (conversation sample_id '#' index in qa), then random.Random(20261104).sample(group, 25) in category order 1..5 from one generator. Identifiers and a sha256 of each question's text only; the text is not redistributed.",
+ "seed": 20261104,
+ "population_by_category": {
+  "multi-hop": 281,
+  "temporal": 320,
+  "open-domain": 89,
+  "single-hop": 841,
+  "adversarial": 446
+ },
+ "dropped_no_resolvable_evidence": [
+  "conv-26#30",
+  "conv-26#37",
+  "conv-26#46",
+  "conv-49#31",
+  "conv-49#38",
+  "conv-49#46",
+  "conv-50#39",
+  "conv-50#42",
+  "conv-50#69"
+ ],
+ "per_category": 25,
+ "drawn": 125,
+ "items": [
+  {
+   "n": 1,
+   "id": "conv-42#81",
+   "conversation": "conv-42",
+   "qa_index": 81,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "51d48c1305114ac78adc66f1c590f4e708931a530e7539b4e1b101f934c65be5"
+  },
+  {
+   "n": 2,
+   "id": "conv-44#50",
+   "conversation": "conv-44",
+   "qa_index": 50,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "08ce372646bf0fe08dc0b5ad2186de9e15e1fc2a0773c934613e95b5257e8c41"
+  },
+  {
+   "n": 3,
+   "id": "conv-47#8",
+   "conversation": "conv-47",
+   "qa_index": 8,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "dc63839244416732da439004540ff91aee26ebf9ec2478877886d1ea790d9783"
+  },
+  {
+   "n": 4,
+   "id": "conv-50#22",
+   "conversation": "conv-50",
+   "qa_index": 22,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "5dc74a349ce15874e8256250258ecd1caf51c35268899cb7d3a9e2c19f21b8ef"
+  },
+  {
+   "n": 5,
+   "id": "conv-26#38",
+   "conversation": "conv-26",
+   "qa_index": 38,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "2a3564492522411a962db7af457c3ac0140789f546db184579a27f98aedaaf46"
+  },
+  {
+   "n": 6,
+   "id": "conv-43#18",
+   "conversation": "conv-43",
+   "qa_index": 18,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "9385966b38c18d7e48820ccb6b0128c03b3bcca805df1e42aa9ff7abb2f462c5"
+  },
+  {
+   "n": 7,
+   "id": "conv-48#41",
+   "conversation": "conv-48",
+   "qa_index": 41,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "3ed56cc37633c269808d272c3e9c5f1e578003bd4055c708faf19da93a9f4454"
+  },
+  {
+   "n": 8,
+   "id": "conv-26#18",
+   "conversation": "conv-26",
+   "qa_index": 18,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "765f6e4993922f9181af74f07805e24af18ed5d7a06f24892750a9804a45bd96"
+  },
+  {
+   "n": 9,
+   "id": "conv-50#60",
+   "conversation": "conv-50",
+   "qa_index": 60,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "24dba8e2a2873feba8400964775d155ec2c5a8c422880b30d23fcf19d2ee467f"
+  },
+  {
+   "n": 10,
+   "id": "conv-30#29",
+   "conversation": "conv-30",
+   "qa_index": 29,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "23fdf5607e89deffa03e669e7ce10d2915dcb8a18c15dae4abeba57f792c253a"
+  },
+  {
+   "n": 11,
+   "id": "conv-49#50",
+   "conversation": "conv-49",
+   "qa_index": 50,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "9d32867bcf6993bb26e2f8207c4d865296078d0261f293b3b5260b593ae218be"
+  },
+  {
+   "n": 12,
+   "id": "conv-48#13",
+   "conversation": "conv-48",
+   "qa_index": 13,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "12b43cf3b33075f45f00e491d35ec2840f874c7a6500d4481edb3932a03f2ac8"
+  },
+  {
+   "n": 13,
+   "id": "conv-26#43",
+   "conversation": "conv-26",
+   "qa_index": 43,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "f0eb252c4dd6207a9d88614acdc5a60e433b8782c320e58ffe8813f4260dc7cc"
+  },
+  {
+   "n": 14,
+   "id": "conv-49#37",
+   "conversation": "conv-49",
+   "qa_index": 37,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "5cdcd7ff58dd8698a6436c94e74bd84bc0229e75ed8b5b5ea0ece262f7b597cd"
+  },
+  {
+   "n": 15,
+   "id": "conv-42#46",
+   "conversation": "conv-42",
+   "qa_index": 46,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "7be217b2cb18882609965c76279109b31bb7785b0588feec401dfc84746049a9"
+  },
+  {
+   "n": 16,
+   "id": "conv-50#66",
+   "conversation": "conv-50",
+   "qa_index": 66,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "e2e75fe07a739768959f9c1fc5f045303bfd5c3fd8ca75ab4d060bfccfe81e2a"
+  },
+  {
+   "n": 17,
+   "id": "conv-49#69",
+   "conversation": "conv-49",
+   "qa_index": 69,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "23b3735e6de3613a5abc23dd539228f08e33070e33f207603a2e00653a3f2835"
+  },
+  {
+   "n": 18,
+   "id": "conv-43#30",
+   "conversation": "conv-43",
+   "qa_index": 30,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "89d6265869d5437a9426aff625fed0959999952d4216b75a758585899f3027ba"
+  },
+  {
+   "n": 19,
+   "id": "conv-41#36",
+   "conversation": "conv-41",
+   "qa_index": 36,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "6caa7863dc9affbd20b4f4dbf3cfca8462cdce028a7535f02c30f2248770b495"
+  },
+  {
+   "n": 20,
+   "id": "conv-44#2",
+   "conversation": "conv-44",
+   "qa_index": 2,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "e40cf62c075383c0fd617686c2d99cab2806c77f3ea77727d6212e7cf54d1157"
+  },
+  {
+   "n": 21,
+   "id": "conv-44#24",
+   "conversation": "conv-44",
+   "qa_index": 24,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "12a2fd421b6bbcaf7390aa215ef46d009215fb8425269fc52e3ca4fbf276c4d3"
+  },
+  {
+   "n": 22,
+   "id": "conv-42#82",
+   "conversation": "conv-42",
+   "qa_index": 82,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "526fbe9a13086ba419926aae548532b40a87532fcfec14498f3a52987fd9acd5"
+  },
+  {
+   "n": 23,
+   "id": "conv-41#32",
+   "conversation": "conv-41",
+   "qa_index": 32,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "5a4325fa3d51cefad0a47f8a2dfa4b7f893b0049fe6b551404577b13060358f0"
+  },
+  {
+   "n": 24,
+   "id": "conv-44#48",
+   "conversation": "conv-44",
+   "qa_index": 48,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "e0efc43868ebf8ba6e3309f53fb7caa9989cc1d2163a4793fcb743405c940ab0"
+  },
+  {
+   "n": 25,
+   "id": "conv-50#24",
+   "conversation": "conv-50",
+   "qa_index": 24,
+   "category": 1,
+   "category_name": "multi-hop",
+   "question_sha256": "94937f9cb54a684b2c709f5fe5b0b5e52d4e50ab9cc0a459fdb25c82f92d4cb1"
+  },
+  {
+   "n": 26,
+   "id": "conv-48#81",
+   "conversation": "conv-48",
+   "qa_index": 81,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "27f8a0bc3c6f29a06dab121677d19e312a54e52adeb235f76b284003ea835e30"
+  },
+  {
+   "n": 27,
+   "id": "conv-49#45",
+   "conversation": "conv-49",
+   "qa_index": 45,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "f68fecbc0ca0f5153a7e8cbf811a5ece4aefab8a620a498626b69616000593f4"
+  },
+  {
+   "n": 28,
+   "id": "conv-48#76",
+   "conversation": "conv-48",
+   "qa_index": 76,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "da7930732c876df6bb7ed2e216c83234f7ba95a450d47fb32a94c171273d1589"
+  },
+  {
+   "n": 29,
+   "id": "conv-47#43",
+   "conversation": "conv-47",
+   "qa_index": 43,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "178cbf9b06985d47135645bed618bc1230ecfed9fcc11cda8cf0497b7cc96eff"
+  },
+  {
+   "n": 30,
+   "id": "conv-49#53",
+   "conversation": "conv-49",
+   "qa_index": 53,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "04e7d97b32446bfa0036454a8991145829d2430b6ad9ea93030645f87bf80f4e"
+  },
+  {
+   "n": 31,
+   "id": "conv-48#38",
+   "conversation": "conv-48",
+   "qa_index": 38,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "9a5a6be73e46d9d27d3857371479f9af5285570b1eeefa50655c6b568fe414fe"
+  },
+  {
+   "n": 32,
+   "id": "conv-44#13",
+   "conversation": "conv-44",
+   "qa_index": 13,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "f8b98c5744ae1dd228c9cc211df6200f43862f7c65b79d01d99e86ba67defd2d"
+  },
+  {
+   "n": 33,
+   "id": "conv-42#16",
+   "conversation": "conv-42",
+   "qa_index": 16,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "3cce575450ec641b6dea148616813db1897b85df639fbd21275cc34c982692cf"
+  },
+  {
+   "n": 34,
+   "id": "conv-47#66",
+   "conversation": "conv-47",
+   "qa_index": 66,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "3d59094cdc3f4f327a9b4398645f14d74c16270a677a81a1b7ef530f3b1ca193"
+  },
+  {
+   "n": 35,
+   "id": "conv-42#35",
+   "conversation": "conv-42",
+   "qa_index": 35,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "ee0893089a747f01b2d17df94a98272c5c8fd399f7ece245561863dc802e6603"
+  },
+  {
+   "n": 36,
+   "id": "conv-41#48",
+   "conversation": "conv-41",
+   "qa_index": 48,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "ad4e30ab49635f7bfc2a4f04fa10ff470f96971bcc699bcc588fcf2b694aef4a"
+  },
+  {
+   "n": 37,
+   "id": "conv-50#52",
+   "conversation": "conv-50",
+   "qa_index": 52,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "67e60be616ee15cbe5144c4d5b77ad57ecfdbdc10e8ae2358cc09f4b296443ef"
+  },
+  {
+   "n": 38,
+   "id": "conv-42#39",
+   "conversation": "conv-42",
+   "qa_index": 39,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "9fdf5605691b3c40722b9e7cd246b7efb7c4bb255af0a63b36bf782f3eb87e75"
+  },
+  {
+   "n": 39,
+   "id": "conv-26#45",
+   "conversation": "conv-26",
+   "qa_index": 45,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "0cf74b246075580c58dfe265ff06e299f367b0dfb06a8c627c13f86d6d4ca747"
+  },
+  {
+   "n": 40,
+   "id": "conv-44#16",
+   "conversation": "conv-44",
+   "qa_index": 16,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "ee9148d920e72ad853afb15171765bd51d32228a691157a50f3efcf36e437cf1"
+  },
+  {
+   "n": 41,
+   "id": "conv-49#35",
+   "conversation": "conv-49",
+   "qa_index": 35,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "a8208ccb278d00f67708add54160457dd29d79995282fef2fba8783ad3e0d43f"
+  },
+  {
+   "n": 42,
+   "id": "conv-26#20",
+   "conversation": "conv-26",
+   "qa_index": 20,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "7aca7d78e47128447784eba326c3fa2b3ab4727aeb287c20b573bf194db213e5"
+  },
+  {
+   "n": 43,
+   "id": "conv-49#24",
+   "conversation": "conv-49",
+   "qa_index": 24,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "4d58c7846e45aa41a03f7507204ec112f227ade901057e0c217fa7ef0295fd67"
+  },
+  {
+   "n": 44,
+   "id": "conv-44#8",
+   "conversation": "conv-44",
+   "qa_index": 8,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "ffbc139efe2e234c03412f0c3ed1461213c8ad982716a699a620b73a383d9c81"
+  },
+  {
+   "n": 45,
+   "id": "conv-47#41",
+   "conversation": "conv-47",
+   "qa_index": 41,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "2da8d1bd638d93237eaeffd212a606039c2115c0539c8d0620cc4903c9e816fc"
+  },
+  {
+   "n": 46,
+   "id": "conv-48#29",
+   "conversation": "conv-48",
+   "qa_index": 29,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "def60e363b32ccca1f20d9659fe136e821935bb1a58aa5ac7c365046eb76a7e0"
+  },
+  {
+   "n": 47,
+   "id": "conv-42#24",
+   "conversation": "conv-42",
+   "qa_index": 24,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "a49c62c67a7e37a37e17195ff9971319582cbeed20f1f5887b13f2e67edb6425"
+  },
+  {
+   "n": 48,
+   "id": "conv-42#77",
+   "conversation": "conv-42",
+   "qa_index": 77,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "a52a9be1161761ac18adccd9266b96e5a47b58b27d552c4f68ba7610e69f9522"
+  },
+  {
+   "n": 49,
+   "id": "conv-49#4",
+   "conversation": "conv-49",
+   "qa_index": 4,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "51d20584b0632373ea39c3d39db43c7ed5318320aeadb08f4cd5758158accf3f"
+  },
+  {
+   "n": 50,
+   "id": "conv-48#45",
+   "conversation": "conv-48",
+   "qa_index": 45,
+   "category": 2,
+   "category_name": "temporal",
+   "question_sha256": "36dca65fd29579e1f9558c5650ad0f6a4028e470d965e845fcb58fd4bf57c5c0"
+  },
+  {
+   "n": 51,
+   "id": "conv-48#36",
+   "conversation": "conv-48",
+   "qa_index": 36,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "69fe65d8e10c8b33bded257e3cd4b187f19508c821c9edbf2eb6a10ef61ead12"
+  },
+  {
+   "n": 52,
+   "id": "conv-42#85",
+   "conversation": "conv-42",
+   "qa_index": 85,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "fdb66867b733f4735ec454491d789407b0cb0b02ca07a4e826e6efc19b6a3e51"
+  },
+  {
+   "n": 53,
+   "id": "conv-48#48",
+   "conversation": "conv-48",
+   "qa_index": 48,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "3f602dcfc024c77e7056627979c51d07cd6108c1ba896fa5e8f4017f094c63c4"
+  },
+  {
+   "n": 54,
+   "id": "conv-43#53",
+   "conversation": "conv-43",
+   "qa_index": 53,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "ceab3aaa8036779df4d69c3c5f673d4b8d8442cfcd7984a2205e45a534a63043"
+  },
+  {
+   "n": 55,
+   "id": "conv-50#13",
+   "conversation": "conv-50",
+   "qa_index": 13,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "d9c37a4bc30bb8a26f958544cee1cf805e3544b88451faca3ce20caddde26e24"
+  },
+  {
+   "n": 56,
+   "id": "conv-47#19",
+   "conversation": "conv-47",
+   "qa_index": 19,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "0d517fcfefa3d429535a502d201ccb55762e6c6e56052ffc3de6f60d631bbc8a"
+  },
+  {
+   "n": 57,
+   "id": "conv-49#57",
+   "conversation": "conv-49",
+   "qa_index": 57,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "39834128ee31dd43c78efe6e90a704a6e1765a7cfb33cd4cf1bcccaafb7c17e3"
+  },
+  {
+   "n": 58,
+   "id": "conv-26#50",
+   "conversation": "conv-26",
+   "qa_index": 50,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "840997a674c073d816c1af15e084e46351a96173cc5cb773b8a366a00caa2de7"
+  },
+  {
+   "n": 59,
+   "id": "conv-41#39",
+   "conversation": "conv-41",
+   "qa_index": 39,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "783c43208a4a5235b6ee640aa86aaaa3fa61e7c2df1f81d3fd95fe91cc4edc9c"
+  },
+  {
+   "n": 60,
+   "id": "conv-48#11",
+   "conversation": "conv-48",
+   "qa_index": 11,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "3365e4694bf74d562ff2be9a8387c482dc96c3f1a4690b83afd38579cfb7c062"
+  },
+  {
+   "n": 61,
+   "id": "conv-49#51",
+   "conversation": "conv-49",
+   "qa_index": 51,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "b4c6fbabfe7ef4b373c508ffd70a824915164a3d93d4879f3fed1119ca18d849"
+  },
+  {
+   "n": 62,
+   "id": "conv-43#8",
+   "conversation": "conv-43",
+   "qa_index": 8,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "e42f4de4dd884f5216da55ba7017515a91f4ce701830b0a301644cc7bf282a65"
+  },
+  {
+   "n": 63,
+   "id": "conv-49#71",
+   "conversation": "conv-49",
+   "qa_index": 71,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "bd446bc716376c0e69672683b0b2bcbb37ba47dded1395578bc0bbfc0fcb93a1"
+  },
+  {
+   "n": 64,
+   "id": "conv-41#64",
+   "conversation": "conv-41",
+   "qa_index": 64,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "32cecbb257184b49d257bd582f0813652e142668660b623f1d3095b61d070d98"
+  },
+  {
+   "n": 65,
+   "id": "conv-50#7",
+   "conversation": "conv-50",
+   "qa_index": 7,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "1e1d8a071e5ceda2e7efa21e397e02bd3bb2677bed7ea16509b4cc6680db83e3"
+  },
+  {
+   "n": 66,
+   "id": "conv-26#14",
+   "conversation": "conv-26",
+   "qa_index": 14,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "8537ab6fd33e3f981c7fc96d3a7e9d131cfc1d12c54f9458649873c245108b5e"
+  },
+  {
+   "n": 67,
+   "id": "conv-43#28",
+   "conversation": "conv-43",
+   "qa_index": 28,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "94c0c6b2cdf71db716fae726ec351265e6274bcaca8d9a446295320a5e43e0e0"
+  },
+  {
+   "n": 68,
+   "id": "conv-44#43",
+   "conversation": "conv-44",
+   "qa_index": 43,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "e238b0c07772101fcb1ae19f32d59f3c490ae9476db1ce20ed7d6ba642b9a4cd"
+  },
+  {
+   "n": 69,
+   "id": "conv-26#69",
+   "conversation": "conv-26",
+   "qa_index": 69,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "e15696858b9179d2193f0526f143603a0c08053ff3c30f37db1255d06046b3e4"
+  },
+  {
+   "n": 70,
+   "id": "conv-42#14",
+   "conversation": "conv-42",
+   "qa_index": 14,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "de041199bce3eba8c888e05743fda5e509f06770b2f9c257ac198a6ccd8ea836"
+  },
+  {
+   "n": 71,
+   "id": "conv-26#81",
+   "conversation": "conv-26",
+   "qa_index": 81,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "7de284759823725780582b4d0ec889d00eca1ee81a5977b7c6aa337a595a0fe4"
+  },
+  {
+   "n": 72,
+   "id": "conv-48#5",
+   "conversation": "conv-48",
+   "qa_index": 5,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "4d1f8d2d3e6f384f31be92a169d36b87e73cfa435bd1419bb3551480e42b52dc"
+  },
+  {
+   "n": 73,
+   "id": "conv-50#21",
+   "conversation": "conv-50",
+   "qa_index": 21,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "7427d20f1fafeb51b0c7fec36f941ca1a8a731c241a3fa4976dd3f346a7f48f2"
+  },
+  {
+   "n": 74,
+   "id": "conv-47#12",
+   "conversation": "conv-47",
+   "qa_index": 12,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "b385ac65303987462a32262fcfb13bdfd890d4eb26e6119674e16cd61551cd4a"
+  },
+  {
+   "n": 75,
+   "id": "conv-43#15",
+   "conversation": "conv-43",
+   "qa_index": 15,
+   "category": 3,
+   "category_name": "open-domain",
+   "question_sha256": "0c4228a4e29c538684a34e075cd0a3ec30866d0fb2181c135ca04794b514c608"
+  },
+  {
+   "n": 76,
+   "id": "conv-50#126",
+   "conversation": "conv-50",
+   "qa_index": 126,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "b9d0888fda07567e6291da116433750d2f91324a1fccfc42b530a7b4daac9134"
+  },
+  {
+   "n": 77,
+   "id": "conv-44#76",
+   "conversation": "conv-44",
+   "qa_index": 76,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "36edbfd2b1d5f9499f13b418568fd2d747eff183e51bd835f5c1cc5065614062"
+  },
+  {
+   "n": 78,
+   "id": "conv-42#128",
+   "conversation": "conv-42",
+   "qa_index": 128,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "d80e37b97eecc819e60510e452765b5919e1b14441558e29d6a1e3f04c6f0942"
+  },
+  {
+   "n": 79,
+   "id": "conv-41#68",
+   "conversation": "conv-41",
+   "qa_index": 68,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "20c340f54cb5ef61c504288701e3f795389dc6b255448a2ce551b9e4db4928d3"
+  },
+  {
+   "n": 80,
+   "id": "conv-30#71",
+   "conversation": "conv-30",
+   "qa_index": 71,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "53213f8a43836de931ddc947c60c981b7661ae8a483e9d2a6840eada929b9213"
+  },
+  {
+   "n": 81,
+   "id": "conv-42#88",
+   "conversation": "conv-42",
+   "qa_index": 88,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "fcc663fb11478ce32d4801ccecec5890927c8abae3bc16479be0382a5cd61603"
+  },
+  {
+   "n": 82,
+   "id": "conv-49#119",
+   "conversation": "conv-49",
+   "qa_index": 119,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "4fbfc72752c850b758cd42caaf59a62795fcdb872a8054a678da2fc360d1f815"
+  },
+  {
+   "n": 83,
+   "id": "conv-50#79",
+   "conversation": "conv-50",
+   "qa_index": 79,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "d0e094e3ed0d2ee30c64d0e77081a1881c6681701c5ad35e716e63cccd997221"
+  },
+  {
+   "n": 84,
+   "id": "conv-42#126",
+   "conversation": "conv-42",
+   "qa_index": 126,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "3e5820cdf187fd00b0a86a534071d71cb97a29c1c56e98cf58de1b00ad82a0df"
+  },
+  {
+   "n": 85,
+   "id": "conv-48#181",
+   "conversation": "conv-48",
+   "qa_index": 181,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "cbb9d61775458ea451e39712908493e9997f29928512bf19aea4c1f86fb27ae8"
+  },
+  {
+   "n": 86,
+   "id": "conv-43#71",
+   "conversation": "conv-43",
+   "qa_index": 71,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "fdf150537e932cf28251b4b79609280d4c97efad2fcaa1ee56204be22ed46621"
+  },
+  {
+   "n": 87,
+   "id": "conv-30#60",
+   "conversation": "conv-30",
+   "qa_index": 60,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "e6ee714ef4afe431397522da9f1ef7f48a9b966bc841c559619e9b0bf92de91e"
+  },
+  {
+   "n": 88,
+   "id": "conv-49#125",
+   "conversation": "conv-49",
+   "qa_index": 125,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "147913ed1b0fb1baa37de87197cc12806753ab80d6c95f1af0620bc70e87fdc4"
+  },
+  {
+   "n": 89,
+   "id": "conv-48#146",
+   "conversation": "conv-48",
+   "qa_index": 146,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "174b6f5768c1697a2ff153f084756d3ad658c2985e9b57bb74c46eb0ad435738"
+  },
+  {
+   "n": 90,
+   "id": "conv-48#141",
+   "conversation": "conv-48",
+   "qa_index": 141,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "746705ac7a95a61fcdb5ec3e96da3124d78891e466dedf0cf0cfff6ae73f3b58"
+  },
+  {
+   "n": 91,
+   "id": "conv-47#78",
+   "conversation": "conv-47",
+   "qa_index": 78,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "3478851341eaf8e47bc1ce074c10744676f258ed19eab374245445a9025b9d5c"
+  },
+  {
+   "n": 92,
+   "id": "conv-41#113",
+   "conversation": "conv-41",
+   "qa_index": 113,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "82e5cb85bc4a129323c51a33997cdb1b3cd59d7fb5aa164bf2f1bb743defc22c"
+  },
+  {
+   "n": 93,
+   "id": "conv-49#86",
+   "conversation": "conv-49",
+   "qa_index": 86,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "9afce461f3f348ef88d722558b38d1a74ad9c18ca08e5ff8f973b36841fcfa4f"
+  },
+  {
+   "n": 94,
+   "id": "conv-48#161",
+   "conversation": "conv-48",
+   "qa_index": 161,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "722c6936dc9ec90cafaca1d35a89b9818a0900776adc9c06a46baa3aa05de103"
+  },
+  {
+   "n": 95,
+   "id": "conv-47#90",
+   "conversation": "conv-47",
+   "qa_index": 90,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "3b531363920e79550d8cb2f2ccfade615dde1d6906c6249655e180a249a7e375"
+  },
+  {
+   "n": 96,
+   "id": "conv-43#77",
+   "conversation": "conv-43",
+   "qa_index": 77,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "6012f51075eb41ad47a12fcbfe4535f8cdbbe1778864706bf4c66739413b3fe2"
+  },
+  {
+   "n": 97,
+   "id": "conv-50#81",
+   "conversation": "conv-50",
+   "qa_index": 81,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "3f7ff389adb2c2d691107127ab894e67a0cfc16a16aca88fe083f277dd0e0a49"
+  },
+  {
+   "n": 98,
+   "id": "conv-30#63",
+   "conversation": "conv-30",
+   "qa_index": 63,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "3c44921b73972d49c6afcfdfd227fc096443262ca756774585767dd41093825a"
+  },
+  {
+   "n": 99,
+   "id": "conv-48#113",
+   "conversation": "conv-48",
+   "qa_index": 113,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "5a7187305ce094f3adbb9112016840975a89706ed11c468d047d6e0334fb29da"
+  },
+  {
+   "n": 100,
+   "id": "conv-48#107",
+   "conversation": "conv-48",
+   "qa_index": 107,
+   "category": 4,
+   "category_name": "single-hop",
+   "question_sha256": "0933c49629a4a16e67bb1c8ac1acb32ca61a9ac77fdc841a570bf05babab9282"
+  },
+  {
+   "n": 101,
+   "id": "conv-48#195",
+   "conversation": "conv-48",
+   "qa_index": 195,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "10aab90b0b6fb6bc6a424c7db4473092e9d59f1d104749173707dc7c50926a8e"
+  },
+  {
+   "n": 102,
+   "id": "conv-47#174",
+   "conversation": "conv-47",
+   "qa_index": 174,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "7a24ee7cc566c1f1ecc5d6b6247bd938227e489787500b9367ebc6aba5130deb"
+  },
+  {
+   "n": 103,
+   "id": "conv-42#216",
+   "conversation": "conv-42",
+   "qa_index": 216,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "5c561a89f2c37411ec0a12be81086ee1a4d0e53c4ca94d16f81b1305da3425e8"
+  },
+  {
+   "n": 104,
+   "id": "conv-49#188",
+   "conversation": "conv-49",
+   "qa_index": 188,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "e0ff07cd5e68ec2584d1955e81a0324dfabfb79e2c57480287b2d0a758824772"
+  },
+  {
+   "n": 105,
+   "id": "conv-30#83",
+   "conversation": "conv-30",
+   "qa_index": 83,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "6207f67cb165136255d955ee1e4e8c666fc00d1dd9497987630015e53bc98446"
+  },
+  {
+   "n": 106,
+   "id": "conv-49#194",
+   "conversation": "conv-49",
+   "qa_index": 194,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "2a59c1dfa38ef66fecd3a44730c24b10c451752010e8166cbc81ff79111e9a42"
+  },
+  {
+   "n": 107,
+   "id": "conv-43#213",
+   "conversation": "conv-43",
+   "qa_index": 213,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "4c115301b4a0689e177b6fba62dc5f4641032938b9d2f1036f9c98190c58fdff"
+  },
+  {
+   "n": 108,
+   "id": "conv-49#171",
+   "conversation": "conv-49",
+   "qa_index": 171,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "a8eb3f240906067f7274803552f6d0975a312a077a03d3ad0c63bc8b31cdb1ba"
+  },
+  {
+   "n": 109,
+   "id": "conv-41#184",
+   "conversation": "conv-41",
+   "qa_index": 184,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "345547aab60c7e001652065f251c259904972c159096f82b9cb66876a85ec536"
+  },
+  {
+   "n": 110,
+   "id": "conv-47#183",
+   "conversation": "conv-47",
+   "qa_index": 183,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "8df1c269d01ccd530140de9144f962e9ac6cd2fdb21305b8e1b605d85b006f6e"
+  },
+  {
+   "n": 111,
+   "id": "conv-42#246",
+   "conversation": "conv-42",
+   "qa_index": 246,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "a213e41c3025a5db483300289a516f3234cee5cdac0231c6ed115d425f36de54"
+  },
+  {
+   "n": 112,
+   "id": "conv-47#188",
+   "conversation": "conv-47",
+   "qa_index": 188,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "74d8f2660036b3a35c1c7c80c0cbedb24522f25b17dd72cc6eaf0edb334dc75b"
+  },
+  {
+   "n": 113,
+   "id": "conv-48#228",
+   "conversation": "conv-48",
+   "qa_index": 228,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "be7cf18f39b4c60c27484504b7a0ff1d554e6e4a66a3ebdd1a2e3a91482aa442"
+  },
+  {
+   "n": 114,
+   "id": "conv-48#211",
+   "conversation": "conv-48",
+   "qa_index": 211,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "3520714d390e373f106216d356550b8cac40a5d2a70308eff14f41fe696c6ce5"
+  },
+  {
+   "n": 115,
+   "id": "conv-42#207",
+   "conversation": "conv-42",
+   "qa_index": 207,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "d24b4ce5502db0b90db2391ea7a00caa82e865bb76bf48604ea040b1e8457914"
+  },
+  {
+   "n": 116,
+   "id": "conv-42#242",
+   "conversation": "conv-42",
+   "qa_index": 242,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "3b50f816d98880aad69bdf85871d3e04f8c776f4177ab2c70a05654e4f70bbe9"
+  },
+  {
+   "n": 117,
+   "id": "conv-48#215",
+   "conversation": "conv-48",
+   "qa_index": 215,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "3b3350855fd4026269e2a8d5b18c6d44cba1f7c080c0f152d4dc33a5b90b9043"
+  },
+  {
+   "n": 118,
+   "id": "conv-47#155",
+   "conversation": "conv-47",
+   "qa_index": 155,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "1d6109d2f62ce443ee7a1b5e3d32f318b85892ca2ec707a57e15c017f37f60d3"
+  },
+  {
+   "n": 119,
+   "id": "conv-41#185",
+   "conversation": "conv-41",
+   "qa_index": 185,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "6d737eea77a84556c2181ae44f0d34854050ba5d054856ecc5db520ca32d7663"
+  },
+  {
+   "n": 120,
+   "id": "conv-49#178",
+   "conversation": "conv-49",
+   "qa_index": 178,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "513e4374240c4bd3fcbe8fa6237852a4ef707bfa77fb569bed328abefe254d65"
+  },
+  {
+   "n": 121,
+   "id": "conv-42#248",
+   "conversation": "conv-42",
+   "qa_index": 248,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "287f6328cb84f1c39b349ffc8a8a5244fae941f6f07dad3dedc38b895dddb280"
+  },
+  {
+   "n": 122,
+   "id": "conv-49#166",
+   "conversation": "conv-49",
+   "qa_index": 166,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "22b555efeda42b64794e1084a6dd42f86941f6219d06019005c8fcacdb7e2933"
+  },
+  {
+   "n": 123,
+   "id": "conv-49#165",
+   "conversation": "conv-49",
+   "qa_index": 165,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "3a04a0a8403b40697fdc31c011d6d0dbfc5362bfc5387f92978f7bf9192b8895"
+  },
+  {
+   "n": 124,
+   "id": "conv-44#125",
+   "conversation": "conv-44",
+   "qa_index": 125,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "69e77933511acfb93b2c36d90299e1eab2dd71f0d06d42a00d2906630caeffc0"
+  },
+  {
+   "n": 125,
+   "id": "conv-47#162",
+   "conversation": "conv-47",
+   "qa_index": 162,
+   "category": 5,
+   "category_name": "adversarial",
+   "question_sha256": "bd30ffe77daee383767f4b0ea98c7747d3103648a959b038e1d912b93461a4a2"
+  }
+ ]
+}

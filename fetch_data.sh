@@ -37,6 +37,23 @@ fetch scripts/prepare_data.py                                   prepare_data.py
 fetch evaluation/judge.py                                       judge.py
 fetch config.py                                                 config.py
 
+# LoCoMo's ten conversations, from which the pool's dialogues are stitched
+# (prepare_data.py). CC BY-NC 4.0: downloaded, never redistributed. Pinned to the
+# commit the H2 study design reads (preregistration/h2/). raw.githubusercontent
+# does not serve this file, so it comes through the repository's raw redirect.
+LOCOMO_SHA=3eb6f2c585f5e1699204e3c3bdf7adc5c28cb376
+fetch_url() {  # <url> <local name>
+  if [ -s "$DEST/$2" ]; then
+    echo "  have  $2"
+  else
+    curl -sSL --fail -o "$DEST/$2.part" "$1"
+    mv "$DEST/$2.part" "$DEST/$2"
+    echo "  got   $2"
+  fi
+}
+echo "Fetching from snap-research/locomo @ ${LOCOMO_SHA:0:7} into data/source/"
+fetch_url "https://github.com/snap-research/locomo/raw/$LOCOMO_SHA/data/locomo10.json" locomo10.json
+
 echo "Checking sha256"
 cd "$DEST"
 if command -v shasum >/dev/null 2>&1; then

@@ -8,3 +8,4 @@ __pycache__/
 .DS_Store
 # annotators' packets for prediction 4 hold the benchmark's text; never redistributed
 preregistration/packets/
+harness/node_modules/

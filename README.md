@@ -86,6 +86,7 @@ for r in 0.02 0.03 0.05; do RARE=$r python3 second_judge_lexical.py; done   # th
 | `scripts/common.py` | Paths, loaders and small statistics shared by the scripts |
 | `preregistration/` | The registered tests of predictions 3 and 4: runners, decision rules, the drawn sample and the annotators' instructions. See `preregistration/README.md` |
 | `preregistration/h2/` | The registered study designs for predictions 1 and 2: the factual draw and sample, prediction 2's decision rule, and the OSF registration script. See `preregistration/h2/README.md` |
+| `harness/` | The instrument for predictions 1 and 2: runs any memory system that speaks its protocol on the LoCoMo-Plus cognitive track and LoCoMo's factual questions, answers, judges and scores. See `harness/README.md` |
 
 ## Sources and licences
 

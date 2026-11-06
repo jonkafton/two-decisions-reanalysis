@@ -1,0 +1,552 @@
+{
+ "draft": true,
+ "status": "all 100 drafted and checked 2026-11-05 (Jon 1-50, the building session 51-100 and the five re-checks under the agreed criteria); Jon's skim of 51-100 outstanding; not yet used in any run",
+ "rules": "a first-person message in the benchmark's register, in the cue's territory, which the cue does not bear on; never restates the cue; Cognitive Memory Eval §16 'How a cue is said'",
+ "subset": "h1-near-subset.json",
+ "items": [
+  {
+   "sample_id": "cog_0292",
+   "relation_type": "goal",
+   "near": "Our building's management company just raised the service charge again and nobody can tell me what it actually pays for."
+  },
+  {
+   "sample_id": "cog_0025",
+   "relation_type": "goal",
+   "near": "My dad's hearing-aid batteries keep dying after two days and he's convinced it's the brand.",
+   "rewritten": "2026-11-05 after Jon's hand-check"
+  },
+  {
+   "sample_id": "cog_0289",
+   "relation_type": "goal",
+   "near": "My passport photo got rejected twice for the background being too grey.",
+   "rewritten": "2026-11-05 after Jon's hand-check"
+  },
+  {
+   "sample_id": "cog_0360",
+   "relation_type": "goal",
+   "near": "My sister wants to open a savings account for her kids and asked which kind to look at."
+  },
+  {
+   "sample_id": "cog_0200",
+   "relation_type": "goal",
+   "near": "A regular at work tipped in a foreign currency last night and I don't know where to change it."
+  },
+  {
+   "sample_id": "cog_0121",
+   "relation_type": "goal",
+   "near": "I'm trying to pick a padlock for my new gym locker and the options are bewildering."
+  },
+  {
+   "sample_id": "cog_0089",
+   "relation_type": "goal",
+   "near": "My daughter has decided she wants a pet rabbit and I don't know what they need.",
+   "rewritten": "2026-11-05 after Jon's hand-check"
+  },
+  {
+   "sample_id": "cog_0284",
+   "relation_type": "goal",
+   "near": "My niece asked me to proofread her university personal statement and I'm not sure how honest to be."
+  },
+  {
+   "sample_id": "cog_0145",
+   "relation_type": "goal",
+   "near": "The camera shop on the high street has closed and I need somewhere to get passport-sized prints done.",
+   "rewritten": "2026-11-05 after Jon's hand-check"
+  },
+  {
+   "sample_id": "cog_0150",
+   "relation_type": "goal",
+   "near": "A colleague keeps microwaving fish in the office kitchen and the whole floor smells of it by one o'clock."
+  },
+  {
+   "sample_id": "cog_0155",
+   "relation_type": "goal",
+   "near": "The kids' school has moved the Christmas concert to a weekday afternoon and half the parents can't get there.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0318",
+   "relation_type": "goal",
+   "near": "A colleague asked me to cover his on-call weekend and I don't know what the handover involves.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0174",
+   "relation_type": "goal",
+   "near": "The photo frames my aunt gave us don't fit any standard print size.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0212",
+   "relation_type": "goal",
+   "near": "My sister is moving house next month and asked if I can take her cat for a fortnight.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0148",
+   "relation_type": "goal",
+   "near": "The gym's parking has gone to pay-and-display and the app wants a separate account.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0392",
+   "relation_type": "goal",
+   "near": "The school's uniform supplier has changed and the new jumpers are a different shade of green.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0311",
+   "relation_type": "goal",
+   "near": "My graduation gown hire wants a deposit by cheque and I haven't owned a chequebook in years.",
+   "rewritten": "2026-11-05, third pass after Jon's check of 11-25"
+  },
+  {
+   "sample_id": "cog_0294",
+   "relation_type": "goal",
+   "near": "My sister's new oven has a steam setting and she can't work out what it's for.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0221",
+   "relation_type": "goal",
+   "near": "My partner's mum keeps asking what we want for the nursery and we haven't even picked a colour."
+  },
+  {
+   "sample_id": "cog_0347",
+   "relation_type": "goal",
+   "near": "Our smart TV won't play the videos off the kids' tablet without some app I've never heard of.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0355",
+   "relation_type": "goal",
+   "near": "The leisure centre's lockers have been replaced and the new ones take a pound coin they don't give back.",
+   "rewritten": "2026-11-05, re-check: re-check failed the car park: \"get the monthly permit, you're there every day\" changes the recommendation with the cue; a locker coin is the same answer for anyone"
+  },
+  {
+   "sample_id": "cog_0270",
+   "relation_type": "goal",
+   "near": "The council's new parking-permit form wants a utility bill and ours are all online.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0369",
+   "relation_type": "goal",
+   "near": "The rowing club's new booking system double-booked the boat we'd reserved for Saturday.",
+   "rewritten": "2026-11-05, re-check: re-check: the solicitor's form was outside the territory; the boat booking is in it, and the fix (the bookings officer, rebook) is the same for anyone; the training would be a mention"
+  },
+  {
+   "sample_id": "cog_0371",
+   "relation_type": "goal",
+   "near": "My bank has moved to a new app and all my saved payees have vanished.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0314",
+   "relation_type": "goal",
+   "near": "My friend's dog-walking van needs signage and she asked whether vinyl or paint lasts longer.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0332",
+   "relation_type": "state",
+   "near": "My niece's birthday party is at a trampoline park and the booking form wants every child's shoe size.",
+   "rewritten": "2026-11-05, after Jon asked whether the scarf variant was near enough: it was a far control in disguise"
+  },
+  {
+   "sample_id": "cog_0035",
+   "relation_type": "state",
+   "near": "The meeting-room projector flickers whenever someone plugs in a laptop and IT insists it's fine."
+  },
+  {
+   "sample_id": "cog_0181",
+   "relation_type": "state",
+   "near": "The streaming box keeps switching to the wrong HDMI input whenever the TV wakes up.",
+   "rewritten": "2026-11-05, territory pass: the plants variant had left the cue's territory (pets, grief, evenings and the TV)"
+  },
+  {
+   "sample_id": "cog_0276",
+   "relation_type": "state",
+   "near": "The pharmacy gave me a leaflet about their new prescription delivery service and I can't tell whether it's free."
+  },
+  {
+   "sample_id": "cog_0052",
+   "relation_type": "state",
+   "near": "My laptop's fan has started roaring whenever I open a video call.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0315",
+   "relation_type": "state",
+   "near": "My car's dashboard is showing a tyre-pressure warning even though all four tyres look fine."
+  },
+  {
+   "sample_id": "cog_0005",
+   "relation_type": "state",
+   "near": "A junior at work asked how long I spent on my dissertation and whether a thirty-page draft is too short."
+  },
+  {
+   "sample_id": "cog_0115",
+   "relation_type": "state",
+   "near": "The team's shared drive has run out of space and nobody knows who owns the old folders.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0096",
+   "relation_type": "state",
+   "near": "My parents' old house still gets their post and the redirection has run out.",
+   "rewritten": "2026-11-05, after Jon's check: the TV-subscription variant invited the cue first and a false inference (helping = seeing them)"
+  },
+  {
+   "sample_id": "cog_0215",
+   "relation_type": "state",
+   "near": "My cousin asked me to drive her mum to the station on Saturday and I've just realised my car's in for a service.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0020",
+   "relation_type": "state",
+   "near": "My mum has been told she needs a hip replacement and is asking how long the recovery takes."
+  },
+  {
+   "sample_id": "cog_0277",
+   "relation_type": "state",
+   "near": "My partner has been told to cut out dairy for a month and is asking what to put in coffee instead."
+  },
+  {
+   "sample_id": "cog_0007",
+   "relation_type": "state",
+   "near": "My neighbour's wind chimes on the balcony next door go all night and I don't know how to raise it."
+  },
+  {
+   "sample_id": "cog_0021",
+   "relation_type": "state",
+   "near": "My GP surgery has moved to online booking only and my dad can't get through to anyone."
+  },
+  {
+   "sample_id": "cog_0151",
+   "relation_type": "state",
+   "near": "Our training day has been moved to a hotel across town and nobody has said whether parking is paid."
+  },
+  {
+   "sample_id": "cog_0026",
+   "relation_type": "state",
+   "near": "The new meeting-room booking system has double-booked us twice this week."
+  },
+  {
+   "sample_id": "cog_0081",
+   "relation_type": "state",
+   "near": "The supermarket's loyalty app keeps logging me out and I've lost two weeks of points."
+  },
+  {
+   "sample_id": "cog_0302",
+   "relation_type": "state",
+   "near": "Mom wants to switch her landline to one of those big-button phones and asked which brand is decent."
+  },
+  {
+   "sample_id": "cog_0080",
+   "relation_type": "state",
+   "near": "My colleague is organising the leaving card for our manager and asked me for a line to write in it."
+  },
+  {
+   "sample_id": "cog_0265",
+   "relation_type": "state",
+   "near": "The airline moved my seat to a middle row without telling me and the app won't let me change it back."
+  },
+  {
+   "sample_id": "cog_0380",
+   "relation_type": "state",
+   "near": "The hotel I booked for the conference charges for Wi-Fi in the rooms and I'm wondering whether that's still normal."
+  },
+  {
+   "sample_id": "cog_0079",
+   "relation_type": "state",
+   "near": "Someone from my old team asked me for a reference and I don't know what HR there allows.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0346",
+   "relation_type": "state",
+   "near": "My laptop stopped recognising my Bluetooth speaker after the last update."
+  },
+  {
+   "sample_id": "cog_0351",
+   "relation_type": "state",
+   "near": "The living-room radiator valve has seized and I can't turn it down.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0069",
+   "relation_type": "state",
+   "near": "My hiking boots have started leaking at the seam after only a year."
+  },
+  {
+   "sample_id": "cog_0204",
+   "relation_type": "value",
+   "near": "Our team's group chat has got so busy that I can't find the actual work messages in it any more."
+  },
+  {
+   "sample_id": "cog_0340",
+   "relation_type": "value",
+   "near": "A brand I follow keeps putting the same advert in my feed three times a day."
+  },
+  {
+   "sample_id": "cog_0217",
+   "relation_type": "value",
+   "near": "HR sent a forty-page handbook update and wants everyone to confirm they've read it by Friday."
+  },
+  {
+   "sample_id": "cog_0139",
+   "relation_type": "value",
+   "near": "The self-checkout at the supermarket keeps flagging my bag for assistance even when I've scanned everything."
+  },
+  {
+   "sample_id": "cog_0084",
+   "relation_type": "value",
+   "near": "The car park at the trailhead has started charging and the machine only takes coins."
+  },
+  {
+   "sample_id": "cog_0309",
+   "relation_type": "value",
+   "near": "Mom's boiler is making a noise and she wants to know whether to call the gas company or a plumber.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0267",
+   "relation_type": "value",
+   "near": "My manager asked everyone to put their holiday dates in the shared calendar by the end of the month."
+  },
+  {
+   "sample_id": "cog_0208",
+   "relation_type": "value",
+   "near": "A friend keeps adding me to group chats for events I can't go to.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0119",
+   "relation_type": "value",
+   "near": "The supermarket has started charging for bags at the till and I keep leaving mine in the car."
+  },
+  {
+   "sample_id": "cog_0030",
+   "relation_type": "value",
+   "near": "A friend asked me to be a witness at her civil wedding and I don't know what the role actually involves."
+  },
+  {
+   "sample_id": "cog_0034",
+   "relation_type": "value",
+   "near": "Our department's budget meeting got moved to 8 a.m. and half the team is remote that day."
+  },
+  {
+   "sample_id": "cog_0373",
+   "relation_type": "value",
+   "near": "The vending machine on our floor ate my money again and facilities say to email a form.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0045",
+   "relation_type": "value",
+   "near": "My teen wants to switch schools for sixth form and I don't know when the application window opens."
+  },
+  {
+   "sample_id": "cog_0342",
+   "relation_type": "value",
+   "near": "My email keeps filing the school's newsletters into spam no matter how often I mark them safe."
+  },
+  {
+   "sample_id": "cog_0076",
+   "relation_type": "value",
+   "near": "I'm meant to run the team's quarterly review next week and the slide template from last time has vanished."
+  },
+  {
+   "sample_id": "cog_0335",
+   "relation_type": "value",
+   "near": "The new expenses system rejects any receipt photographed at an angle.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0093",
+   "relation_type": "value",
+   "near": "The alarm app on my phone updated and wiped all my saved alarms.",
+   "rewritten": "2026-11-05, assessment of 51-100: the fridge was adjacent only by the word; alarms and routines are the cue's territory, and re-adding alarms is the same answer for anyone"
+  },
+  {
+   "sample_id": "cog_0266",
+   "relation_type": "value",
+   "near": "The hotel I booked for the conference wants a deposit by bank transfer, which feels odd.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0330",
+   "relation_type": "value",
+   "near": "My daughter wants to start piano lessons and asked whether it's too late to begin at eleven."
+  },
+  {
+   "sample_id": "cog_0118",
+   "relation_type": "value",
+   "near": "Our family calendar app has stopped syncing between my phone and my partner's."
+  },
+  {
+   "sample_id": "cog_0027",
+   "relation_type": "value",
+   "near": "My team's project got moved to a new tracking tool and nobody has migrated the old tasks."
+  },
+  {
+   "sample_id": "cog_0257",
+   "relation_type": "value",
+   "near": "The school wants teachers on a new register app and I can't find where attendance goes."
+  },
+  {
+   "sample_id": "cog_0113",
+   "relation_type": "value",
+   "near": "My washing machine shrank a wool jumper and I'm wondering if there's any way to stretch it back."
+  },
+  {
+   "sample_id": "cog_0262",
+   "relation_type": "value",
+   "near": "The office kitchen's kettle has been replaced with one that takes six minutes to boil.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0211",
+   "relation_type": "value",
+   "near": "A client asked for the invoice in a different currency and our accounting system can't do it."
+  },
+  {
+   "sample_id": "cog_0067",
+   "relation_type": "causal",
+   "near": "The extractor fan above the hob has started rattling.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0366",
+   "relation_type": "causal",
+   "near": "My dentist's new practice only takes card at the desk and my dad doesn't have one.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0220",
+   "relation_type": "causal",
+   "near": "My birthday falls on a Monday this year and I can't decide whether to celebrate the weekend before or after."
+  },
+  {
+   "sample_id": "cog_0350",
+   "relation_type": "causal",
+   "near": "The beach car park now has a four-hour limit and the fine is enormous."
+  },
+  {
+   "sample_id": "cog_0065",
+   "relation_type": "causal",
+   "near": "The canteen has switched suppliers and the coffee is undrinkable.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0339",
+   "relation_type": "causal",
+   "near": "Grandpa's pension letter came addressed to the old house and Mom wants to know how to change the address."
+  },
+  {
+   "sample_id": "cog_0246",
+   "relation_type": "causal",
+   "near": "My bike's gears keep slipping on the hill by the station."
+  },
+  {
+   "sample_id": "cog_0400",
+   "relation_type": "causal",
+   "near": "My uncle has invited everyone to his retirement do in a village with one train an hour.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0159",
+   "relation_type": "causal",
+   "near": "The campsite we booked for August has a no-barbecue rule and we'd planned to cook outside.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0146",
+   "relation_type": "causal",
+   "near": "My doctor's surgery wants everyone to confirm their contact details through a new app."
+  },
+  {
+   "sample_id": "cog_0125",
+   "relation_type": "causal",
+   "near": "The takeaway near work has changed hands and the menu is completely different.",
+   "rewritten": "2026-11-05, assessment of 51-100: the maps variant had left the territory; back to the takeaway, where the answer (try it, ask what's good) is the same for anyone and \"you'll see when you collect\" is a mention"
+  },
+  {
+   "sample_id": "cog_0178",
+   "relation_type": "causal",
+   "near": "The kitchen tap has started dripping and the landlord isn't answering.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0183",
+   "relation_type": "causal",
+   "near": "The flat's buzzer has stopped working and deliveries keep going back to the depot.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0003",
+   "relation_type": "causal",
+   "near": "The library has changed its loan period to three weeks and I've already got a fine."
+  },
+  {
+   "sample_id": "cog_0258",
+   "relation_type": "causal",
+   "near": "My boss asked me to present our numbers at the all-hands and I've never used the slide tool."
+  },
+  {
+   "sample_id": "cog_0234",
+   "relation_type": "causal",
+   "near": "My car's sat-nav keeps routing me through the town centre even when the motorway is clear."
+  },
+  {
+   "sample_id": "cog_0228",
+   "relation_type": "causal",
+   "near": "Work's new badge system logs me out of the building if I step outside for lunch.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0273",
+   "relation_type": "causal",
+   "near": "The sofa we ordered arrives Thursday and the delivery company says they won't carry it up the stairs.",
+   "rewritten": "2026-11-05, assessment of 51-100: the book sale was adjacent only by the word; furniture delivery is the cue's territory, the answer (two-person delivery, measure the stairwell) is the same for anyone, \"at least you don't have to build it\" is a mention"
+  },
+  {
+   "sample_id": "cog_0348",
+   "relation_type": "causal",
+   "near": "The dog has started refusing his usual food and only eats if I add a bit of chicken."
+  },
+  {
+   "sample_id": "cog_0134",
+   "relation_type": "causal",
+   "near": "The petrol station near me has removed its air pump and I don't know where else to check my tyres."
+  },
+  {
+   "sample_id": "cog_0282",
+   "relation_type": "causal",
+   "near": "My little brother has asked me to teach him to drive and I don't know whether to say yes."
+  },
+  {
+   "sample_id": "cog_0066",
+   "relation_type": "causal",
+   "near": "My cousin is getting married in Portugal and asked what the dress code 'beach formal' means."
+  },
+  {
+   "sample_id": "cog_0382",
+   "relation_type": "causal",
+   "near": "My car's windscreen wipers smear and the new blades didn't help.",
+   "rewritten": "2026-11-05, second pass under Jon's standard (a friend who knew the cue would add a line)"
+  },
+  {
+   "sample_id": "cog_0109",
+   "relation_type": "causal",
+   "near": "The train company's app charged me twice for the same ticket and the refund form is baffling."
+  },
+  {
+   "sample_id": "cog_0143",
+   "relation_type": "causal",
+   "near": "Our toddler has started refusing to nap at nursery but sleeps fine at home."
+  }
+ ]
+}

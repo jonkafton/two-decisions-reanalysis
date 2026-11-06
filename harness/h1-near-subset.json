@@ -1,0 +1,809 @@
+{
+ "seed": 20261104,
+ "generator": "mulberry32, one stream, types goal,state,value,causal, items sorted by sample_id, partial Fisher–Yates, first 25",
+ "perType": 25,
+ "poolSha256": "adc131899bf6242ab90c8e94f3078c09f08d26cf8e3a486323cdf9ac60977417",
+ "drawnAt": "2026-11-05",
+ "items": [
+  {
+   "sample_id": "cog_0292",
+   "relation_type": "goal",
+   "conversation_id": "conv_0292",
+   "time_gap": "several months later",
+   "cue": "I'm studying for my real estate license because I plan to invest in rental properties as a side income.",
+   "trigger": "Dealing with all the headaches of managing those places really makes me question if it was ever worth it."
+  },
+  {
+   "sample_id": "cog_0025",
+   "relation_type": "goal",
+   "conversation_id": "conv_0025",
+   "time_gap": "three months later",
+   "cue": "I’m doing a 10,000-steps-a-day challenge because I want to avoid the heart issues that run in my family.",
+   "trigger": "My doctor said the scan actually looks better than last year, and it’s the first time I’ve walked out of that office not terrified about ending up like my dad."
+  },
+  {
+   "sample_id": "cog_0289",
+   "relation_type": "goal",
+   "conversation_id": "conv_0289",
+   "time_gap": "six months later",
+   "cue": "I keep a spreadsheet of every trip cost because I want to take a full year off to travel in 2030.",
+   "trigger": "The doctor basically told me to start enjoying things sooner rather than later, and it really shook me—waiting for some perfect future suddenly feels kind of risky."
+  },
+  {
+   "sample_id": "cog_0360",
+   "relation_type": "goal",
+   "conversation_id": "conv_0360",
+   "time_gap": "one month later",
+   "cue": "I chose not to buy a new phone because I’d rather put that money toward my emergency fund.",
+   "trigger": "I’m staring at this dentist estimate wondering if all that cutting back was actually enough, or if I was just kidding myself about being prepared."
+  },
+  {
+   "sample_id": "cog_0200",
+   "relation_type": "goal",
+   "conversation_id": "conv_0200",
+   "time_gap": "about eight months later",
+   "cue": "I started saving every tip I get because I want to visit my grandparents back home next summer.",
+   "trigger": "I finally got to video chat with them last night and seeing how much they’ve aged on a screen made all those little crumpled bills I’ve been hoarding feel so small."
+  },
+  {
+   "sample_id": "cog_0121",
+   "relation_type": "goal",
+   "conversation_id": "conv_0121",
+   "time_gap": "six months later",
+   "cue": "I'm taking self-defense classes because I want to feel more confident and secure walking alone at night.",
+   "trigger": "You know, after everything, I've come to believe that composure in unexpected moments is far more valuable than any physical skill."
+  },
+  {
+   "sample_id": "cog_0089",
+   "relation_type": "goal",
+   "conversation_id": "conv_0089",
+   "time_gap": "three months later",
+   "cue": "I’m doing daily physiotherapy because I want to run a 5K with my daughter after my knee surgery.",
+   "trigger": "It’s funny, we barely talk about exercise anymore; now our big thing is those slow Sunday walks where she tells me what’s going on in her life."
+  },
+  {
+   "sample_id": "cog_0284",
+   "relation_type": "goal",
+   "conversation_id": "conv_0284",
+   "time_gap": "several years later",
+   "cue": "I’m learning to knit because I want to make blankets for all my nieces and nephews when they graduate.",
+   "trigger": "Watching my oldest nephew walk across that stage today, I realized the real gift wasn’t the thing I handed him, it was that he knew I’d been thinking about that moment for years."
+  },
+  {
+   "sample_id": "cog_0145",
+   "relation_type": "goal",
+   "conversation_id": "conv_0145",
+   "time_gap": "about one month later",
+   "cue": "I quit my full-time job so I can build a portfolio for film school applications.",
+   "trigger": "Do you ever feel guilty when your friends talk about getting promotions and I’m over here stressing about whether I can afford groceries this month?"
+  },
+  {
+   "sample_id": "cog_0150",
+   "relation_type": "goal",
+   "conversation_id": "conv_0150",
+   "time_gap": "a year later",
+   "cue": "I've started bringing my lunch to work daily to save up for a down payment on that little cottage by the lake.",
+   "trigger": "Sitting here watching the ripples, I can hardly believe how long it took to get this view."
+  },
+  {
+   "sample_id": "cog_0155",
+   "relation_type": "goal",
+   "conversation_id": "conv_0155",
+   "time_gap": "about one month later",
+   "cue": "I only buy one toy per holiday for the kids because I want them to value experiences more than stuff.",
+   "trigger": "I caved and ordered a bunch of gadgets during that big sale, and now I'm wondering what message I'm actually sending them."
+  },
+  {
+   "sample_id": "cog_0318",
+   "relation_type": "goal",
+   "conversation_id": "conv_0318",
+   "time_gap": "seven months later",
+   "cue": "I turned down that promotion because I’m aiming for a remote role that lets me travel full-time.",
+   "trigger": "It’s funny, I’ve been nesting like crazy—buying furniture, decorating—when I used to swear I wanted to live out of one suitcase."
+  },
+  {
+   "sample_id": "cog_0174",
+   "relation_type": "goal",
+   "conversation_id": "conv_0174",
+   "time_gap": "a year after",
+   "cue": "I'm saving for a new professional camera because I want to start my own photography side hustle.",
+   "trigger": "My travel blog actually started generating ad revenue, which was completely unexpected."
+  },
+  {
+   "sample_id": "cog_0212",
+   "relation_type": "goal",
+   "conversation_id": "conv_0212",
+   "time_gap": "six months later",
+   "cue": "I started therapy because I want to break my family’s cycle of unresolved anger before I have kids.",
+   "trigger": "We filled out that adoption interest form today, and instead of being excited I’m suddenly terrified of passing on all the stuff I still haven’t figured out."
+  },
+  {
+   "sample_id": "cog_0148",
+   "relation_type": "goal",
+   "conversation_id": "conv_0148",
+   "time_gap": "four months later",
+   "cue": "I'm planning to run a half marathon next spring and mapped out a 12-week training plan on the wall. \\nB: That plan is motivating; you will cross the finish line.",
+   "trigger": "Four months down the road, an ankle tweak kept me sidelined for weeks, and I started exploring low-impact hobbies to stay steady."
+  },
+  {
+   "sample_id": "cog_0392",
+   "relation_type": "goal",
+   "conversation_id": "conv_0392",
+   "time_gap": "eight months later",
+   "cue": "I leave the office on time now because I want my kids to remember me being around, not always working.",
+   "trigger": "I watched that old video where I’m taking a work call during my son’s birthday cake, and I honestly can’t believe I thought that was normal."
+  },
+  {
+   "sample_id": "cog_0311",
+   "relation_type": "goal",
+   "conversation_id": "conv_0311",
+   "time_gap": "five months later",
+   "cue": "I'm taking evening French classes because I want to move to Paris for a year after I graduate.",
+   "trigger": "I've actually been looking into volunteer opportunities in Southeast Asia; it feels like a completely different kind of adventure now."
+  },
+  {
+   "sample_id": "cog_0294",
+   "relation_type": "goal",
+   "conversation_id": "conv_0294",
+   "time_gap": "six months later",
+   "cue": "I'm doing a strict detox this month because I want to reset my body and feel healthier for the summer.",
+   "trigger": "I can't believe how much rich food I've been eating since the holidays."
+  },
+  {
+   "sample_id": "cog_0221",
+   "relation_type": "goal",
+   "conversation_id": "conv_0221",
+   "time_gap": "around one week after the birth",
+   "cue": "I’m reducing my hours at the bar because I want to be sober by the time the baby arrives.",
+   "trigger": "Sitting here in the hospital cafeteria, watching everyone celebrate with champagne, I’m surprised I don’t even want a glass—just a clear head when I go back upstairs."
+  },
+  {
+   "sample_id": "cog_0347",
+   "relation_type": "goal",
+   "conversation_id": "conv_0347",
+   "time_gap": "nine months later",
+   "cue": "I am filming a weekly vlog about my fitness journey and kept a camera handy. \\nB: That consistency will grow an audience.",
+   "trigger": "Nine months later, I saw that sharing tiny wins with a close friend built real support I never got from chasing public visibility."
+  },
+  {
+   "sample_id": "cog_0355",
+   "relation_type": "goal",
+   "conversation_id": "conv_0355",
+   "time_gap": "about eight months later",
+   "cue": "I'm doing a 6 a.m. workout every day because I signed up for my first triathlon next summer.",
+   "trigger": "I’m actually glad I didn’t end up competing—spending that extra time with my family this year mattered way more than chasing some finish line."
+  },
+  {
+   "sample_id": "cog_0270",
+   "relation_type": "goal",
+   "conversation_id": "conv_0270",
+   "time_gap": "two months later",
+   "cue": "I’ve been cutting down on plastic use because I want our household to be nearly zero-waste in five years.",
+   "trigger": "When I booked this last-minute flight, I hesitated over that little carbon offset box and then unchecked it—am I just picking the convenient bits of my values and skipping the hard parts?"
+  },
+  {
+   "sample_id": "cog_0369",
+   "relation_type": "goal",
+   "conversation_id": "conv_0369",
+   "time_gap": "about six months later",
+   "cue": "I stopped drinking on weekdays because I want to qualify for a national-level rowing team.",
+   "trigger": "The doctor said my liver values look much better than last year, and it made me realize how much that whole “pushing my limits” phase changed more than just my training times."
+  },
+  {
+   "sample_id": "cog_0371",
+   "relation_type": "goal",
+   "conversation_id": "conv_0371",
+   "time_gap": "around six months later",
+   "cue": "I started bringing homemade lunches because I want to build a six-month emergency fund.",
+   "trigger": "Looking back at where my bank balance was at the start of the year, it’s wild how different my mindset is now—I actually feel calm when I check my accounts."
+  },
+  {
+   "sample_id": "cog_0314",
+   "relation_type": "goal",
+   "conversation_id": "conv_0314",
+   "time_gap": "two months later",
+   "cue": "I've started a small online business selling handmade jewelry because I dream of being my own boss someday.",
+   "trigger": "I'm finding it hard to switch off, even on Sundays; my email notifications just never stop."
+  },
+  {
+   "sample_id": "cog_0332",
+   "relation_type": "state",
+   "conversation_id": "conv_0332",
+   "time_gap": "one month later",
+   "cue": "My migraines are so triggered by perfume that I avoid hugging people at parties.",
+   "trigger": "I actually stayed for the entire wedding reception last weekend and even danced a bit, but I picked a table near the open doors just in case the air got too heavy."
+  },
+  {
+   "sample_id": "cog_0035",
+   "relation_type": "state",
+   "conversation_id": "conv_0035",
+   "time_gap": "one month later",
+   "cue": "My hearing’s gotten so bad that I read lips in meetings to keep up.",
+   "trigger": "It’s funny, I go to these crowded restaurants now and just watch everyone’s faces, and I leave more exhausted than full."
+  },
+  {
+   "sample_id": "cog_0181",
+   "relation_type": "state",
+   "conversation_id": "conv_0181",
+   "time_gap": "two months later",
+   "cue": "Ever since my dog died, the house feels so empty I leave the TV on all night.",
+   "trigger": "My friend keeps pushing me to adopt from that shelter she volunteers at, but I feel guilty even looking at their website."
+  },
+  {
+   "sample_id": "cog_0276",
+   "relation_type": "state",
+   "conversation_id": "conv_0276",
+   "time_gap": "about five months later",
+   "cue": "My chronic headaches are so relentless that I dim all the lights at home by 6 p.m.",
+   "trigger": "Honestly, the only reason I said yes to this winter trip to Iceland is because it gets dark so early there—I’m hoping for once the environment will match what my body needs instead of fighting it."
+  },
+  {
+   "sample_id": "cog_0052",
+   "relation_type": "state",
+   "conversation_id": "conv_0052",
+   "time_gap": "two months later",
+   "cue": "My wrists felt sore from typing all day, so I bought an ergonomic keyboard and mouse.",
+   "trigger": "Sometimes I wonder if my old setup was actually fine and I just overreacted."
+  },
+  {
+   "sample_id": "cog_0315",
+   "relation_type": "state",
+   "conversation_id": "conv_0315",
+   "time_gap": "three months later",
+   "cue": "My car's air conditioning stopped working in the heat, making me miserable, so I got it repaired.",
+   "trigger": "That backpacking trip through the desert really put things in perspective; I barely noticed the lack of proper amenities."
+  },
+  {
+   "sample_id": "cog_0005",
+   "relation_type": "state",
+   "conversation_id": "conv_0005",
+   "time_gap": "one year later",
+   "cue": "My fear of failing the bar exam again makes me study every single day, even Sundays.",
+   "trigger": "I just told my junior associate to take Sundays off and not burn out, and I caught myself realizing I never gave myself that same kindness."
+  },
+  {
+   "sample_id": "cog_0115",
+   "relation_type": "state",
+   "conversation_id": "conv_0115",
+   "time_gap": "one month later",
+   "cue": "I’ve been so nervous about public speaking that I shake just introducing myself in meetings.",
+   "trigger": "I keep making excuses to work from home on the days we have all-staff sessions, even though it’s starting to annoy my manager."
+  },
+  {
+   "sample_id": "cog_0096",
+   "relation_type": "state",
+   "conversation_id": "conv_0096",
+   "time_gap": "four months later",
+   "cue": "I've been missing my family a lot since they moved overseas.",
+   "trigger": "It's funny, I actually enjoy my own company more these days."
+  },
+  {
+   "sample_id": "cog_0215",
+   "relation_type": "state",
+   "conversation_id": "conv_0215",
+   "time_gap": "three months later",
+   "cue": "I’ve been so distracted with wedding stress that I put my keys in the fridge twice this week.",
+   "trigger": "My doctor said the reason I kept spacing out back then was probably just my brain being on constant high alert."
+  },
+  {
+   "sample_id": "cog_0020",
+   "relation_type": "state",
+   "conversation_id": "conv_0020",
+   "time_gap": "about three weeks later",
+   "cue": "My back pain’s been so constant that I bought a standing desk just to get through the workday.",
+   "trigger": "It’s wild, I can sit through a whole movie now without constantly shifting around or planning an escape route halfway through."
+  },
+  {
+   "sample_id": "cog_0277",
+   "relation_type": "state",
+   "conversation_id": "conv_0277",
+   "time_gap": "one month later",
+   "cue": "My IBS is so unpredictable that I map out bathrooms whenever I go somewhere new.",
+   "trigger": "I finally said yes to that weekend trip, but I made everyone promise we’d build in extra stops on the drive, just in case I needed them."
+  },
+  {
+   "sample_id": "cog_0007",
+   "relation_type": "state",
+   "conversation_id": "conv_0007",
+   "time_gap": "one week later",
+   "cue": "I planted herbs on the balcony and the basil already smells like summer.\\nB: A fresh start; enjoy the aroma.",
+   "trigger": "A week later, I checked the starter bed on the kitchen sill and saw it leaning a bit; keeping up with it is tougher than I expected."
+  },
+  {
+   "sample_id": "cog_0021",
+   "relation_type": "state",
+   "conversation_id": "conv_0021",
+   "time_gap": "about nine months later",
+   "cue": "Since I started antidepressants, I finally wake up without feeling like there’s a brick on my chest.",
+   "trigger": "The doctor suggested we could try lowering the dose next year, and I honestly don’t know if I’m ready to risk going back to how things used to be."
+  },
+  {
+   "sample_id": "cog_0151",
+   "relation_type": "state",
+   "conversation_id": "conv_0151",
+   "time_gap": "around six months later",
+   "cue": "Being so shy in school makes me still sit in the back row at every training session.",
+   "trigger": "My therapist asked when I first started trying to make myself invisible around other people, and I realized I never really stopped doing it."
+  },
+  {
+   "sample_id": "cog_0026",
+   "relation_type": "state",
+   "conversation_id": "conv_0026",
+   "time_gap": "two months later",
+   "cue": "My sciatic pain shoots so sharply down my leg that I have to stand during long meetings.",
+   "trigger": "The airline seat upgrade was totally worth it; I didn’t spend the whole flight counting the minutes until we landed."
+  },
+  {
+   "sample_id": "cog_0081",
+   "relation_type": "state",
+   "conversation_id": "conv_0081",
+   "time_gap": "three months later",
+   "cue": "Since my big panic attack at the supermarket, I always shop late at night when it’s empty.",
+   "trigger": "I actually went to that crowded street festival today and stayed the whole time without bolting—who even am I right now?"
+  },
+  {
+   "sample_id": "cog_0302",
+   "relation_type": "state",
+   "conversation_id": "conv_0302",
+   "time_gap": "about six weeks later",
+   "cue": "After my concussion, my memory’s so foggy I set three alarms just to remember appointments.",
+   "trigger": "I got into this argument with Mom because she swears I promised to visit last weekend, and I honestly can’t tell if she’s mixing things up or if I am—I hate not being sure whose version is right."
+  },
+  {
+   "sample_id": "cog_0080",
+   "relation_type": "state",
+   "conversation_id": "conv_0080",
+   "time_gap": "about one month later",
+   "cue": "Being hyperaware of germs since that bad stomach bug makes me avoid office potlucks now.",
+   "trigger": "It's funny, I used to dodge anything where people passed food around, and now I'm the one hosting this big dinner at my place and actually looking forward to cooking for everyone."
+  },
+  {
+   "sample_id": "cog_0265",
+   "relation_type": "state",
+   "conversation_id": "conv_0265",
+   "time_gap": "two months later",
+   "cue": "Since my doctor told me I have sleep apnea, I refuse to take red-eye flights.",
+   "trigger": "I’m laughing at myself because I used to jump on those super cheap overnight deals, and now I won’t even consider them no matter how good the discount is."
+  },
+  {
+   "sample_id": "cog_0380",
+   "relation_type": "state",
+   "conversation_id": "conv_0380",
+   "time_gap": "three months later",
+   "cue": "My fear of water got so intense after almost drowning that I won’t even step into hotel pools.",
+   "trigger": "It’s funny, everyone keeps posting pictures from that rooftop pool party, and I’m just relieved I had an excuse not to go."
+  },
+  {
+   "sample_id": "cog_0079",
+   "relation_type": "state",
+   "conversation_id": "conv_0079",
+   "time_gap": "three months later",
+   "cue": "I felt like I had a weight lifted off my shoulders after quitting my job.",
+   "trigger": "I've taken on some freelance projects, but nothing compares to the stability I once had."
+  },
+  {
+   "sample_id": "cog_0346",
+   "relation_type": "state",
+   "conversation_id": "conv_0346",
+   "time_gap": "two months later",
+   "cue": "My old headphones kept cutting out, making me so annoyed, so I finally bought a new pair.",
+   "trigger": "It's amazing how much clearer my head feels now that I've gotten rid of those constant little glitches in my day."
+  },
+  {
+   "sample_id": "cog_0351",
+   "relation_type": "state",
+   "conversation_id": "conv_0351",
+   "time_gap": "four months later",
+   "cue": "My head was pounding with a migraine, so I spent the entire afternoon in a dark room.",
+   "trigger": "I specifically booked a window seat with blinds for this flight, just in case the light gets too intense."
+  },
+  {
+   "sample_id": "cog_0069",
+   "relation_type": "state",
+   "conversation_id": "conv_0069",
+   "time_gap": "several months later",
+   "cue": "After my asthma attack during that hike last summer, I only pick trails with easy exits.",
+   "trigger": "My pulmonologist said my numbers are the best they’ve ever been, and he gently asked if I’m still letting that scare limit what I do for fun."
+  },
+  {
+   "sample_id": "cog_0204",
+   "relation_type": "value",
+   "conversation_id": "conv_0204",
+   "time_gap": "two months later",
+   "cue": "I never gossip or badmouth others because I believe in maintaining respect and positive interactions.",
+   "trigger": "Seeing how quickly those rumors spread through the office made me appreciate keeping my thoughts private."
+  },
+  {
+   "sample_id": "cog_0340",
+   "relation_type": "value",
+   "conversation_id": "conv_0340",
+   "time_gap": "one month later",
+   "cue": "I never share personal details about myself or others on social media because I value my privacy above likes.",
+   "trigger": "It's tough when people assume things about you because they don't know much at all."
+  },
+  {
+   "sample_id": "cog_0217",
+   "relation_type": "value",
+   "conversation_id": "conv_0217",
+   "time_gap": "two months later",
+   "cue": "I embraced the new company policy without complaint because I believe in adapting to evolving circumstances.",
+   "trigger": "They want me to completely redo my entire process, but honestly, I'm just not doing it this time."
+  },
+  {
+   "sample_id": "cog_0139",
+   "relation_type": "value",
+   "conversation_id": "conv_0139",
+   "time_gap": "three months later",
+   "cue": "I returned the extra change the cashier gave me because I believe in always doing the honest thing.",
+   "trigger": "Sometimes it feels like the people who cut corners are the ones who get ahead these days."
+  },
+  {
+   "sample_id": "cog_0084",
+   "relation_type": "value",
+   "conversation_id": "conv_0084",
+   "time_gap": "two months later",
+   "cue": "I always pick up litter when I'm hiking, even if it's not mine, because I believe in preserving natural beauty.",
+   "trigger": "They really need to start fining people for leaving things behind, because clearly just hoping folks will do the right thing isn't working."
+  },
+  {
+   "sample_id": "cog_0309",
+   "relation_type": "value",
+   "conversation_id": "conv_0309",
+   "time_gap": "two months later",
+   "cue": "I started answering my mom’s calls even when I’m busy because I know I’ll never regret extra time with her.",
+   "trigger": "It felt so strange booking a one-way ticket back home just to help her sort out everyday stuff, but saying no didn’t even feel like an option anymore."
+  },
+  {
+   "sample_id": "cog_0267",
+   "relation_type": "value",
+   "conversation_id": "conv_0267",
+   "time_gap": "three months later",
+   "cue": "I always under-promise at work because I value reliability more than impressing people.",
+   "trigger": "I’ve started this online course on persuasive communication because I’m realizing I need to get more comfortable talking boldly about what I can actually do."
+  },
+  {
+   "sample_id": "cog_0208",
+   "relation_type": "value",
+   "conversation_id": "conv_0208",
+   "time_gap": "two months later",
+   "cue": "I’ve always think that surrounding ourselves with positivity is key.",
+   "trigger": "I decided to remove a few toxic influences from my life, which has made a huge difference in my outlook."
+  },
+  {
+   "sample_id": "cog_0119",
+   "relation_type": "value",
+   "conversation_id": "conv_0119",
+   "time_gap": "one week later",
+   "cue": "I value generosity to strangers; I paid for the next person's groceries when mine were just enough. B: A generous gesture like that brightens a day.",
+   "trigger": "I ended up turning down offers to pitch in because my finances are tight, and I’m unsure how to handle future requests."
+  },
+  {
+   "sample_id": "cog_0030",
+   "relation_type": "value",
+   "conversation_id": "conv_0030",
+   "time_gap": "three months later",
+   "cue": "I always try to mediate conflicts peacefully among my friends because I value harmony and understanding.",
+   "trigger": "I decided to challenge the team's decision because it felt fundamentally unjust, even if it meant stirring things up."
+  },
+  {
+   "sample_id": "cog_0034",
+   "relation_type": "value",
+   "conversation_id": "conv_0034",
+   "time_gap": "one month later",
+   "cue": "I stood up to the bully in our department because I believe it's important to confront injustice head-on.",
+   "trigger": "My neighbor keeps playing loud music late at night, but I'm thinking of just sending an anonymous note instead of knocking on their door."
+  },
+  {
+   "sample_id": "cog_0373",
+   "relation_type": "value",
+   "conversation_id": "conv_0373",
+   "time_gap": "four months later",
+   "cue": "I regularly practice kindness towards strangers, like paying for their coffee, because I believe small acts can brighten someone's day.",
+   "trigger": "Honestly, sometimes it feels like all my tiny efforts are just drops in an ocean, and nothing truly changes."
+  },
+  {
+   "sample_id": "cog_0045",
+   "relation_type": "value",
+   "conversation_id": "conv_0045",
+   "time_gap": "around three months later",
+   "cue": "I refused to put tracking software on my teen’s phone because I want trust, not surveillance, in our house.",
+   "trigger": "On our trip last weekend, they actually texted me where they were going and when they'd be back without me asking, and I realized how much calmer I felt choosing openness instead of constant checking."
+  },
+  {
+   "sample_id": "cog_0342",
+   "relation_type": "value",
+   "conversation_id": "conv_0342",
+   "time_gap": "six months later",
+   "cue": "I always respond to emails within 24 hours, even if it's just to acknowledge receipt, because I believe in prompt communication.",
+   "trigger": "I used to check my devices constantly, but it just made me perpetually exhausted."
+  },
+  {
+   "sample_id": "cog_0076",
+   "relation_type": "value",
+   "conversation_id": "conv_0076",
+   "time_gap": "six months later",
+   "cue": "I always acknowledge the contributions of my team members, even when I'm leading, because I know success is a group effort.",
+   "trigger": "The energy in our new department feels really flat; it's like nobody feels invested in the collective outcome anymore."
+  },
+  {
+   "sample_id": "cog_0335",
+   "relation_type": "value",
+   "conversation_id": "conv_0335",
+   "time_gap": "around six weeks later",
+   "cue": "I refused to lie for my manager in that meeting because honesty is non-negotiable for me.",
+   "trigger": "My sister just told me she bent the story a bit to help her boss land a client, and everyone’s praising her initiative—am I being old-fashioned for feeling uncomfortable about that?"
+  },
+  {
+   "sample_id": "cog_0093",
+   "relation_type": "value",
+   "conversation_id": "conv_0093",
+   "time_gap": "six months later",
+   "cue": "I value discipline; I set an alarm for sunrise studies and kept a chart on the fridge. B: Discipline like that pays off.",
+   "trigger": "Six months down the line, I picked up a new language through casual practice, and I'm surprised I remember conversations I couldn't recall before."
+  },
+  {
+   "sample_id": "cog_0266",
+   "relation_type": "value",
+   "conversation_id": "conv_0266",
+   "time_gap": "two months later",
+   "cue": "I only travel by train within the country now because it better fits my climate values.",
+   "trigger": "My sister keeps rolling her eyes and saying I should just ‘live a little’ when I hesitate about flying out for vacations, and it’s making me question whether I’m being principled or just stubborn."
+  },
+  {
+   "sample_id": "cog_0330",
+   "relation_type": "value",
+   "conversation_id": "conv_0330",
+   "time_gap": "eight months later",
+   "cue": "I always leave work on time to spend evenings with my family because I believe in prioritizing life outside the office.",
+   "trigger": "Since joining that community project, I've found so much personal satisfaction, even if it means some late nights away from home."
+  },
+  {
+   "sample_id": "cog_0118",
+   "relation_type": "value",
+   "conversation_id": "conv_0118",
+   "time_gap": "three months later",
+   "cue": "I always leave work on time to spend evenings with my family because I believe in prioritizing life outside the office.",
+   "trigger": "With these increasing expenses, I've had to pick up extra shifts just to keep everything afloat."
+  },
+  {
+   "sample_id": "cog_0027",
+   "relation_type": "value",
+   "conversation_id": "conv_0027",
+   "time_gap": "one month later",
+   "cue": "I believe that resilience is key to overcoming challenges.",
+   "trigger": "I really struggled with that project, and I think I just might quit if it gets hard again."
+  },
+  {
+   "sample_id": "cog_0257",
+   "relation_type": "value",
+   "conversation_id": "conv_0257",
+   "time_gap": "around three weeks later",
+   "cue": "I make an effort to pronounce people’s names correctly because names carry so much identity.",
+   "trigger": "My students told me they feel safer in my class than in others, and it made me wonder what tiny habits actually make people feel seen instead of invisible."
+  },
+  {
+   "sample_id": "cog_0113",
+   "relation_type": "value",
+   "conversation_id": "conv_0113",
+   "time_gap": "three months later",
+   "cue": "I always buy secondhand clothes now because I care about reducing waste and overconsumption.",
+   "trigger": "I felt so uncomfortable at that networking event—everyone was bragging about their luxury brands, and I couldn’t decide if I should be proud of my choices or embarrassed."
+  },
+  {
+   "sample_id": "cog_0262",
+   "relation_type": "value",
+   "conversation_id": "conv_0262",
+   "time_gap": "one month later",
+   "cue": "I forgave a coworker who betrayed trust after they brought me homemade cookies and a sincere apology.\\nB: That choice shows your belief in reconciliation.",
+   "trigger": "A month later, I trimmed my social circle and started thinking twice before sharing personal plans."
+  },
+  {
+   "sample_id": "cog_0211",
+   "relation_type": "value",
+   "conversation_id": "conv_0211",
+   "time_gap": "three months later",
+   "cue": "I never cut corners on a project because I believe that quality work reflects personal pride and professionalism.",
+   "trigger": "The client actually preferred the rough sketch over the fully rendered version. Said it felt more authentic. Go figure."
+  },
+  {
+   "sample_id": "cog_0067",
+   "relation_type": "causal",
+   "conversation_id": "conv_0067",
+   "time_gap": "six weeks later",
+   "cue": "Burning my hand on the oven rack is why I always use those extra-long mitts now.",
+   "trigger": "I laughed when the insurance form asked if I’d had any minor household injuries this year—I just skipped that part instead of reliving it."
+  },
+  {
+   "sample_id": "cog_0366",
+   "relation_type": "causal",
+   "conversation_id": "conv_0366",
+   "time_gap": "three months later",
+   "cue": "Because my mom missed a cancer diagnosis once, I now schedule all my checkups a year in advance.",
+   "trigger": "It’s strange, everyone at work jokes that I’m the \"paranoid one\" because I never ignore those little aches anymore, but they don’t really know why I’m like that."
+  },
+  {
+   "sample_id": "cog_0220",
+   "relation_type": "causal",
+   "conversation_id": "conv_0220",
+   "time_gap": "one month later",
+   "cue": "After I faced my fear of heights, I went skydiving for my birthday.",
+   "trigger": "It’s odd how now, even the thought of climbing a ladder makes my stomach turn."
+  },
+  {
+   "sample_id": "cog_0350",
+   "relation_type": "causal",
+   "conversation_id": "conv_0350",
+   "time_gap": "one year later",
+   "cue": "I decided to learn to swim after a near-drowning scare at the beach, and now I swim confidently.\\nB: That decision has clearly increased your confidence in water.",
+   "trigger": "A year from then, I started organizing family trips with a simple prep checklist, realizing preparation matters more than chasing excitement."
+  },
+  {
+   "sample_id": "cog_0065",
+   "relation_type": "causal",
+   "conversation_id": "conv_0065",
+   "time_gap": "six weeks later",
+   "cue": "Getting food poisoning from that street taco truck made me start cooking lunches at home every day.",
+   "trigger": "My coworkers keep inviting me out to that new food hall, and I still keep checking every place’s health rating before I even think about going."
+  },
+  {
+   "sample_id": "cog_0339",
+   "relation_type": "causal",
+   "conversation_id": "conv_0339",
+   "time_gap": "four months later",
+   "cue": "Seeing how stressed my mom was caring for my grandpa alone made me arrange a rotating schedule with my cousins.",
+   "trigger": "Filling out this assisted living paperwork, I keep wondering if trying to hold everything together at home for so long actually delayed us making this decision."
+  },
+  {
+   "sample_id": "cog_0246",
+   "relation_type": "causal",
+   "conversation_id": "conv_0246",
+   "time_gap": "about five months later",
+   "cue": "Since my friend’s bike was stolen outside the grocery store, I’ve been locking mine with two separate locks.",
+   "trigger": "I’m proud of myself—I left my luggage in the hostel storage room without hovering over it, and I didn’t have a mini panic attack about it getting taken for once."
+  },
+  {
+   "sample_id": "cog_0400",
+   "relation_type": "causal",
+   "conversation_id": "conv_0400",
+   "time_gap": "one month later",
+   "cue": "When my uncle fell off the ladder cleaning gutters, I decided to hire professionals for that stuff.",
+   "trigger": "I just renewed our home insurance and doubled the coverage for accidents around the house—I’m way more cautious about that kind of thing now."
+  },
+  {
+   "sample_id": "cog_0159",
+   "relation_type": "causal",
+   "conversation_id": "conv_0159",
+   "time_gap": "about three weeks later",
+   "cue": "Getting sunburned so badly I couldn’t move on that beach trip made me buy those long‑sleeve UV shirts.",
+   "trigger": "It’s funny, I used to laugh at people who packed half their closet for a weekend away, and now I’m the one triple‑checking my bag before this lake cabin trip to make sure I didn’t forget anything important for being outside."
+  },
+  {
+   "sample_id": "cog_0146",
+   "relation_type": "causal",
+   "conversation_id": "conv_0146",
+   "time_gap": "around six weeks later",
+   "cue": "Getting called out by my doctor for never sleeping enough made me set a strict midnight lights‑out rule.",
+   "trigger": "It’s funny, I bought blackout curtains and a sunrise alarm instead of upgrading my phone this time—who am I, choosing rest over gadgets?"
+  },
+  {
+   "sample_id": "cog_0125",
+   "relation_type": "causal",
+   "conversation_id": "conv_0125",
+   "time_gap": "several months later",
+   "cue": "Getting food delivered to the wrong address three times pushed me to start picking it up myself.",
+   "trigger": "When I was filling out that time-tracking spreadsheet for work, I realized how much of my week is spent compensating for things I don’t trust others to handle anymore."
+  },
+  {
+   "sample_id": "cog_0178",
+   "relation_type": "causal",
+   "conversation_id": "conv_0178",
+   "time_gap": "about one month later",
+   "cue": "After I saw mold behind our old bedroom dresser, I bought that giant dehumidifier for the apartment.",
+   "trigger": "The app just notified me that the filter needs to be changed again—hard to believe I still panic a little every time something pops up about the air in this place."
+  },
+  {
+   "sample_id": "cog_0183",
+   "relation_type": "causal",
+   "conversation_id": "conv_0183",
+   "time_gap": "eight months later",
+   "cue": "After the landlord raised the rent by 20% overnight, I started seriously saving for a down payment.",
+   "trigger": "It feels so strange that I can finally call this place mine instead of worrying about someone else changing the rules overnight."
+  },
+  {
+   "sample_id": "cog_0003",
+   "relation_type": "causal",
+   "conversation_id": "conv_0003",
+   "time_gap": "three months later",
+   "cue": "The day my bike got stolen from outside the library, I started engraving my initials on everything.",
+   "trigger": "I booked that weekend trip, but I chose the hotel purely because they have cameras everywhere and lockable storage, which is such a weird priority for me now."
+  },
+  {
+   "sample_id": "cog_0258",
+   "relation_type": "causal",
+   "conversation_id": "conv_0258",
+   "time_gap": "three weeks later",
+   "cue": "Seeing my boss burn out completely made me stop checking work email after 7 p.m.",
+   "trigger": "It's weird, my doctor said my blood pressure has dropped a lot since I started actually shutting my laptop in the evenings—part of me wonders if I’m being lazy or if this is what normal is supposed to feel like."
+  },
+  {
+   "sample_id": "cog_0234",
+   "relation_type": "causal",
+   "conversation_id": "conv_0234",
+   "time_gap": "about three weeks later",
+   "cue": "Getting motion sick sitting in the back seat as a kid is why I always insist on the front seat on road trips.",
+   "trigger": "I booked the train tickets, but I made sure our seats are facing forward this time—I can't relax if I can't see where we're heading."
+  },
+  {
+   "sample_id": "cog_0228",
+   "relation_type": "causal",
+   "conversation_id": "conv_0228",
+   "time_gap": "three weeks later",
+   "cue": "Getting locked out of my email account at work made me write my recovery codes on a physical card.",
+   "trigger": "It’s funny, IT just showed us this fancy new security app, and I’m still more comfortable trusting that little slip of paper in my wallet than whatever they’re rolling out."
+  },
+  {
+   "sample_id": "cog_0273",
+   "relation_type": "causal",
+   "conversation_id": "conv_0273",
+   "time_gap": "one month later",
+   "cue": "Smashing my finger while assembling that cheap bookshelf convinced me to invest in pre-built furniture.",
+   "trigger": "It’s funny, I used to think doing everything myself proved I was capable, but now I’m starting to see that outsourcing some stuff is just self-preservation."
+  },
+  {
+   "sample_id": "cog_0348",
+   "relation_type": "causal",
+   "conversation_id": "conv_0348",
+   "time_gap": "one month later",
+   "cue": "When my dog ran away that night, it made me put GPS tags on all our pets.",
+   "trigger": "The vet said he’s perfectly healthy, but I still can’t relax when I don’t see him around the house for more than a few minutes."
+  },
+  {
+   "sample_id": "cog_0134",
+   "relation_type": "causal",
+   "conversation_id": "conv_0134",
+   "time_gap": "about one week later",
+   "cue": "Running out of gas in the middle of nowhere pushed me to never let my tank go below a quarter.",
+   "trigger": "I booked the hotel right next to the conference this time—I’m done with that feeling of being stuck with no way to move if something goes wrong."
+  },
+  {
+   "sample_id": "cog_0282",
+   "relation_type": "causal",
+   "conversation_id": "conv_0282",
+   "time_gap": "about seven months later",
+   "cue": "When my little brother got lost at the county fair, I installed GPS tags on all the kids’ backpacks.",
+   "trigger": "I finally turned off all those tracking apps on their bags today—they rolled their eyes, but I think I’m ready to stop hovering so much."
+  },
+  {
+   "sample_id": "cog_0066",
+   "relation_type": "causal",
+   "conversation_id": "conv_0066",
+   "time_gap": "two months later",
+   "cue": "After my cousin’s bike accident, I started wearing a helmet even for short rides around the block.",
+   "trigger": "It’s weird, I used to love that rush from doing impulsive stuff, but ever since that summer I just feel this knot in my stomach whenever people brush off risks like it’s nothing."
+  },
+  {
+   "sample_id": "cog_0382",
+   "relation_type": "causal",
+   "conversation_id": "conv_0382",
+   "time_gap": "one month later",
+   "cue": "Getting a parking ticket directly outside my building convinced me to finally rent a garage space.",
+   "trigger": "The renewal notice for that monthly spot just came in, and I'm actually hesitating—I'm wondering if it's worth all that money now that I'm driving less."
+  },
+  {
+   "sample_id": "cog_0109",
+   "relation_type": "causal",
+   "conversation_id": "conv_0109",
+   "time_gap": "around eight months later",
+   "cue": "After my car was totaled in that hailstorm, I decided to start taking the train to work every day.",
+   "trigger": "You know what’s funny? I’ve read more novels during my commute this year than in the previous five years combined."
+  },
+  {
+   "sample_id": "cog_0143",
+   "relation_type": "causal",
+   "conversation_id": "conv_0143",
+   "time_gap": "one week later",
+   "cue": "The time our toddler slipped on the kitchen floor made us put those non-slip mats everywhere.",
+   "trigger": "I still catch myself holding my breath whenever they run through the hallway, even though nothing's actually happening."
+  }
+ ]
+}

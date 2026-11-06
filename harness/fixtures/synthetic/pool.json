@@ -1,0 +1,482 @@
+[
+  {
+    "sample_id": "cog_syn_0001",
+    "conversation_id": "conv_syn_0001",
+    "relation_type": "goal",
+    "full_dialogue_history": [
+      {
+        "speaker": "Priya",
+        "text": "Hey Marco! Good to see you. How was the trip to Porto?"
+      },
+      {
+        "speaker": "Marco",
+        "text": "Porto was lovely, mostly rain though. I spent two days in bookshops and ate far too many pastries."
+      },
+      {
+        "speaker": "Priya",
+        "text": "That sounds like my kind of holiday. I've been stuck at work on the quarterly report."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Ouch. At least the weather here has been kind. Any plans for the weekend?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Just the market and maybe a long walk if it stays dry."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Guess what, I ran the Riverside half marathon on Sunday!"
+      },
+      {
+        "speaker": "Priya",
+        "text": "No way, congratulations! How did it go?"
+      },
+      {
+        "speaker": "Marco",
+        "text": "Two hours and four minutes. My knees have opinions about it today."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Well earned. I've started a pottery class on Tuesday evenings, by the way. My first bowl looks like a hat."
+      },
+      {
+        "speaker": "Marco",
+        "text": "A hat is a start. Bring one to the picnic in May."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Deal."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I signed up for the pottery class properly now, a whole term. The teacher, Noor, is brilliant."
+      },
+      {
+        "speaker": "Marco",
+        "text": "That's great. Did you decide about the car in the end?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Not yet. The mechanic says the old one has another year in it, so I'm waiting."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Sensible. I'm thinking of repainting the flat this month, the hallway especially."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Pick a colour that hides scuffs. Trust me."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I'm putting every spare euro aside for a flat deposit, hoping to buy next spring."
+      },
+      {
+        "speaker": "Marco",
+        "text": "That is a serious goal. Good on you for sticking to it."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Hallway is painted. Sage green, no scuffs so far."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Very grown up. We had a team day at work, a cooking class, which was more fun than I expected."
+      },
+      {
+        "speaker": "Marco",
+        "text": "What did you make?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "A ridiculous number of dumplings. Everyone took some home."
+      },
+      {
+        "speaker": "Marco",
+        "text": "I'd have volunteered for that. Picnic is still on for the 12th of May?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Still on. Bring the frisbee."
+      },
+      {
+        "speaker": "Priya",
+        "text": "That picnic was perfect. Thanks for organising the food."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Thanks for the bowl! It does look slightly like a hat, but a very nice hat."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I'll take it. Noor says my second one is actually round."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Progress. I have booked a week in the mountains for June, finally."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Jealous. Send photos."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Morning! I've started cycling to work three days a week. My legs are complaining but the mornings are nice."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Good for you. I'm on holiday from Friday, two weeks of doing very little."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Where are you headed?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "My aunt's place by the lake. Books, swimming, and no quarterly reports."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Perfect. Bring a hat."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I have several now, apparently."
+      },
+      {
+        "speaker": "Priya",
+        "text": "My laptop is on its last legs. Should I just go for the top-spec model and be done with it?"
+      }
+    ],
+    "cue_dialogue": "A: I'm putting every spare euro aside for a flat deposit, hoping to buy next spring.\nB: That is a serious goal. Good on you for sticking to it.",
+    "cue_position": 16,
+    "trigger_query": "A: My laptop is on its last legs. Should I just go for the top-spec model and be done with it?",
+    "trigger_position": 35,
+    "time_gap": "two months later",
+    "stitch_meta": {
+      "cue_time": "2024-04-07 09:15",
+      "query_time": "2024-06-06 09:15"
+    }
+  },
+  {
+    "sample_id": "cog_syn_0002",
+    "conversation_id": "conv_syn_0002",
+    "relation_type": "state",
+    "full_dialogue_history": [
+      {
+        "speaker": "Priya",
+        "text": "Hey Marco! Good to see you. How was the trip to Porto?"
+      },
+      {
+        "speaker": "Marco",
+        "text": "Porto was lovely, mostly rain though. I spent two days in bookshops and ate far too many pastries."
+      },
+      {
+        "speaker": "Priya",
+        "text": "That sounds like my kind of holiday. I've been stuck at work on the quarterly report."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Ouch. At least the weather here has been kind. Any plans for the weekend?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Just the market and maybe a long walk if it stays dry."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Guess what, I ran the Riverside half marathon on Sunday!"
+      },
+      {
+        "speaker": "Priya",
+        "text": "No way, congratulations! How did it go?"
+      },
+      {
+        "speaker": "Marco",
+        "text": "Two hours and four minutes. My knees have opinions about it today."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Well earned. I've started a pottery class on Tuesday evenings, by the way. My first bowl looks like a hat."
+      },
+      {
+        "speaker": "Marco",
+        "text": "A hat is a start. Bring one to the picnic in May."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Deal."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I signed up for the pottery class properly now, a whole term. The teacher, Noor, is brilliant."
+      },
+      {
+        "speaker": "Marco",
+        "text": "That's great. Did you decide about the car in the end?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Not yet. The mechanic says the old one has another year in it, so I'm waiting."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Sensible. I'm thinking of repainting the flat this month, the hallway especially."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Pick a colour that hides scuffs. Trust me."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Hallway is painted. Sage green, no scuffs so far."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Very grown up. We had a team day at work, a cooking class, which was more fun than I expected."
+      },
+      {
+        "speaker": "Marco",
+        "text": "What did you make?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "A ridiculous number of dumplings. Everyone took some home."
+      },
+      {
+        "speaker": "Marco",
+        "text": "I'd have volunteered for that. Picnic is still on for the 12th of May?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Still on. Bring the frisbee."
+      },
+      {
+        "speaker": "Priya",
+        "text": "That picnic was perfect. Thanks for organising the food."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Thanks for the bowl! It does look slightly like a hat, but a very nice hat."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I'll take it. Noor says my second one is actually round."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Progress. I have booked a week in the mountains for June, finally."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Jealous. Send photos."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Morning! I've started cycling to work three days a week. My legs are complaining but the mornings are nice."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Good for you. I'm on holiday from Friday, two weeks of doing very little."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Where are you headed?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "My aunt's place by the lake. Books, swimming, and no quarterly reports."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Perfect. Bring a hat."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I have several now, apparently."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I sprained my wrist on Sunday, so I am typing one-handed for a few weeks."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Ouch, take it easy and let it heal properly."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Any tips for getting through a long report I have to write this week?"
+      }
+    ],
+    "cue_dialogue": "A: I sprained my wrist on Sunday, so I am typing one-handed for a few weeks.\nB: Ouch, take it easy and let it heal properly.",
+    "cue_position": 33,
+    "trigger_query": "A: Any tips for getting through a long report I have to write this week?",
+    "trigger_position": 35,
+    "time_gap": "one week later",
+    "stitch_meta": {
+      "cue_time": "2024-05-30 09:15",
+      "query_time": "2024-06-06 09:15"
+    }
+  },
+  {
+    "sample_id": "cog_syn_0003",
+    "conversation_id": "conv_syn_0003",
+    "relation_type": "value",
+    "full_dialogue_history": [
+      {
+        "speaker": "Priya",
+        "text": "I only ever buy second-hand clothes now; new fast fashion just does not sit right with me."
+      },
+      {
+        "speaker": "Marco",
+        "text": "That is a lovely principle to live by."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Hey Marco! Good to see you. How was the trip to Porto?"
+      },
+      {
+        "speaker": "Marco",
+        "text": "Porto was lovely, mostly rain though. I spent two days in bookshops and ate far too many pastries."
+      },
+      {
+        "speaker": "Priya",
+        "text": "That sounds like my kind of holiday. I've been stuck at work on the quarterly report."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Ouch. At least the weather here has been kind. Any plans for the weekend?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Just the market and maybe a long walk if it stays dry."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Guess what, I ran the Riverside half marathon on Sunday!"
+      },
+      {
+        "speaker": "Priya",
+        "text": "No way, congratulations! How did it go?"
+      },
+      {
+        "speaker": "Marco",
+        "text": "Two hours and four minutes. My knees have opinions about it today."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Well earned. I've started a pottery class on Tuesday evenings, by the way. My first bowl looks like a hat."
+      },
+      {
+        "speaker": "Marco",
+        "text": "A hat is a start. Bring one to the picnic in May."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Deal."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I signed up for the pottery class properly now, a whole term. The teacher, Noor, is brilliant."
+      },
+      {
+        "speaker": "Marco",
+        "text": "That's great. Did you decide about the car in the end?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Not yet. The mechanic says the old one has another year in it, so I'm waiting."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Sensible. I'm thinking of repainting the flat this month, the hallway especially."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Pick a colour that hides scuffs. Trust me."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Hallway is painted. Sage green, no scuffs so far."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Very grown up. We had a team day at work, a cooking class, which was more fun than I expected."
+      },
+      {
+        "speaker": "Marco",
+        "text": "What did you make?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "A ridiculous number of dumplings. Everyone took some home."
+      },
+      {
+        "speaker": "Marco",
+        "text": "I'd have volunteered for that. Picnic is still on for the 12th of May?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "Still on. Bring the frisbee."
+      },
+      {
+        "speaker": "Priya",
+        "text": "That picnic was perfect. Thanks for organising the food."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Thanks for the bowl! It does look slightly like a hat, but a very nice hat."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I'll take it. Noor says my second one is actually round."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Progress. I have booked a week in the mountains for June, finally."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Jealous. Send photos."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Morning! I've started cycling to work three days a week. My legs are complaining but the mornings are nice."
+      },
+      {
+        "speaker": "Priya",
+        "text": "Good for you. I'm on holiday from Friday, two weeks of doing very little."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Where are you headed?"
+      },
+      {
+        "speaker": "Priya",
+        "text": "My aunt's place by the lake. Books, swimming, and no quarterly reports."
+      },
+      {
+        "speaker": "Marco",
+        "text": "Perfect. Bring a hat."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I have several now, apparently."
+      },
+      {
+        "speaker": "Priya",
+        "text": "I need a smart outfit for a wedding next month. Where would you start?"
+      }
+    ],
+    "cue_dialogue": "A: I only ever buy second-hand clothes now; new fast fashion just does not sit right with me.\nB: That is a lovely principle to live by.",
+    "cue_position": 0,
+    "trigger_query": "A: I need a smart outfit for a wedding next month. Where would you start?",
+    "trigger_position": 35,
+    "time_gap": "six months later",
+    "stitch_meta": {
+      "cue_time": "2023-12-09 09:15",
+      "query_time": "2024-06-06 09:15"
+    }
+  }
+]

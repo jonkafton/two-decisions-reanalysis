@@ -1,0 +1,18 @@
+{
+  "name": "two-decisions-harness",
+  "private": true,
+  "description": "The harness for the H1 and H2 study designs (OSF registration xufd9 and its study registration): runs any memory system that speaks system.ts's protocol on LoCoMo-Plus's cognitive track and LoCoMo's factual questions, answers with one model, judges both ways, scores both rules.",
+  "type": "commonjs",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "smoke": "tsx locomo-driver.ts --fixture fixtures/synthetic --system \"tsx systems/none.ts\" --no-judge"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.99.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

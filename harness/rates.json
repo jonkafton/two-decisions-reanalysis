@@ -1,0 +1,6 @@
+{
+  "_note": "Dollars per million tokens, list prices as verified for the registered run's models; used only for the cost figure in summary.json. Pass another file with --rates.",
+  "claude-haiku-5-5": { "input": 0.10, "output": 0.50, "cacheRead": 0.01, "cacheWrite": 0.125, "source": "platform.claude.com pricing, prompts up to 100k tokens, verified 2026-10-07" },
+  "claude-opus-5-5": { "input": 4.00, "output": 20.00, "cacheRead": 0.20, "cacheWrite": 5.00, "source": "platform.claude.com pricing, verified 2026-09-21" },
+  "gemini-2.5-flash": { "input": 0.30, "output": 2.50, "cacheRead": 0.03, "cacheWrite": 0, "source": "ai.google.dev pricing, verified 2026-05" }
+}

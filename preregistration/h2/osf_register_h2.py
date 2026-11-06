@@ -41,6 +41,7 @@ ACCEPT = "application/vnd.api+json;version=2.20"
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent.parent
 PRESENCEAI = Path(os.environ.get("PRESENCEAI_DIR", Path.home() / "PresenceAI"))
+HARNESS = REPO / "harness"                      # the public, system-agnostic instrument
 VAULT_DOC = PRESENCEAI / ("vault/Marketing/Two Decisions Not Three Architectures — Research Paper Review Sources/"
                           "OSF Study Registration — H1 and H2 Study Designs — Draft 2026-11.md")
 BLOCKS = HERE / "osf_blocks_v4.json"             # the template's blocks, fetched from the OSF API on 2026-11-03
@@ -64,29 +65,37 @@ BLINDING = "Researchers or observers who code or interpret data"
 
 # Which file goes under which file-input question of the template
 FILE_PLAN = {
-    # Study design: the manipulated variables as built, excerpted (the planner's switch, the standing state's
-    # switch, the block's writer prompt, limits and rendering, the self-view header, the answer rule and the
-    # judge prompts, cut from the product's modules at a recorded commit by make-registration-excerpts.ts; the
-    # modules themselves are not attached, decided 2026-11-06), the adapter that fixes how a dialogue enters,
-    # and H1's control material (the seeded near subset and its draw, the hand-checked near variants, the far list)
-    "344-42": [PRESENCEAI / "tests/eval/locomo/registration-excerpts.md",
+    # Study design: the protocol any system under test speaks (harness/system.ts, its README, the no-memory
+    # reference system), our implementation of it for the product (presence-system.ts, the one file that touches
+    # the product), the manipulated variables as built, excerpted (the two switches, the block's writer prompt,
+    # limits and rendering, the self-view header, cut from the product's modules at a recorded commit by
+    # make-registration-excerpts.ts; the modules themselves are not attached, decided 2026-11-06), the adapter
+    # that fixes how a dialogue enters, and H1's control material (the seeded near subset and its draw, the
+    # hand-checked near variants, the far list). An entry may be (path, name) when the upload name must differ.
+    "344-42": [(HARNESS / "system.ts", "harness-system.ts"),
+               (HARNESS / "README.md", "harness-README.md"),
+               (HARNESS / "systems/none.ts", "harness-systems-none.ts"),
+               PRESENCEAI / "tests/eval/locomo/presence-system.ts",
+               PRESENCEAI / "tests/eval/locomo/protocol-stdout.ts",
+               PRESENCEAI / "tests/eval/locomo/registration-excerpts.md",
                PRESENCEAI / "tests/eval/locomo/make-registration-excerpts.ts",
-               PRESENCEAI / "tests/eval/locomo/locomo-adapter.ts",
-               PRESENCEAI / "tests/eval/locomo/h1-near-draw.ts",
-               PRESENCEAI / "tests/eval/locomo/h1-near-subset.json",
-               PRESENCEAI / "tests/eval/locomo/h1-near-variants.json",
-               PRESENCEAI / "tests/eval/locomo/h1-far-controls.json",
+               HARNESS / "locomo-adapter.ts",
+               HARNESS / "h1-near-draw.ts",
+               HARNESS / "h1-near-subset.json",
+               HARNESS / "h1-near-variants.json",
+               HARNESS / "h1-far-controls.json",
                # the development set's two runs: the data observed before registration (synthetic cases)
                PRESENCEAI / "tests/eval/results/cognitive-set100-all-both-2026-11-05T15-07-17-merged.json",
                PRESENCEAI / "tests/eval/results/cognitive-set100-all-aside2-both-2026-11-05T17-01-52-merged.json"],
     # Data collection procedures: the driver, the judges, the draw and its sample, the data fetch
-    "344-49": [PRESENCEAI / "tests/eval/locomo/locomo-driver.ts",
-               PRESENCEAI / "tests/eval/locomo/judges.ts",
-               PRESENCEAI / "tests/eval/locomo/published_judge.py",
+    "344-49": [HARNESS / "locomo-driver.ts",
+               HARNESS / "judges.ts",
+               HARNESS / "prompts.ts",
+               HARNESS / "published_judge.py",
                HERE / "p2_draw.py", HERE / "p2_factual_sample.json", HERE / "README.md",
                REPO / "fetch_data.sh", REPO / "data/SOURCE_SHA256"],
     # Statistical models: the two decision rules
-    "344-73": [HERE / "p2_score.py", PRESENCEAI / "tests/eval/locomo/h1-score.ts"],
+    "344-73": [HERE / "p2_score.py", HARNESS / "h1-score.ts"],
 }
 
 
@@ -165,11 +174,13 @@ def build_responses(file_refs=None):
                 + plain(S["Stopping rule"]))
     blinding_extra = plain(S["Blinding"])
     other = (plain(S["Other"]) + "\n\n" + "Projected cost and run time\n\n" + plain(S["Projected cost and run time"]) + "\n\n"
-             + "Files attached to this registration are the excerpts (the two switches, the standing block's writer prompt, limits "
-             "and rendering, the self-view header, the answer rule and the judge prompts, cut from the product's modules at a "
-             "recorded commit, with the script that cuts them), the adapter, H1's seeded near subset with its draw, the "
-             "hand-checked near variants, the far list, and the development set's two run records, the data observed before registration (Study design); the driver, the "
-             "judges, the factual draw with its drawn sample and the data fetch (Data collection procedures); and the two decision "
+             + "Files attached to this registration are the harness's protocol with its README and the no-memory reference system, "
+             "our implementation of the protocol for the system under test, the excerpts (the two switches, the standing block's "
+             "writer prompt, limits and rendering, the self-view header, cut from the product's modules at a recorded commit, with "
+             "the script that cuts them), the adapter, H1's seeded near subset with its draw, the hand-checked near variants, the "
+             "far list, and the development set's two run records, the data observed before registration (Study design); the driver, the "
+             "judges with the fixed texts (the locked cognitive prompt, the answer rule, the use judge's prompt), the factual draw "
+             "with its drawn sample and the data fetch (Data collection procedures); and the two decision "
              "rules (Statistical models). Each file's SHA-256 is recorded by OSF.")
 
     R = {
@@ -239,8 +250,8 @@ def create_draft():
     return draft_id, node_id
 
 
-def upload(node_id, path):
-    name = path.name
+def upload(node_id, path, name=None):
+    name = name or path.name
     url = f"{FILES}/resources/{node_id}/providers/osfstorage/?kind=file&name={urllib.parse.quote(name)}"
     raw = path.read_bytes()
     local = hashlib.sha256(raw).hexdigest()
@@ -273,10 +284,11 @@ def fill(draft_id, node_id):
     refs = {}
     for key, paths in FILE_PLAN.items():
         refs[key] = []
-        for p in paths:
+        for entry in paths:
+            p, name = entry if isinstance(entry, tuple) else (entry, None)
             if not p.exists():
                 raise SystemExit(f"missing file {p}")
-            refs[key].append(upload(node_id, p))
+            refs[key].append(upload(node_id, p, name))
     title, description, tags, R = build_responses(refs)
     body = {"data": {"id": draft_id, "type": "draft_registrations", "attributes": {
         "title": title, "description": description, "category": "project", "tags": tags,
@@ -328,7 +340,8 @@ if __name__ == "__main__":
                 print(f"{k}: {len(v)} chars | {v[:90].replace(chr(10), ' ')}…")
         total = 0
         for k, ps in FILE_PLAN.items():
-            print(f"files {k}: {[p.name for p in ps]}  all exist: {all(p.exists() for p in ps)}")
+            ps = [e if isinstance(e, tuple) else (e, e.name) for e in ps]
+            print(f"files {k}: {[n for _, n in ps]}  all exist: {all(p.exists() for p, _ in ps)}")
             total += len(ps)
         print(f"{total} files; embargo to {EMBARGO_END} unless `submit DRAFT_ID --no-embargo`")
     elif cmd == "create":

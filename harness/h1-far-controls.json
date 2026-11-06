@@ -1,0 +1,406 @@
+{
+ "source": "tests/eval/cognitive-cases.ts and cognitive-cases-heldout.ts, controls.far, 2026-11-05",
+ "count": 100,
+ "questions": [
+  {
+   "from": "goal-flat-deposit",
+   "text": "What's the best way to get a red wine stain out of a carpet?"
+  },
+  {
+   "from": "causal-dog-bite",
+   "text": "How long should I let bread dough rise?"
+  },
+  {
+   "from": "goal-half-marathon",
+   "text": "How do I convert a Word document to PDF on a Mac?"
+  },
+  {
+   "from": "causal-sushi-poisoning",
+   "text": "How do I change a tyre on a car?"
+  },
+  {
+   "from": "goal-spanish",
+   "text": "What temperature should I roast a whole chicken at?"
+  },
+  {
+   "from": "causal-layoffs",
+   "text": "How do I make my sourdough starter more active?"
+  },
+  {
+   "from": "goal-team-lead",
+   "text": "Can you explain what a VPN actually does?"
+  },
+  {
+   "from": "state-knee-surgery",
+   "text": "How do I make a good cup of pour-over coffee?"
+  },
+  {
+   "from": "goal-cut-sugar",
+   "text": "How often should I water a cactus?"
+  },
+  {
+   "from": "state-new-puppy",
+   "text": "What's a good way to learn touch typing?"
+  },
+  {
+   "from": "state-evening-medication",
+   "text": "What's the difference between a fixed and a variable rate mortgage?"
+  },
+  {
+   "from": "value-local-shops",
+   "text": "What's a good way to remember people's names?"
+  },
+  {
+   "from": "state-broken-wrist",
+   "text": "Which houseplants are safe to keep around cats?"
+  },
+  {
+   "from": "value-privacy",
+   "text": "What's the best way to store fresh herbs?"
+  },
+  {
+   "from": "state-mid-move",
+   "text": "What's a good stretch for a stiff neck?"
+  },
+  {
+   "from": "value-secondhand-clothes",
+   "text": "What's the quickest way to defrost a freezer?"
+  },
+  {
+   "from": "value-no-meat",
+   "text": "How do I reset my router?"
+  },
+  {
+   "from": "causal-standing-desk",
+   "text": "What's a good name for a book club?"
+  },
+  {
+   "from": "value-no-flying",
+   "text": "How do I write a good cover letter?"
+  },
+  {
+   "from": "causal-bike-crash",
+   "text": "Can you give me a recipe for banana bread?"
+  },
+  {
+   "from": "goal-driving-test",
+   "text": "How do I descale a kettle with vinegar?"
+  },
+  {
+   "from": "state-night-shifts",
+   "text": "Which Roman emperor built the wall across northern England?"
+  },
+  {
+   "from": "goal-piano-grade",
+   "text": "What's a quick way to remove limescale from a shower head?"
+  },
+  {
+   "from": "state-newborn-twins",
+   "text": "How many litres are in a US gallon?"
+  },
+  {
+   "from": "goal-allotment",
+   "text": "What's the plural of 'octopus'?"
+  },
+  {
+   "from": "state-mother-in-law",
+   "text": "How do I convert Celsius to Fahrenheit in my head?"
+  },
+  {
+   "from": "goal-credit-card",
+   "text": "Why does bread go stale faster in the fridge?"
+  },
+  {
+   "from": "state-dad-care-home",
+   "text": "How do I pair a Bluetooth speaker with a laptop?"
+  },
+  {
+   "from": "goal-novel-draft",
+   "text": "How do I stop a wooden chopping board from warping?"
+  },
+  {
+   "from": "state-car-off-road",
+   "text": "What's the difference between a simile and a metaphor?"
+  },
+  {
+   "from": "goal-citizenship",
+   "text": "What's a good substitute for buttermilk in pancakes?"
+  },
+  {
+   "from": "state-fostering",
+   "text": "How do I fix a dripping tap?"
+  },
+  {
+   "from": "goal-black-belt",
+   "text": "How do I keep cut tulips upright in a vase?"
+  },
+  {
+   "from": "state-braces",
+   "text": "What's the capital of Mongolia?"
+  },
+  {
+   "from": "goal-open-bakery",
+   "text": "How do I remove a stripped screw?"
+  },
+  {
+   "from": "value-teetotal",
+   "text": "How do I stop my glasses from sliding down my nose?"
+  },
+  {
+   "from": "goal-quit-smoking",
+   "text": "What's a good way to learn the periodic table?"
+  },
+  {
+   "from": "value-no-ride-hailing",
+   "text": "What's the boiling point of water at the top of Everest, roughly?"
+  },
+  {
+   "from": "goal-parish-council",
+   "text": "What's a good way to sharpen a kitchen knife without a stone?"
+  },
+  {
+   "from": "value-screen-free-sundays",
+   "text": "What's the difference between an alligator and a caiman?"
+  },
+  {
+   "from": "goal-learn-to-swim",
+   "text": "How do I write a good out-of-office message?"
+  },
+  {
+   "from": "value-charity-tenth",
+   "text": "What's the difference between a hurricane and a typhoon?"
+  },
+  {
+   "from": "goal-kilimanjaro",
+   "text": "What's a good way to organise cables behind a TV?"
+  },
+  {
+   "from": "value-pays-for-news",
+   "text": "What's the best way to clean a cast-iron pan?"
+  },
+  {
+   "from": "goal-wedding-savings",
+   "text": "Why do onions make you cry?"
+  },
+  {
+   "from": "value-no-leather",
+   "text": "How many time zones does Russia have?"
+  },
+  {
+   "from": "goal-morning-person",
+   "text": "How do I get a splinter out safely?"
+  },
+  {
+   "from": "value-no-gambling",
+   "text": "What's the tallest building in Europe?"
+  },
+  {
+   "from": "goal-guitar-wedding",
+   "text": "How do I stop a new pair of jeans from bleeding dye?"
+  },
+  {
+   "from": "causal-burglary",
+   "text": "What's the best way to store winter coats over summer?"
+  },
+  {
+   "from": "goal-house-sale",
+   "text": "What's a simple explanation of how a vaccine works?"
+  },
+  {
+   "from": "causal-ice-fall",
+   "text": "Who wrote the Odyssey?"
+  },
+  {
+   "from": "goal-dissertation",
+   "text": "What's the best way to clean white trainers?"
+  },
+  {
+   "from": "causal-dad-heart",
+   "text": "How do I set up a second monitor on a laptop?"
+  },
+  {
+   "from": "goal-bilingual-kids",
+   "text": "How do I unblock a sink without chemicals?"
+  },
+  {
+   "from": "causal-phishing",
+   "text": "What's the difference between a frog and a toad?"
+  },
+  {
+   "from": "goal-dining-table",
+   "text": "What's a good breathing exercise for stress?"
+  },
+  {
+   "from": "causal-tinnitus",
+   "text": "How do I calculate a 15% tip quickly?"
+  },
+  {
+   "from": "goal-defibrillator-fund",
+   "text": "What's a good way to remember the order of the planets?"
+  },
+  {
+   "from": "causal-basement-flood",
+   "text": "Who invented the telephone?"
+  },
+  {
+   "from": "state-frozen-shoulder",
+   "text": "What's a good first programming language for a complete beginner?"
+  },
+  {
+   "from": "value-no-bottled-water",
+   "text": "What's the difference between a tortoise and a turtle?"
+  },
+  {
+   "from": "state-pregnant",
+   "text": "How do I calculate the area of a circle?"
+  },
+  {
+   "from": "value-no-palm-oil",
+   "text": "How do I fold a fitted sheet?"
+  },
+  {
+   "from": "state-living-in-hotel",
+   "text": "What does 'carpe diem' mean?"
+  },
+  {
+   "from": "value-experiences-not-gifts",
+   "text": "How does a thermos keep things hot?"
+  },
+  {
+   "from": "state-concussion",
+   "text": "What's a good way to organise a small toolbox?"
+  },
+  {
+   "from": "value-never-lend",
+   "text": "What's the best way to clean a laptop keyboard?"
+  },
+  {
+   "from": "state-solo-parent",
+   "text": "How do I convert a recipe from cups to grams?"
+  },
+  {
+   "from": "value-no-single-use-plastic",
+   "text": "What's the difference between a comet and an asteroid?"
+  },
+  {
+   "from": "state-no-oven",
+   "text": "Who was the first person to run a mile in under four minutes?"
+  },
+  {
+   "from": "value-picket-line",
+   "text": "What's a good way to teach a child to tell the time?"
+  },
+  {
+   "from": "state-long-commute",
+   "text": "What's the plural of 'moose'?"
+  },
+  {
+   "from": "causal-motorway-pileup",
+   "text": "How do I make a paper aeroplane that flies far?"
+  },
+  {
+   "from": "state-kittens",
+   "text": "How does a barometer work?"
+  },
+  {
+   "from": "causal-sunburn-biopsy",
+   "text": "What's the difference between a sonnet and a haiku?"
+  },
+  {
+   "from": "state-cataract-waiting",
+   "text": "How do I write a limerick?"
+  },
+  {
+   "from": "causal-lost-in-fog",
+   "text": "What's the difference between baking paper and greaseproof paper?"
+  },
+  {
+   "from": "state-physio-hip",
+   "text": "What's the best way to clean silver jewellery?"
+  },
+  {
+   "from": "causal-ex-joint-account",
+   "text": "What causes the northern lights?"
+  },
+  {
+   "from": "state-freelance-income",
+   "text": "What's a good houseplant for a dark bathroom?"
+  },
+  {
+   "from": "causal-strobe-migraine",
+   "text": "How do I grow basil on a windowsill?"
+  },
+  {
+   "from": "state-secondment-oslo",
+   "text": "How does a dishwasher tablet work?"
+  },
+  {
+   "from": "causal-hot-oil-burn",
+   "text": "How do I pronounce 'gnocchi'?"
+  },
+  {
+   "from": "state-one-income",
+   "text": "What's the best way to store garlic?"
+  },
+  {
+   "from": "causal-turbulence",
+   "text": "Who composed the Four Seasons?"
+  },
+  {
+   "from": "value-state-schools",
+   "text": "How do I remove sticker residue from glass?"
+  },
+  {
+   "from": "causal-camping-storm",
+   "text": "What's the origin of the word 'salary'?"
+  },
+  {
+   "from": "value-cruelty-free",
+   "text": "How do I pronounce 'gnocchi' correctly?"
+  },
+  {
+   "from": "causal-market-scam",
+   "text": "What's the difference between a hare and a rabbit?"
+  },
+  {
+   "from": "value-repair-not-replace",
+   "text": "What's the capital of Australia?"
+  },
+  {
+   "from": "causal-peanut-reaction",
+   "text": "How does a sundial work?"
+  },
+  {
+   "from": "value-no-zoos",
+   "text": "What's a good stretch for tight calves?"
+  },
+  {
+   "from": "causal-crowd-crush",
+   "text": "How many bones are in the human hand?"
+  },
+  {
+   "from": "value-no-television",
+   "text": "How do I keep avocados from browning?"
+  },
+  {
+   "from": "causal-grandmother-dementia",
+   "text": "What's the best way to iron a linen shirt?"
+  },
+  {
+   "from": "value-blood-donor",
+   "text": "What's the difference between a latte and a flat white?"
+  },
+  {
+   "from": "causal-bad-landlord",
+   "text": "Why is the sky blue?"
+  },
+  {
+   "from": "value-open-source",
+   "text": "What's the longest river in Africa?"
+  },
+  {
+   "from": "causal-boat-capsize",
+   "text": "How do I make a simple vinaigrette?"
+  }
+ ]
+}

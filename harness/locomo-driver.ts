@@ -28,7 +28,7 @@
 //   --mapping speaker|transcript   speaker mapping (adapter); default transcript
 //   --batch-turns 20               transcript batches
 //   --stitch suffix-replay|cue-last  how the cue enters a base (see below); default suffix-replay
-//   --answer-model <model id>      the answer step's model; default claude-haiku-5-5 (the registered level)
+//   --answer-model haiku|sonnet|opus|<model id>  the answer step's model; default haiku = claude-haiku-5-5 (the registered level)
 //   --items cog_0001,…  --questions conv-26#3,…   subsets
 //   --far-controls <file>          the far-control list (default harness/h1-far-controls.json)
 //   --near-variants <file>         H1's authored near variants ({items:[{sample_id, near}]}); absent → no near probes
@@ -91,7 +91,10 @@ const batchTurns = Number(opt('--batch-turns') ?? 20)
 type Stitch = 'suffix-replay' | 'cue-last'
 const stitchMode = (opt('--stitch') ?? 'suffix-replay') as Stitch
 if (!['suffix-replay', 'cue-last'].includes(stitchMode)) throw new Error('--stitch must be suffix-replay or cue-last')
-const ANSWER_MODEL = opt('--answer-model') ?? 'claude-haiku-5-5'
+/** The registered command names the answer model by class (haiku, the registered level); a full model id is taken as given. */
+const MODEL_CLASS: Record<string, string> = { haiku: 'claude-haiku-5-5', sonnet: 'claude-sonnet-5-5', opus: 'claude-opus-5-5' }
+const answerArg = opt('--answer-model') ?? 'haiku'
+const ANSWER_MODEL = MODEL_CLASS[answerArg] ?? answerArg
 const judgesWanted = flag('--no-judge') ? [] : (opt('--judges') ?? 'published,second').split(',').filter(Boolean)
 const onlyItems = (opt('--items') ?? '').split(',').filter(Boolean)
 const onlyQuestions = (opt('--questions') ?? '').split(',').filter(Boolean)

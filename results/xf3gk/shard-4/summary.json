@@ -1,0 +1,257 @@
+{
+  "run": {
+    "dir": "/Users/jk/two-decisions-runs/xf3gk/shard-4",
+    "fixture": null,
+    "registration": "xf3gk",
+    "system": "1presence-memory",
+    "mapping": "transcript",
+    "stitch": "suffix-replay",
+    "answerModel": "claude-haiku-5-5",
+    "judges": [
+      "published",
+      "second"
+    ]
+  },
+  "cognitive": {
+    "items": 100,
+    "excluded": 0,
+    "bothPass": {
+      "system-on": "33% (33/100)",
+      "system-off": "42% (42/100)",
+      "none": "2% (2/100)"
+    },
+    "gainOnMinusOffPoints": -9,
+    "perJudge": {
+      "published": {
+        "system-on": "45% (45/100)",
+        "system-off": "57% (57/100)",
+        "none": "27% (27/100)"
+      },
+      "second": {
+        "system-on": "36% (36/100)",
+        "system-off": "42% (42/100)",
+        "none": "2% (2/100)"
+      }
+    }
+  },
+  "factual": {
+    "items": 31,
+    "excluded": 0,
+    "bothPass": {
+      "system-on": "41.9% (13/31)",
+      "system-off": "22.6% (7/31)",
+      "none": "16.1% (5/31)"
+    },
+    "gainOnMinusOffPoints": 19.4,
+    "perJudge": {
+      "published": {
+        "system-on": "41.9% (13/31)",
+        "system-off": "25.8% (8/31)",
+        "none": "22.6% (7/31)"
+      },
+      "second": {
+        "system-on": "45.2% (14/31)",
+        "system-off": "38.7% (12/31)",
+        "none": "16.1% (5/31)"
+      }
+    }
+  },
+  "h1Preview": {
+    "byType": {
+      "goal": {
+        "scored": 28,
+        "h1-on": "42.9% (12/28)",
+        "h1-off": "10.7% (3/28)",
+        "gainPoints": 32.1,
+        "production": "42.9% (12/28)"
+      },
+      "state": {
+        "scored": 27,
+        "h1-on": "48.1% (13/27)",
+        "h1-off": "11.1% (3/27)",
+        "gainPoints": 37,
+        "production": "55.6% (15/27)"
+      },
+      "value": {
+        "scored": 23,
+        "h1-on": "13% (3/23)",
+        "h1-off": "4.3% (1/23)",
+        "gainPoints": 8.7,
+        "production": "13% (3/23)"
+      },
+      "causal": {
+        "scored": 22,
+        "h1-on": "18.2% (4/22)",
+        "h1-off": "0% (0/22)",
+        "gainPoints": 18.2,
+        "production": "13.6% (3/22)"
+      }
+    },
+    "triggerUse": {
+      "h1-on": {
+        "passed": 32,
+        "acted": 26,
+        "mentionedOnly": 4
+      },
+      "h1-off": {
+        "passed": 7,
+        "acted": 4,
+        "mentionedOnly": 1
+      },
+      "system-on": {
+        "passed": 33,
+        "acted": 25,
+        "mentionedOnly": 6
+      }
+    },
+    "falseAlarms": {
+      "far": {
+        "h1-on": {
+          "controls": 100,
+          "judged": "1% (1/100)",
+          "acted": "0% (0/100)",
+          "mentioned": "1% (1/100)"
+        },
+        "h1-off": {
+          "controls": 100,
+          "judged": "0% (0/100)",
+          "acted": "0% (0/100)",
+          "mentioned": "0% (0/100)"
+        }
+      },
+      "paired": {
+        "h1-on": {
+          "controls": 100,
+          "judged": "1% (1/100)",
+          "acted": "1% (1/100)",
+          "mentioned": "0% (0/100)"
+        },
+        "h1-off": {
+          "controls": 100,
+          "judged": "1% (1/100)",
+          "acted": "0% (0/100)",
+          "mentioned": "1% (1/100)"
+        }
+      },
+      "near": {
+        "h1-on": {
+          "controls": 23,
+          "judged": "0% (0/23)",
+          "acted": "0% (0/23)",
+          "mentioned": "0% (0/23)"
+        },
+        "h1-off": {
+          "controls": 23,
+          "judged": "0% (0/23)",
+          "acted": "0% (0/23)",
+          "mentioned": "0% (0/23)"
+        }
+      }
+    },
+    "note": "point estimates; the registered rule (a) D1, (b) the time_gap quintiles and (c) the acted false-alarm rise are h1-score.ts"
+  },
+  "h2Preview": {
+    "factualGainMinusCognitiveGainPoints": 28.4,
+    "note": "point estimate only; the registered rule and the bootstrap interval are p2_score.py"
+  },
+  "exclusions": [],
+  "recallPerArm": {
+    "on": {
+      "input": 402147,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 27870,
+      "calls": 131,
+      "usd": 0.0541,
+      "inputPerRecall": 3070
+    },
+    "off": {
+      "input": 0,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 0,
+      "calls": 131,
+      "usd": 0,
+      "inputPerRecall": 0
+    },
+    "h1-on": {
+      "input": 990126,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 65610,
+      "calls": 323,
+      "usd": 0.1318,
+      "inputPerRecall": 3065
+    },
+    "h1-off": {
+      "input": 990126,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 65616,
+      "calls": 323,
+      "usd": 0.1318,
+      "inputPerRecall": 3065
+    }
+  },
+  "verdictFlags": 13,
+  "verdictErrors": 0,
+  "cost": {
+    "ingest-recall": {
+      "input": 8742040,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 550153,
+      "calls": 2156,
+      "usd": 1.1493
+    },
+    "capture-judge": {
+      "input": 9780464,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 501818,
+      "calls": 2156,
+      "usd": 1.229
+    },
+    "save-pass": {
+      "input": 12138,
+      "cacheRead": 113898916,
+      "cacheWrite": 16833362,
+      "output": 4891514,
+      "calls": 1525,
+      "usd": 5.6901
+    },
+    "standing-writer": {
+      "input": 11795124,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 1826758,
+      "calls": 1525,
+      "usd": 2.0929
+    },
+    "trigger-recall": {
+      "input": 2382399,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 159096,
+      "calls": 908,
+      "usd": 0.3178
+    },
+    "answer": {
+      "input": 1571910,
+      "cacheRead": 0,
+      "cacheWrite": 0,
+      "output": 221533,
+      "calls": 1039,
+      "usd": 0.268
+    },
+    "totalUsd": 10.7471,
+    "geminiJudge": {
+      "verdicts": 1039,
+      "estimate": "prompt chars/4 in, 512 out at the gemini-2.5-flash rate (the Judge class returns no usage)",
+      "usdUpperBound": 1.411
+    },
+    "secondJudge": "Claude Code CLI on the subscription; no API spend",
+    "prepUsdIncluded": 8.3077,
+    "rates": "/Users/jk/two-decisions-reanalysis/harness/rates.json"
+  }
+}

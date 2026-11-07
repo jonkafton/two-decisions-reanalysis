@@ -83,6 +83,7 @@ for r in 0.02 0.03 0.05; do RARE=$r python3 second_judge_lexical.py; done   # th
 | `data/matched_items.json` | The 368 identifiers all three systems answered on the same dialogue. `verify_item_level.py` re-derives the list and checks it |
 | `data/SOURCE_SHA256` | Checksums of the files `fetch_data.sh` downloads |
 | `results/second_judge_analysis.json` | The output the paper's second-judge figures were read from |
+| `results/xf3gk/` | The per-item record of the registered run of predictions 1 and 2 (OSF registration xf3gk): the benchmarks' text replaced by SHA-256 and length, the pipeline's outputs in full, both scorers' outputs, `SHA256SUMS` and an OpenTimestamps proof; its `README.md` explains the fields. The same set is on OSF (osf.io/ymc78) and in the `run-xf3gk` release |
 | `scripts/common.py` | Paths, loaders and small statistics shared by the scripts |
 | `preregistration/` | The registered tests of predictions 3 and 4: runners, decision rules, the drawn sample and the annotators' instructions. See `preregistration/README.md` |
 | `preregistration/h2/` | The registered study designs for predictions 1 and 2: the factual draw and sample, prediction 2's decision rule, and the OSF registration script. See `preregistration/h2/README.md` |

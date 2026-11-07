@@ -1,0 +1,4404 @@
+[
+ {
+  "id": "cog_0001",
+  "usage": {
+   "ingest-recall": {
+    "input": 73685,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4476,
+    "calls": 18
+   },
+   "capture-judge": {
+    "input": 82447,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3681,
+    "calls": 18
+   },
+   "save-pass": {
+    "input": 98,
+    "cacheRead": 912722,
+    "cacheWrite": 128089,
+    "output": 36634,
+    "calls": 12
+   },
+   "standing-writer": {
+    "input": 91326,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 16537,
+    "calls": 12
+   }
+  },
+  "seconds": 396,
+  "stateBytes": 5137937,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 17
+  }
+ },
+ {
+  "id": "cog_0005",
+  "usage": {
+   "ingest-recall": {
+    "input": 181072,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10956,
+    "calls": 44
+   },
+   "capture-judge": {
+    "input": 186650,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11299,
+    "calls": 44
+   },
+   "save-pass": {
+    "input": 244,
+    "cacheRead": 2237210,
+    "cacheWrite": 309835,
+    "output": 103474,
+    "calls": 31
+   },
+   "standing-writer": {
+    "input": 173267,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 16967,
+    "calls": 31
+   }
+  },
+  "seconds": 953,
+  "stateBytes": 5120927,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 4,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 29,
+   "exchanges": 43
+  }
+ },
+ {
+  "id": "cog_0009",
+  "usage": {
+   "ingest-recall": {
+    "input": 3114,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 228,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 3673,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 117,
+    "calls": 1
+   }
+  },
+  "seconds": 14,
+  "stateBytes": 5123393,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0013",
+  "usage": {
+   "ingest-recall": {
+    "input": 48167,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3042,
+    "calls": 12
+   },
+   "capture-judge": {
+    "input": 60735,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2812,
+    "calls": 12
+   },
+   "save-pass": {
+    "input": 78,
+    "cacheRead": 796544,
+    "cacheWrite": 140981,
+    "output": 32805,
+    "calls": 9
+   },
+   "standing-writer": {
+    "input": 95950,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 18152,
+    "calls": 9
+   }
+  },
+  "seconds": 335,
+  "stateBytes": 4276876,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 7,
+   "exchanges": 11
+  }
+ },
+ {
+  "id": "cog_0017",
+  "usage": {
+   "ingest-recall": {
+    "input": 58402,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3676,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 64418,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3241,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 80,
+    "cacheRead": 726425,
+    "cacheWrite": 93555,
+    "output": 28605,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 69334,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11590,
+    "calls": 10
+   }
+  },
+  "seconds": 314,
+  "stateBytes": 3079446,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0021",
+  "usage": {
+   "ingest-recall": {
+    "input": 121179,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7842,
+    "calls": 29
+   },
+   "capture-judge": {
+    "input": 128585,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6790,
+    "calls": 29
+   },
+   "save-pass": {
+    "input": 156,
+    "cacheRead": 1457451,
+    "cacheWrite": 218753,
+    "output": 65071,
+    "calls": 20
+   },
+   "standing-writer": {
+    "input": 114407,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11554,
+    "calls": 20
+   }
+  },
+  "seconds": 598,
+  "stateBytes": 3257101,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 19,
+   "exchanges": 28
+  }
+ },
+ {
+  "id": "cog_0025",
+  "usage": {
+   "ingest-recall": {
+    "input": 95629,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5922,
+    "calls": 24
+   },
+   "capture-judge": {
+    "input": 100735,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5784,
+    "calls": 24
+   },
+   "save-pass": {
+    "input": 154,
+    "cacheRead": 1452839,
+    "cacheWrite": 208701,
+    "output": 58407,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 143792,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 28062,
+    "calls": 19
+   }
+  },
+  "seconds": 619,
+  "stateBytes": 5144556,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 23
+  }
+ },
+ {
+  "id": "cog_0029",
+  "usage": {
+   "ingest-recall": {
+    "input": 73689,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4402,
+    "calls": 18
+   },
+   "capture-judge": {
+    "input": 82321,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3936,
+    "calls": 18
+   },
+   "save-pass": {
+    "input": 88,
+    "cacheRead": 840247,
+    "cacheWrite": 123413,
+    "output": 37356,
+    "calls": 11
+   },
+   "standing-writer": {
+    "input": 73413,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11935,
+    "calls": 11
+   }
+  },
+  "seconds": 378,
+  "stateBytes": 4756276,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 17
+  }
+ },
+ {
+  "id": "cog_0033",
+  "usage": {
+   "ingest-recall": {
+    "input": 78115,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4873,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 94437,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4199,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 96,
+    "cacheRead": 903834,
+    "cacheWrite": 175285,
+    "output": 45633,
+    "calls": 13
+   },
+   "standing-writer": {
+    "input": 105365,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 14999,
+    "calls": 13
+   }
+  },
+  "seconds": 400,
+  "stateBytes": 5086808,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0037",
+  "usage": {
+   "ingest-recall": {
+    "input": 125109,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7994,
+    "calls": 31
+   },
+   "capture-judge": {
+    "input": 146954,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7683,
+    "calls": 31
+   },
+   "save-pass": {
+    "input": 176,
+    "cacheRead": 1616820,
+    "cacheWrite": 270773,
+    "output": 78429,
+    "calls": 23
+   },
+   "standing-writer": {
+    "input": 194297,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 31604,
+    "calls": 23
+   }
+  },
+  "seconds": 743,
+  "stateBytes": 3760478,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 22,
+   "exchanges": 30
+  }
+ },
+ {
+  "id": "cog_0041",
+  "usage": {
+   "ingest-recall": {
+    "input": 61783,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3903,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 74766,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3514,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 86,
+    "cacheRead": 893917,
+    "cacheWrite": 140878,
+    "output": 38857,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 83857,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 12411,
+    "calls": 10
+   }
+  },
+  "seconds": 342,
+  "stateBytes": 5124580,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0045",
+  "usage": {
+   "ingest-recall": {
+    "input": 62510,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4137,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 74316,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2615,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 86,
+    "cacheRead": 779076,
+    "cacheWrite": 115453,
+    "output": 32162,
+    "calls": 11
+   },
+   "standing-writer": {
+    "input": 66544,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6138,
+    "calls": 11
+   }
+  },
+  "seconds": 332,
+  "stateBytes": 3116389,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0049",
+  "usage": {
+   "ingest-recall": {
+    "input": 78120,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4904,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 96728,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4230,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 108,
+    "cacheRead": 1022754,
+    "cacheWrite": 169504,
+    "output": 50193,
+    "calls": 14
+   },
+   "standing-writer": {
+    "input": 122402,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 17978,
+    "calls": 14
+   }
+  },
+  "seconds": 454,
+  "stateBytes": 5137779,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0053",
+  "usage": {
+   "ingest-recall": {
+    "input": 27002,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1710,
+    "calls": 7
+   },
+   "capture-judge": {
+    "input": 31037,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1535,
+    "calls": 7
+   },
+   "save-pass": {
+    "input": 32,
+    "cacheRead": 295869,
+    "cacheWrite": 37770,
+    "output": 11804,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 27669,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4766,
+    "calls": 4
+   }
+  },
+  "seconds": 141,
+  "stateBytes": 5139310,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 6
+  }
+ },
+ {
+  "id": "cog_0057",
+  "usage": {
+   "ingest-recall": {
+    "input": 32892,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2106,
+    "calls": 8
+   },
+   "capture-judge": {
+    "input": 42660,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2005,
+    "calls": 8
+   },
+   "save-pass": {
+    "input": 52,
+    "cacheRead": 489697,
+    "cacheWrite": 93539,
+    "output": 25188,
+    "calls": 7
+   },
+   "standing-writer": {
+    "input": 66868,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10366,
+    "calls": 7
+   }
+  },
+  "seconds": 224,
+  "stateBytes": 4749310,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 7
+  }
+ },
+ {
+  "id": "cog_0061",
+  "usage": {
+   "ingest-recall": {
+    "input": 61780,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3914,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 76836,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3655,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 76,
+    "cacheRead": 713573,
+    "cacheWrite": 116433,
+    "output": 35600,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 84644,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11895,
+    "calls": 10
+   }
+  },
+  "seconds": 328,
+  "stateBytes": 5086934,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0065",
+  "usage": {
+   "ingest-recall": {
+    "input": 30610,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1924,
+    "calls": 8
+   },
+   "capture-judge": {
+    "input": 36619,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1735,
+    "calls": 8
+   },
+   "save-pass": {
+    "input": 64,
+    "cacheRead": 647655,
+    "cacheWrite": 80780,
+    "output": 19970,
+    "calls": 7
+   },
+   "standing-writer": {
+    "input": 46510,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8824,
+    "calls": 7
+   }
+  },
+  "seconds": 219,
+  "stateBytes": 5201289,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 5,
+   "exchanges": 7
+  }
+ },
+ {
+  "id": "cog_0069",
+  "usage": {
+   "ingest-recall": {
+    "input": 3113,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 256,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 4524,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 179,
+    "calls": 1
+   },
+   "save-pass": {
+    "input": 8,
+    "cacheRead": 73295,
+    "cacheWrite": 10269,
+    "output": 2307,
+    "calls": 1
+   },
+   "standing-writer": {
+    "input": 6832,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1430,
+    "calls": 1
+   }
+  },
+  "seconds": 47,
+  "stateBytes": 4571819,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0073",
+  "usage": {
+   "ingest-recall": {
+    "input": 88516,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5599,
+    "calls": 22
+   },
+   "capture-judge": {
+    "input": 105008,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4742,
+    "calls": 22
+   },
+   "save-pass": {
+    "input": 134,
+    "cacheRead": 1267583,
+    "cacheWrite": 193851,
+    "output": 56584,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 145373,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 24102,
+    "calls": 17
+   }
+  },
+  "seconds": 534,
+  "stateBytes": 3988375,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 4,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 21
+  }
+ },
+ {
+  "id": "cog_0077",
+  "usage": {
+   "ingest-recall": {
+    "input": 31781,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2005,
+    "calls": 8
+   },
+   "capture-judge": {
+    "input": 37688,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1881,
+    "calls": 8
+   },
+   "save-pass": {
+    "input": 46,
+    "cacheRead": 428259,
+    "cacheWrite": 80739,
+    "output": 18710,
+    "calls": 6
+   },
+   "standing-writer": {
+    "input": 50708,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10520,
+    "calls": 6
+   }
+  },
+  "seconds": 198,
+  "stateBytes": 4542163,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 7
+  }
+ },
+ {
+  "id": "cog_0081",
+  "usage": {
+   "ingest-recall": {
+    "input": 62488,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4026,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 73573,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2695,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 80,
+    "cacheRead": 744273,
+    "cacheWrite": 112361,
+    "output": 26940,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 61263,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6545,
+    "calls": 10
+   }
+  },
+  "seconds": 302,
+  "stateBytes": 3245156,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0085",
+  "usage": {
+   "ingest-recall": {
+    "input": 11163,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 820,
+    "calls": 3
+   },
+   "capture-judge": {
+    "input": 15545,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 750,
+    "calls": 3
+   },
+   "save-pass": {
+    "input": 24,
+    "cacheRead": 231249,
+    "cacheWrite": 43320,
+    "output": 10134,
+    "calls": 3
+   },
+   "standing-writer": {
+    "input": 19978,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2489,
+    "calls": 3
+   }
+  },
+  "seconds": 108,
+  "stateBytes": 4727295,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 4,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 2,
+   "exchanges": 2
+  }
+ },
+ {
+  "id": "cog_0089",
+  "usage": {
+   "ingest-recall": {
+    "input": 72606,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4630,
+    "calls": 18
+   },
+   "capture-judge": {
+    "input": 92304,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4225,
+    "calls": 18
+   },
+   "save-pass": {
+    "input": 106,
+    "cacheRead": 1002522,
+    "cacheWrite": 189456,
+    "output": 46168,
+    "calls": 14
+   },
+   "standing-writer": {
+    "input": 137674,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 23740,
+    "calls": 14
+   }
+  },
+  "seconds": 451,
+  "stateBytes": 3851444,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 17
+  }
+ },
+ {
+  "id": "cog_0093",
+  "usage": {
+   "ingest-recall": {
+    "input": 113602,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7243,
+    "calls": 28
+   },
+   "capture-judge": {
+    "input": 142086,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7600,
+    "calls": 28
+   },
+   "save-pass": {
+    "input": 146,
+    "cacheRead": 1383292,
+    "cacheWrite": 207789,
+    "output": 64862,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 170963,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 26751,
+    "calls": 19
+   }
+  },
+  "seconds": 608,
+  "stateBytes": 5165894,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 27
+  }
+ },
+ {
+  "id": "cog_0097",
+  "usage": {
+   "ingest-recall": {
+    "input": 3125,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 234,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 4124,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 238,
+    "calls": 1
+   },
+   "save-pass": {
+    "input": 8,
+    "cacheRead": 71362,
+    "cacheWrite": 7015,
+    "output": 1829,
+    "calls": 1
+   },
+   "standing-writer": {
+    "input": 5142,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 639,
+    "calls": 1
+   }
+  },
+  "seconds": 38,
+  "stateBytes": 2803250,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0101",
+  "usage": {
+   "ingest-recall": {
+    "input": 36792,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2521,
+    "calls": 9
+   },
+   "capture-judge": {
+    "input": 43130,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2018,
+    "calls": 9
+   },
+   "save-pass": {
+    "input": 62,
+    "cacheRead": 576851,
+    "cacheWrite": 98749,
+    "output": 22078,
+    "calls": 8
+   },
+   "standing-writer": {
+    "input": 50471,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7320,
+    "calls": 8
+   }
+  },
+  "seconds": 228,
+  "stateBytes": 4620454,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 5,
+   "exchanges": 8
+  }
+ },
+ {
+  "id": "cog_0105",
+  "usage": {
+   "ingest-recall": {
+    "input": 91510,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5661,
+    "calls": 22
+   },
+   "capture-judge": {
+    "input": 101663,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4681,
+    "calls": 22
+   },
+   "save-pass": {
+    "input": 130,
+    "cacheRead": 1228572,
+    "cacheWrite": 189910,
+    "output": 42764,
+    "calls": 16
+   },
+   "standing-writer": {
+    "input": 124796,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 20974,
+    "calls": 16
+   }
+  },
+  "seconds": 499,
+  "stateBytes": 4413214,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 21
+  }
+ },
+ {
+  "id": "cog_0109",
+  "usage": {
+   "ingest-recall": {
+    "input": 133028,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8514,
+    "calls": 33
+   },
+   "capture-judge": {
+    "input": 154117,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7309,
+    "calls": 33
+   },
+   "save-pass": {
+    "input": 196,
+    "cacheRead": 1809511,
+    "cacheWrite": 264764,
+    "output": 78778,
+    "calls": 25
+   },
+   "standing-writer": {
+    "input": 175168,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 23317,
+    "calls": 25
+   }
+  },
+  "seconds": 765,
+  "stateBytes": 3911880,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 24,
+   "exchanges": 32
+  }
+ },
+ {
+  "id": "cog_0113",
+  "usage": {
+   "ingest-recall": {
+    "input": 74808,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4595,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 81792,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4344,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 104,
+    "cacheRead": 960855,
+    "cacheWrite": 132628,
+    "output": 40491,
+    "calls": 13
+   },
+   "standing-writer": {
+    "input": 99445,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 18042,
+    "calls": 13
+   }
+  },
+  "seconds": 426,
+  "stateBytes": 5110396,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 12,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0117",
+  "usage": {
+   "ingest-recall": {
+    "input": 113613,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7240,
+    "calls": 28
+   },
+   "capture-judge": {
+    "input": 139859,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6811,
+    "calls": 28
+   },
+   "save-pass": {
+    "input": 144,
+    "cacheRead": 1358288,
+    "cacheWrite": 243187,
+    "output": 69285,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 169009,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 25308,
+    "calls": 19
+   }
+  },
+  "seconds": 632,
+  "stateBytes": 5109391,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 27
+  }
+ },
+ {
+  "id": "cog_0121",
+  "usage": {
+   "ingest-recall": {
+    "input": 131707,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8308,
+    "calls": 32
+   },
+   "capture-judge": {
+    "input": 152834,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7628,
+    "calls": 32
+   },
+   "save-pass": {
+    "input": 210,
+    "cacheRead": 1968977,
+    "cacheWrite": 263601,
+    "output": 77680,
+    "calls": 26
+   },
+   "standing-writer": {
+    "input": 212909,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 34969,
+    "calls": 26
+   }
+  },
+  "seconds": 825,
+  "stateBytes": 5146975,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 24,
+   "exchanges": 31
+  }
+ },
+ {
+  "id": "cog_0125",
+  "usage": {
+   "ingest-recall": {
+    "input": 3118,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 243,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 3908,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 190,
+    "calls": 1
+   },
+   "save-pass": {
+    "input": 8,
+    "cacheRead": 71077,
+    "cacheWrite": 6780,
+    "output": 1635,
+    "calls": 1
+   },
+   "standing-writer": {
+    "input": 6268,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1404,
+    "calls": 1
+   }
+  },
+  "seconds": 35,
+  "stateBytes": 3893489,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0129",
+  "usage": {
+   "ingest-recall": {
+    "input": 44914,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2879,
+    "calls": 11
+   },
+   "capture-judge": {
+    "input": 52555,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2432,
+    "calls": 11
+   },
+   "save-pass": {
+    "input": 66,
+    "cacheRead": 658560,
+    "cacheWrite": 98410,
+    "output": 23694,
+    "calls": 8
+   },
+   "standing-writer": {
+    "input": 66541,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10323,
+    "calls": 8
+   }
+  },
+  "seconds": 254,
+  "stateBytes": 5078800,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 6,
+   "exchanges": 10
+  }
+ },
+ {
+  "id": "cog_0133",
+  "usage": {
+   "ingest-recall": {
+    "input": 149644,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 9653,
+    "calls": 36
+   },
+   "capture-judge": {
+    "input": 156377,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8801,
+    "calls": 36
+   },
+   "save-pass": {
+    "input": 174,
+    "cacheRead": 1574367,
+    "cacheWrite": 227253,
+    "output": 78380,
+    "calls": 23
+   },
+   "standing-writer": {
+    "input": 156301,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 19850,
+    "calls": 23
+   }
+  },
+  "seconds": 739,
+  "stateBytes": 5078200,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 22,
+   "exchanges": 35
+  }
+ },
+ {
+  "id": "cog_0137",
+  "usage": {
+   "ingest-recall": {
+    "input": 3103,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 227,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 4747,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 128,
+    "calls": 1
+   }
+  },
+  "seconds": 12,
+  "stateBytes": 4797991,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0141",
+  "usage": {
+   "ingest-recall": {
+    "input": 23368,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1461,
+    "calls": 6
+   },
+   "capture-judge": {
+    "input": 25972,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1219,
+    "calls": 6
+   },
+   "save-pass": {
+    "input": 32,
+    "cacheRead": 296199,
+    "cacheWrite": 40588,
+    "output": 10200,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 23677,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3563,
+    "calls": 4
+   }
+  },
+  "seconds": 127,
+  "stateBytes": 3115168,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 5
+  }
+ },
+ {
+  "id": "cog_0145",
+  "usage": {
+   "ingest-recall": {
+    "input": 11171,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 810,
+    "calls": 3
+   },
+   "capture-judge": {
+    "input": 15224,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 632,
+    "calls": 3
+   },
+   "save-pass": {
+    "input": 24,
+    "cacheRead": 232962,
+    "cacheWrite": 44475,
+    "output": 9306,
+    "calls": 3
+   },
+   "standing-writer": {
+    "input": 26386,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3822,
+    "calls": 3
+   }
+  },
+  "seconds": 110,
+  "stateBytes": 4653214,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 2,
+   "exchanges": 2
+  }
+ },
+ {
+  "id": "cog_0149",
+  "usage": {
+   "ingest-recall": {
+    "input": 78101,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4936,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 97619,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3679,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 94,
+    "cacheRead": 904654,
+    "cacheWrite": 150702,
+    "output": 38120,
+    "calls": 12
+   },
+   "standing-writer": {
+    "input": 109317,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 16197,
+    "calls": 12
+   }
+  },
+  "seconds": 368,
+  "stateBytes": 5070040,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0153",
+  "usage": {
+   "ingest-recall": {
+    "input": 62480,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4048,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 74786,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2520,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 82,
+    "cacheRead": 788081,
+    "cacheWrite": 127942,
+    "output": 31815,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 62415,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6341,
+    "calls": 10
+   }
+  },
+  "seconds": 324,
+  "stateBytes": 3492958,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 5,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0157",
+  "usage": {
+   "ingest-recall": {
+    "input": 15309,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 952,
+    "calls": 4
+   },
+   "capture-judge": {
+    "input": 17154,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 745,
+    "calls": 4
+   },
+   "save-pass": {
+    "input": 24,
+    "cacheRead": 212991,
+    "cacheWrite": 24402,
+    "output": 6880,
+    "calls": 3
+   },
+   "standing-writer": {
+    "input": 17529,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2581,
+    "calls": 3
+   }
+  },
+  "seconds": 91,
+  "stateBytes": 3119018,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 2,
+   "exchanges": 3
+  }
+ },
+ {
+  "id": "cog_0161",
+  "usage": {
+   "ingest-recall": {
+    "input": 78133,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4878,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 93577,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3755,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 92,
+    "cacheRead": 867917,
+    "cacheWrite": 138148,
+    "output": 39622,
+    "calls": 12
+   },
+   "standing-writer": {
+    "input": 88010,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 12262,
+    "calls": 12
+   }
+  },
+  "seconds": 375,
+  "stateBytes": 5099925,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0165",
+  "usage": {
+   "ingest-recall": {
+    "input": 78102,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4909,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 95736,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4160,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 106,
+    "cacheRead": 990603,
+    "cacheWrite": 170374,
+    "output": 47794,
+    "calls": 14
+   },
+   "standing-writer": {
+    "input": 123483,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 18888,
+    "calls": 14
+   }
+  },
+  "seconds": 451,
+  "stateBytes": 5146070,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0169",
+  "usage": {
+   "ingest-recall": {
+    "input": 30613,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1928,
+    "calls": 8
+   },
+   "capture-judge": {
+    "input": 36104,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1888,
+    "calls": 8
+   },
+   "save-pass": {
+    "input": 48,
+    "cacheRead": 466605,
+    "cacheWrite": 87447,
+    "output": 16598,
+    "calls": 6
+   },
+   "standing-writer": {
+    "input": 48252,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8532,
+    "calls": 6
+   }
+  },
+  "seconds": 204,
+  "stateBytes": 5199992,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 5,
+   "exchanges": 7
+  }
+ },
+ {
+  "id": "cog_0173",
+  "usage": {
+   "ingest-recall": {
+    "input": 50671,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3380,
+    "calls": 13
+   },
+   "capture-judge": {
+    "input": 58000,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2863,
+    "calls": 13
+   },
+   "save-pass": {
+    "input": 74,
+    "cacheRead": 707006,
+    "cacheWrite": 103635,
+    "output": 32199,
+    "calls": 9
+   },
+   "standing-writer": {
+    "input": 57294,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6996,
+    "calls": 9
+   }
+  },
+  "seconds": 296,
+  "stateBytes": 5131675,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 12
+  }
+ },
+ {
+  "id": "cog_0177",
+  "usage": {
+   "ingest-recall": {
+    "input": 82333,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5149,
+    "calls": 21
+   },
+   "capture-judge": {
+    "input": 87220,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5271,
+    "calls": 21
+   },
+   "save-pass": {
+    "input": 118,
+    "cacheRead": 1065011,
+    "cacheWrite": 142262,
+    "output": 43222,
+    "calls": 15
+   },
+   "standing-writer": {
+    "input": 101765,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 15941,
+    "calls": 15
+   }
+  },
+  "seconds": 463,
+  "stateBytes": 2880082,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 14,
+   "exchanges": 20
+  }
+ },
+ {
+  "id": "cog_0181",
+  "usage": {
+   "ingest-recall": {
+    "input": 60221,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3847,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 76815,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3597,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 88,
+    "cacheRead": 836057,
+    "cacheWrite": 124592,
+    "output": 34558,
+    "calls": 11
+   },
+   "standing-writer": {
+    "input": 146016,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 25911,
+    "calls": 11
+   }
+  },
+  "seconds": 411,
+  "stateBytes": 3935249,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0185",
+  "usage": {
+   "ingest-recall": {
+    "input": 91601,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6052,
+    "calls": 23
+   },
+   "capture-judge": {
+    "input": 107560,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5553,
+    "calls": 23
+   },
+   "save-pass": {
+    "input": 128,
+    "cacheRead": 1163658,
+    "cacheWrite": 185193,
+    "output": 55311,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 111424,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 13741,
+    "calls": 17
+   }
+  },
+  "seconds": 503,
+  "stateBytes": 4996325,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 22
+  }
+ },
+ {
+  "id": "cog_0189",
+  "usage": {
+   "ingest-recall": {
+    "input": 72605,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4608,
+    "calls": 18
+   },
+   "capture-judge": {
+    "input": 94044,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4120,
+    "calls": 18
+   },
+   "save-pass": {
+    "input": 118,
+    "cacheRead": 1129107,
+    "cacheWrite": 187592,
+    "output": 46844,
+    "calls": 15
+   },
+   "standing-writer": {
+    "input": 139487,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 24176,
+    "calls": 15
+   }
+  },
+  "seconds": 481,
+  "stateBytes": 3839236,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 17
+  }
+ },
+ {
+  "id": "cog_0193",
+  "usage": {
+   "ingest-recall": {
+    "input": 50644,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3296,
+    "calls": 13
+   },
+   "capture-judge": {
+    "input": 56876,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2569,
+    "calls": 13
+   },
+   "save-pass": {
+    "input": 74,
+    "cacheRead": 706685,
+    "cacheWrite": 98516,
+    "output": 30763,
+    "calls": 9
+   },
+   "standing-writer": {
+    "input": 55416,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6570,
+    "calls": 9
+   }
+  },
+  "seconds": 274,
+  "stateBytes": 5147945,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 12
+  }
+ },
+ {
+  "id": "cog_0197",
+  "usage": {
+   "ingest-recall": {
+    "input": 24236,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1497,
+    "calls": 6
+   },
+   "capture-judge": {
+    "input": 28919,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1243,
+    "calls": 6
+   },
+   "save-pass": {
+    "input": 30,
+    "cacheRead": 273219,
+    "cacheWrite": 43790,
+    "output": 14763,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 30512,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6560,
+    "calls": 4
+   }
+  },
+  "seconds": 138,
+  "stateBytes": 3769731,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 5
+  }
+ },
+ {
+  "id": "cog_0201",
+  "usage": {
+   "ingest-recall": {
+    "input": 50683,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3386,
+    "calls": 13
+   },
+   "capture-judge": {
+    "input": 58045,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2948,
+    "calls": 13
+   },
+   "save-pass": {
+    "input": 70,
+    "cacheRead": 649596,
+    "cacheWrite": 98128,
+    "output": 28183,
+    "calls": 9
+   },
+   "standing-writer": {
+    "input": 57568,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7203,
+    "calls": 9
+   }
+  },
+  "seconds": 281,
+  "stateBytes": 5173204,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 12
+  }
+ },
+ {
+  "id": "cog_0205",
+  "usage": {
+   "ingest-recall": {
+    "input": 31770,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1995,
+    "calls": 8
+   },
+   "capture-judge": {
+    "input": 38217,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1641,
+    "calls": 8
+   },
+   "save-pass": {
+    "input": 32,
+    "cacheRead": 299908,
+    "cacheWrite": 48979,
+    "output": 11788,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 27667,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5359,
+    "calls": 4
+   }
+  },
+  "seconds": 148,
+  "stateBytes": 4406203,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 7
+  }
+ },
+ {
+  "id": "cog_0209",
+  "usage": {
+   "ingest-recall": {
+    "input": 46544,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2978,
+    "calls": 12
+   },
+   "capture-judge": {
+    "input": 50969,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2447,
+    "calls": 12
+   },
+   "save-pass": {
+    "input": 64,
+    "cacheRead": 590433,
+    "cacheWrite": 78022,
+    "output": 20460,
+    "calls": 8
+   },
+   "standing-writer": {
+    "input": 69001,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10250,
+    "calls": 8
+   }
+  },
+  "seconds": 253,
+  "stateBytes": 3012495,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 7,
+   "exchanges": 11
+  }
+ },
+ {
+  "id": "cog_0213",
+  "usage": {
+   "ingest-recall": {
+    "input": 50555,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3113,
+    "calls": 13
+   },
+   "capture-judge": {
+    "input": 55632,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2892,
+    "calls": 13
+   },
+   "save-pass": {
+    "input": 64,
+    "cacheRead": 600470,
+    "cacheWrite": 82973,
+    "output": 25690,
+    "calls": 8
+   },
+   "standing-writer": {
+    "input": 52507,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8927,
+    "calls": 8
+   }
+  },
+  "seconds": 279,
+  "stateBytes": 5131164,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 12
+  }
+ },
+ {
+  "id": "cog_0217",
+  "usage": {
+   "ingest-recall": {
+    "input": 50549,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3179,
+    "calls": 13
+   },
+   "capture-judge": {
+    "input": 57945,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2832,
+    "calls": 13
+   },
+   "save-pass": {
+    "input": 74,
+    "cacheRead": 688897,
+    "cacheWrite": 84209,
+    "output": 27890,
+    "calls": 9
+   },
+   "standing-writer": {
+    "input": 58734,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10875,
+    "calls": 9
+   }
+  },
+  "seconds": 313,
+  "stateBytes": 5201915,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 8,
+   "exchanges": 12
+  }
+ },
+ {
+  "id": "cog_0221",
+  "usage": {
+   "ingest-recall": {
+    "input": 3129,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 254,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 4789,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 191,
+    "calls": 1
+   },
+   "save-pass": {
+    "input": 8,
+    "cacheRead": 72715,
+    "cacheWrite": 7745,
+    "output": 1970,
+    "calls": 1
+   },
+   "standing-writer": {
+    "input": 6065,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 776,
+    "calls": 1
+   }
+  },
+  "seconds": 37,
+  "stateBytes": 4765159,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0225",
+  "usage": {
+   "ingest-recall": {
+    "input": 26999,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1710,
+    "calls": 7
+   },
+   "capture-judge": {
+    "input": 30358,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1646,
+    "calls": 7
+   },
+   "save-pass": {
+    "input": 38,
+    "cacheRead": 340640,
+    "cacheWrite": 48062,
+    "output": 16611,
+    "calls": 5
+   },
+   "standing-writer": {
+    "input": 32923,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6183,
+    "calls": 5
+   }
+  },
+  "seconds": 173,
+  "stateBytes": 5208130,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 6
+  }
+ },
+ {
+  "id": "cog_0229",
+  "usage": {
+   "ingest-recall": {
+    "input": 91475,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5641,
+    "calls": 22
+   },
+   "capture-judge": {
+    "input": 104419,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4436,
+    "calls": 22
+   },
+   "save-pass": {
+    "input": 152,
+    "cacheRead": 1419293,
+    "cacheWrite": 194097,
+    "output": 54262,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 138821,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 24054,
+    "calls": 19
+   }
+  },
+  "seconds": 566,
+  "stateBytes": 4827866,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 21
+  }
+ },
+ {
+  "id": "cog_0233",
+  "usage": {
+   "ingest-recall": {
+    "input": 149678,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 9631,
+    "calls": 36
+   },
+   "capture-judge": {
+    "input": 160291,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8623,
+    "calls": 36
+   },
+   "save-pass": {
+    "input": 190,
+    "cacheRead": 1778333,
+    "cacheWrite": 257110,
+    "output": 78997,
+    "calls": 24
+   },
+   "standing-writer": {
+    "input": 181037,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 25193,
+    "calls": 24
+   }
+  },
+  "seconds": 779,
+  "stateBytes": 5053052,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 22,
+   "exchanges": 35
+  }
+ },
+ {
+  "id": "cog_0237",
+  "usage": {
+   "ingest-recall": {
+    "input": 40516,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2580,
+    "calls": 10
+   },
+   "capture-judge": {
+    "input": 51023,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2011,
+    "calls": 10
+   },
+   "save-pass": {
+    "input": 56,
+    "cacheRead": 544752,
+    "cacheWrite": 87653,
+    "output": 23041,
+    "calls": 7
+   },
+   "standing-writer": {
+    "input": 62967,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11752,
+    "calls": 7
+   }
+  },
+  "seconds": 240,
+  "stateBytes": 4087401,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 5,
+   "exchanges": 9
+  }
+ },
+ {
+  "id": "cog_0241",
+  "usage": {
+   "ingest-recall": {
+    "input": 91582,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5957,
+    "calls": 23
+   },
+   "capture-judge": {
+    "input": 107732,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5422,
+    "calls": 23
+   },
+   "save-pass": {
+    "input": 146,
+    "cacheRead": 1342413,
+    "cacheWrite": 197229,
+    "output": 61993,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 121266,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 15402,
+    "calls": 19
+   }
+  },
+  "seconds": 556,
+  "stateBytes": 5209926,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 22
+  }
+ },
+ {
+  "id": "cog_0245",
+  "usage": {
+   "ingest-recall": {
+    "input": 120123,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7905,
+    "calls": 30
+   },
+   "capture-judge": {
+    "input": 140926,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6576,
+    "calls": 30
+   },
+   "save-pass": {
+    "input": 176,
+    "cacheRead": 1662975,
+    "cacheWrite": 240021,
+    "output": 74787,
+    "calls": 22
+   },
+   "standing-writer": {
+    "input": 141948,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 16484,
+    "calls": 22
+   }
+  },
+  "seconds": 689,
+  "stateBytes": 5243417,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 19,
+   "exchanges": 29
+  }
+ },
+ {
+  "id": "cog_0249",
+  "usage": {
+   "ingest-recall": {
+    "input": 26999,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1677,
+    "calls": 7
+   },
+   "capture-judge": {
+    "input": 30966,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1481,
+    "calls": 7
+   },
+   "save-pass": {
+    "input": 32,
+    "cacheRead": 295945,
+    "cacheWrite": 36662,
+    "output": 11856,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 43788,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7819,
+    "calls": 4
+   }
+  },
+  "seconds": 152,
+  "stateBytes": 5134931,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 6
+  }
+ },
+ {
+  "id": "cog_0253",
+  "usage": {
+   "ingest-recall": {
+    "input": 3126,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 238,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 3592,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 187,
+    "calls": 1
+   },
+   "save-pass": {
+    "input": 8,
+    "cacheRead": 82550,
+    "cacheWrite": 20680,
+    "output": 2310,
+    "calls": 1
+   },
+   "standing-writer": {
+    "input": 5349,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1287,
+    "calls": 1
+   }
+  },
+  "seconds": 39,
+  "stateBytes": 4325849,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0257",
+  "usage": {
+   "ingest-recall": {
+    "input": 15738,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1000,
+    "calls": 4
+   },
+   "capture-judge": {
+    "input": 17543,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 784,
+    "calls": 4
+   },
+   "save-pass": {
+    "input": 16,
+    "cacheRead": 147588,
+    "cacheWrite": 17234,
+    "output": 5044,
+    "calls": 2
+   },
+   "standing-writer": {
+    "input": 13604,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2060,
+    "calls": 2
+   }
+  },
+  "seconds": 79,
+  "stateBytes": 4102390,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 2,
+   "exchanges": 3
+  }
+ },
+ {
+  "id": "cog_0261",
+  "usage": {
+   "ingest-recall": {
+    "input": 114219,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7029,
+    "calls": 29
+   },
+   "capture-judge": {
+    "input": 127525,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7598,
+    "calls": 29
+   },
+   "save-pass": {
+    "input": 180,
+    "cacheRead": 1653545,
+    "cacheWrite": 224013,
+    "output": 74093,
+    "calls": 23
+   },
+   "standing-writer": {
+    "input": 137985,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 18976,
+    "calls": 23
+   }
+  },
+  "seconds": 693,
+  "stateBytes": 5087417,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 20,
+   "exchanges": 28
+  }
+ },
+ {
+  "id": "cog_0265",
+  "usage": {
+   "ingest-recall": {
+    "input": 28468,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1836,
+    "calls": 7
+   },
+   "capture-judge": {
+    "input": 33337,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1275,
+    "calls": 7
+   },
+   "save-pass": {
+    "input": 48,
+    "cacheRead": 440700,
+    "cacheWrite": 56737,
+    "output": 16144,
+    "calls": 6
+   },
+   "standing-writer": {
+    "input": 34999,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3346,
+    "calls": 6
+   }
+  },
+  "seconds": 175,
+  "stateBytes": 2874267,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 6
+  }
+ },
+ {
+  "id": "cog_0269",
+  "usage": {
+   "ingest-recall": {
+    "input": 113636,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7300,
+    "calls": 28
+   },
+   "capture-judge": {
+    "input": 135897,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7296,
+    "calls": 28
+   },
+   "save-pass": {
+    "input": 138,
+    "cacheRead": 1230027,
+    "cacheWrite": 262491,
+    "output": 73413,
+    "calls": 20
+   },
+   "standing-writer": {
+    "input": 183030,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 28109,
+    "calls": 20
+   }
+  },
+  "seconds": 653,
+  "stateBytes": 4683774,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 27
+  }
+ },
+ {
+  "id": "cog_0273",
+  "usage": {
+   "ingest-recall": {
+    "input": 27008,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1710,
+    "calls": 7
+   },
+   "capture-judge": {
+    "input": 32231,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1663,
+    "calls": 7
+   },
+   "save-pass": {
+    "input": 40,
+    "cacheRead": 364922,
+    "cacheWrite": 44667,
+    "output": 12916,
+    "calls": 5
+   },
+   "standing-writer": {
+    "input": 34211,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5896,
+    "calls": 5
+   }
+  },
+  "seconds": 162,
+  "stateBytes": 5194965,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 6
+  }
+ },
+ {
+  "id": "cog_0277",
+  "usage": {
+   "ingest-recall": {
+    "input": 23372,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1434,
+    "calls": 6
+   },
+   "capture-judge": {
+    "input": 25133,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1111,
+    "calls": 6
+   },
+   "save-pass": {
+    "input": 32,
+    "cacheRead": 290948,
+    "cacheWrite": 37860,
+    "output": 12391,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 23154,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3335,
+    "calls": 4
+   }
+  },
+  "seconds": 137,
+  "stateBytes": 3280324,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 5
+  }
+ },
+ {
+  "id": "cog_0281",
+  "usage": {
+   "ingest-recall": {
+    "input": 24094,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1566,
+    "calls": 6
+   },
+   "capture-judge": {
+    "input": 26924,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1011,
+    "calls": 6
+   },
+   "save-pass": {
+    "input": 34,
+    "cacheRead": 322168,
+    "cacheWrite": 46205,
+    "output": 12362,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 23009,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2094,
+    "calls": 4
+   }
+  },
+  "seconds": 136,
+  "stateBytes": 2914924,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 5
+  }
+ },
+ {
+  "id": "cog_0285",
+  "usage": {
+   "ingest-recall": {
+    "input": 24108,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1609,
+    "calls": 6
+   },
+   "capture-judge": {
+    "input": 29064,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1055,
+    "calls": 6
+   },
+   "save-pass": {
+    "input": 32,
+    "cacheRead": 294124,
+    "cacheWrite": 37647,
+    "output": 10642,
+    "calls": 4
+   },
+   "standing-writer": {
+    "input": 24059,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2049,
+    "calls": 4
+   }
+  },
+  "seconds": 130,
+  "stateBytes": 2807305,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 5
+  }
+ },
+ {
+  "id": "cog_0289",
+  "usage": {
+   "ingest-recall": {
+    "input": 121209,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7876,
+    "calls": 29
+   },
+   "capture-judge": {
+    "input": 125852,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6537,
+    "calls": 29
+   },
+   "save-pass": {
+    "input": 144,
+    "cacheRead": 1299505,
+    "cacheWrite": 186937,
+    "output": 60058,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 120619,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 16456,
+    "calls": 19
+   }
+  },
+  "seconds": 593,
+  "stateBytes": 2889354,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 19,
+   "exchanges": 28
+  }
+ },
+ {
+  "id": "cog_0293",
+  "usage": {
+   "ingest-recall": {
+    "input": 46690,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2919,
+    "calls": 12
+   },
+   "capture-judge": {
+    "input": 53079,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2939,
+    "calls": 12
+   },
+   "save-pass": {
+    "input": 82,
+    "cacheRead": 772631,
+    "cacheWrite": 92763,
+    "output": 31029,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 111764,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 21639,
+    "calls": 10
+   }
+  },
+  "seconds": 362,
+  "stateBytes": 4815145,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 11
+  }
+ },
+ {
+  "id": "cog_0297",
+  "usage": {
+   "ingest-recall": {
+    "input": 78130,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4880,
+    "calls": 19
+   },
+   "capture-judge": {
+    "input": 91848,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4039,
+    "calls": 19
+   },
+   "save-pass": {
+    "input": 108,
+    "cacheRead": 1010072,
+    "cacheWrite": 159127,
+    "output": 48604,
+    "calls": 14
+   },
+   "standing-writer": {
+    "input": 100434,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 15223,
+    "calls": 14
+   }
+  },
+  "seconds": 437,
+  "stateBytes": 5071184,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 4,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 18
+  }
+ },
+ {
+  "id": "cog_0301",
+  "usage": {
+   "ingest-recall": {
+    "input": 95620,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5952,
+    "calls": 24
+   },
+   "capture-judge": {
+    "input": 101372,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5540,
+    "calls": 24
+   },
+   "save-pass": {
+    "input": 144,
+    "cacheRead": 1355232,
+    "cacheWrite": 203252,
+    "output": 56052,
+    "calls": 18
+   },
+   "standing-writer": {
+    "input": 140778,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 28663,
+    "calls": 18
+   }
+  },
+  "seconds": 614,
+  "stateBytes": 5187396,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 23
+  }
+ },
+ {
+  "id": "cog_0305",
+  "usage": {
+   "ingest-recall": {
+    "input": 95604,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5924,
+    "calls": 24
+   },
+   "capture-judge": {
+    "input": 101689,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5449,
+    "calls": 24
+   },
+   "save-pass": {
+    "input": 136,
+    "cacheRead": 1281536,
+    "cacheWrite": 188556,
+    "output": 49974,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 148165,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 29440,
+    "calls": 17
+   }
+  },
+  "seconds": 580,
+  "stateBytes": 4926368,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 23
+  }
+ },
+ {
+  "id": "cog_0309",
+  "usage": {
+   "ingest-recall": {
+    "input": 28470,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1800,
+    "calls": 7
+   },
+   "capture-judge": {
+    "input": 32856,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1202,
+    "calls": 7
+   },
+   "save-pass": {
+    "input": 48,
+    "cacheRead": 445359,
+    "cacheWrite": 61214,
+    "output": 14935,
+    "calls": 6
+   },
+   "standing-writer": {
+    "input": 33911,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3265,
+    "calls": 6
+   }
+  },
+  "seconds": 174,
+  "stateBytes": 3108374,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 4,
+   "exchanges": 6
+  }
+ },
+ {
+  "id": "cog_0313",
+  "usage": {
+   "ingest-recall": {
+    "input": 18641,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1239,
+    "calls": 5
+   },
+   "capture-judge": {
+    "input": 22979,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1027,
+    "calls": 5
+   },
+   "save-pass": {
+    "input": 24,
+    "cacheRead": 226395,
+    "cacheWrite": 35910,
+    "output": 8810,
+    "calls": 3
+   },
+   "standing-writer": {
+    "input": 29701,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5246,
+    "calls": 3
+   }
+  },
+  "seconds": 111,
+  "stateBytes": 5146704,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 4
+  }
+ },
+ {
+  "id": "cog_0317",
+  "usage": {
+   "ingest-recall": {
+    "input": 82011,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5075,
+    "calls": 20
+   },
+   "capture-judge": {
+    "input": 98657,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4839,
+    "calls": 20
+   },
+   "save-pass": {
+    "input": 96,
+    "cacheRead": 880178,
+    "cacheWrite": 169783,
+    "output": 48585,
+    "calls": 13
+   },
+   "standing-writer": {
+    "input": 126620,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 19309,
+    "calls": 13
+   }
+  },
+  "seconds": 449,
+  "stateBytes": 5046292,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 12,
+   "exchanges": 19
+  }
+ },
+ {
+  "id": "cog_0321",
+  "usage": {
+   "ingest-recall": {
+    "input": 58388,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3678,
+    "calls": 15
+   },
+   "capture-judge": {
+    "input": 63082,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2920,
+    "calls": 15
+   },
+   "save-pass": {
+    "input": 80,
+    "cacheRead": 725021,
+    "cacheWrite": 91305,
+    "output": 31914,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 74535,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11116,
+    "calls": 10
+   }
+  },
+  "seconds": 326,
+  "stateBytes": 3040514,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 9,
+   "exchanges": 14
+  }
+ },
+ {
+  "id": "cog_0325",
+  "usage": {
+   "ingest-recall": {
+    "input": 72606,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4617,
+    "calls": 18
+   },
+   "capture-judge": {
+    "input": 90045,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4199,
+    "calls": 18
+   },
+   "save-pass": {
+    "input": 110,
+    "cacheRead": 1058443,
+    "cacheWrite": 180505,
+    "output": 44594,
+    "calls": 14
+   },
+   "standing-writer": {
+    "input": 154450,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 26281,
+    "calls": 14
+   }
+  },
+  "seconds": 481,
+  "stateBytes": 4007528,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 17
+  }
+ },
+ {
+  "id": "cog_0329",
+  "usage": {
+   "ingest-recall": {
+    "input": 40490,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2528,
+    "calls": 10
+   },
+   "capture-judge": {
+    "input": 49668,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2402,
+    "calls": 10
+   },
+   "save-pass": {
+    "input": 48,
+    "cacheRead": 466414,
+    "cacheWrite": 76731,
+    "output": 18534,
+    "calls": 6
+   },
+   "standing-writer": {
+    "input": 65365,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 13049,
+    "calls": 6
+   }
+  },
+  "seconds": 225,
+  "stateBytes": 3852590,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 5,
+   "exchanges": 9
+  }
+ },
+ {
+  "id": "cog_0333",
+  "usage": {
+   "ingest-recall": {
+    "input": 3118,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 230,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 4061,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 127,
+    "calls": 1
+   }
+  },
+  "seconds": 13,
+  "stateBytes": 4727625,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0337",
+  "usage": {
+   "ingest-recall": {
+    "input": 23677,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1558,
+    "calls": 6
+   },
+   "capture-judge": {
+    "input": 29232,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1459,
+    "calls": 6
+   },
+   "save-pass": {
+    "input": 40,
+    "cacheRead": 383988,
+    "cacheWrite": 65864,
+    "output": 17195,
+    "calls": 5
+   },
+   "standing-writer": {
+    "input": 31998,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4085,
+    "calls": 5
+   }
+  },
+  "seconds": 179,
+  "stateBytes": 5126719,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 3,
+   "exchanges": 5
+  }
+ },
+ {
+  "id": "cog_0341",
+  "usage": {
+   "ingest-recall": {
+    "input": 96476,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6161,
+    "calls": 24
+   },
+   "capture-judge": {
+    "input": 118501,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6202,
+    "calls": 24
+   },
+   "save-pass": {
+    "input": 136,
+    "cacheRead": 1305435,
+    "cacheWrite": 216377,
+    "output": 59631,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 159832,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 25698,
+    "calls": 17
+   }
+  },
+  "seconds": 610,
+  "stateBytes": 4424416,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 17,
+   "exchanges": 23
+  }
+ },
+ {
+  "id": "cog_0345",
+  "usage": {
+   "ingest-recall": {
+    "input": 188605,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 12289,
+    "calls": 47
+   },
+   "capture-judge": {
+    "input": 190770,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11377,
+    "calls": 47
+   },
+   "save-pass": {
+    "input": 264,
+    "cacheRead": 2446004,
+    "cacheWrite": 352495,
+    "output": 114972,
+    "calls": 33
+   },
+   "standing-writer": {
+    "input": 182178,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 21327,
+    "calls": 33
+   }
+  },
+  "seconds": 1021,
+  "stateBytes": 5159530,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 30,
+   "exchanges": 46
+  }
+ },
+ {
+  "id": "cog_0349",
+  "usage": {
+   "ingest-recall": {
+    "input": 3097,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 235,
+    "calls": 1
+   },
+   "capture-judge": {
+    "input": 4100,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 177,
+    "calls": 1
+   },
+   "save-pass": {
+    "input": 8,
+    "cacheRead": 71217,
+    "cacheWrite": 7156,
+    "output": 1785,
+    "calls": 1
+   },
+   "standing-writer": {
+    "input": 14662,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3340,
+    "calls": 1
+   }
+  },
+  "seconds": 47,
+  "stateBytes": 4563250,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 0,
+   "exchanges": 0
+  }
+ },
+ {
+  "id": "cog_0353",
+  "usage": {
+   "ingest-recall": {
+    "input": 127462,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7523,
+    "calls": 31
+   },
+   "capture-judge": {
+    "input": 140484,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6317,
+    "calls": 31
+   },
+   "save-pass": {
+    "input": 150,
+    "cacheRead": 1391760,
+    "cacheWrite": 212333,
+    "output": 63529,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 146618,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 22122,
+    "calls": 19
+   }
+  },
+  "seconds": 631,
+  "stateBytes": 4770611,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 0,
+   "saveRuns": 0
+  },
+  "suffix": {
+   "sessions": 19,
+   "exchanges": 30
+  }
+ },
+ {
+  "id": "cog_0357",
+  "usage": {
+   "ingest-recall": {
+    "input": 131720,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8217,
+    "calls": 32
+   },
+   "capture-judge": {
+    "input": 148985,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6443,
+    "calls": 32
+   },
+   "save-pass": {
+    "input": 192,
+    "cacheRead": 1762065,
+    "cacheWrite": 221902,
+    "output": 57057,
+    "calls": 24
+   },
+   "standing-writer": {
+    "input": 171779,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 25011,
+    "calls": 24
+   }
+  },
+  "seconds": 703,
+  "stateBytes": 3705810,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 24,
+   "exchanges": 31
+  }
+ },
+ {
+  "id": "cog_0361",
+  "usage": {
+   "ingest-recall": {
+    "input": 15246,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1041,
+    "calls": 4
+   },
+   "capture-judge": {
+    "input": 16683,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 914,
+    "calls": 4
+   },
+   "save-pass": {
+    "input": 24,
+    "cacheRead": 214773,
+    "cacheWrite": 24220,
+    "output": 6960,
+    "calls": 3
+   },
+   "standing-writer": {
+    "input": 16379,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 1730,
+    "calls": 3
+   }
+  },
+  "seconds": 91,
+  "stateBytes": 2840553,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 2,
+   "exchanges": 3
+  }
+ },
+ {
+  "id": "cog_0365",
+  "usage": {
+   "ingest-recall": {
+    "input": 91573,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6000,
+    "calls": 23
+   },
+   "capture-judge": {
+    "input": 105857,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5615,
+    "calls": 23
+   },
+   "save-pass": {
+    "input": 136,
+    "cacheRead": 1279669,
+    "cacheWrite": 186012,
+    "output": 52631,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 110854,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 14578,
+    "calls": 17
+   }
+  },
+  "seconds": 529,
+  "stateBytes": 5211723,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 4,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 22
+  }
+ },
+ {
+  "id": "cog_0369",
+  "usage": {
+   "ingest-recall": {
+    "input": 149704,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 9719,
+    "calls": 36
+   },
+   "capture-judge": {
+    "input": 152875,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8409,
+    "calls": 36
+   },
+   "save-pass": {
+    "input": 182,
+    "cacheRead": 1692232,
+    "cacheWrite": 235624,
+    "output": 77198,
+    "calls": 23
+   },
+   "standing-writer": {
+    "input": 156458,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 19481,
+    "calls": 23
+   }
+  },
+  "seconds": 739,
+  "stateBytes": 5086102,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 22,
+   "exchanges": 35
+  }
+ },
+ {
+  "id": "cog_0373",
+  "usage": {
+   "ingest-recall": {
+    "input": 88527,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5668,
+    "calls": 22
+   },
+   "capture-judge": {
+    "input": 108884,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5576,
+    "calls": 22
+   },
+   "save-pass": {
+    "input": 136,
+    "cacheRead": 1299174,
+    "cacheWrite": 191098,
+    "output": 54631,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 180558,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 31147,
+    "calls": 17
+   }
+  },
+  "seconds": 568,
+  "stateBytes": 4276666,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 21
+  }
+ },
+ {
+  "id": "cog_0377",
+  "usage": {
+   "ingest-recall": {
+    "input": 110972,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6884,
+    "calls": 28
+   },
+   "capture-judge": {
+    "input": 110573,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6067,
+    "calls": 28
+   },
+   "save-pass": {
+    "input": 166,
+    "cacheRead": 1494722,
+    "cacheWrite": 206500,
+    "output": 60683,
+    "calls": 21
+   },
+   "standing-writer": {
+    "input": 125360,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 14558,
+    "calls": 21
+   }
+  },
+  "seconds": 614,
+  "stateBytes": 3106441,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 4,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 19,
+   "exchanges": 27
+  }
+ },
+ {
+  "id": "cog_0381",
+  "usage": {
+   "ingest-recall": {
+    "input": 48188,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3016,
+    "calls": 12
+   },
+   "capture-judge": {
+    "input": 59601,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 2835,
+    "calls": 12
+   },
+   "save-pass": {
+    "input": 72,
+    "cacheRead": 677400,
+    "cacheWrite": 97485,
+    "output": 29097,
+    "calls": 9
+   },
+   "standing-writer": {
+    "input": 113845,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 21817,
+    "calls": 9
+   }
+  },
+  "seconds": 329,
+  "stateBytes": 4094862,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 7,
+   "exchanges": 11
+  }
+ },
+ {
+  "id": "cog_0385",
+  "usage": {
+   "ingest-recall": {
+    "input": 116416,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7616,
+    "calls": 29
+   },
+   "capture-judge": {
+    "input": 135034,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7328,
+    "calls": 29
+   },
+   "save-pass": {
+    "input": 152,
+    "cacheRead": 1420754,
+    "cacheWrite": 186102,
+    "output": 56312,
+    "calls": 19
+   },
+   "standing-writer": {
+    "input": 127415,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 16948,
+    "calls": 19
+   }
+  },
+  "seconds": 595,
+  "stateBytes": 5130192,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 18,
+   "exchanges": 28
+  }
+ },
+ {
+  "id": "cog_0389",
+  "usage": {
+   "ingest-recall": {
+    "input": 53507,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3410,
+    "calls": 13
+   },
+   "capture-judge": {
+    "input": 64735,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 3104,
+    "calls": 13
+   },
+   "save-pass": {
+    "input": 68,
+    "cacheRead": 606175,
+    "cacheWrite": 111610,
+    "output": 37856,
+    "calls": 10
+   },
+   "standing-writer": {
+    "input": 101258,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 15570,
+    "calls": 10
+   }
+  },
+  "seconds": 318,
+  "stateBytes": 4766378,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 7,
+   "exchanges": 12
+  }
+ },
+ {
+  "id": "cog_0393",
+  "usage": {
+   "ingest-recall": {
+    "input": 91502,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5734,
+    "calls": 22
+   },
+   "capture-judge": {
+    "input": 105756,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4336,
+    "calls": 22
+   },
+   "save-pass": {
+    "input": 128,
+    "cacheRead": 1193288,
+    "cacheWrite": 173574,
+    "output": 45117,
+    "calls": 16
+   },
+   "standing-writer": {
+    "input": 115971,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 18049,
+    "calls": 16
+   }
+  },
+  "seconds": 495,
+  "stateBytes": 4486872,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 21
+  }
+ },
+ {
+  "id": "cog_0397",
+  "usage": {
+   "ingest-recall": {
+    "input": 72611,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4622,
+    "calls": 18
+   },
+   "capture-judge": {
+    "input": 88599,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 4133,
+    "calls": 18
+   },
+   "save-pass": {
+    "input": 108,
+    "cacheRead": 994468,
+    "cacheWrite": 145264,
+    "output": 43371,
+    "calls": 14
+   },
+   "standing-writer": {
+    "input": 135991,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 24250,
+    "calls": 14
+   }
+  },
+  "seconds": 461,
+  "stateBytes": 3694501,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 3,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 11,
+   "exchanges": 17
+  }
+ },
+ {
+  "id": "cog_0401",
+  "usage": {
+   "ingest-recall": {
+    "input": 103476,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6855,
+    "calls": 25
+   },
+   "capture-judge": {
+    "input": 119231,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 5839,
+    "calls": 25
+   },
+   "save-pass": {
+    "input": 136,
+    "cacheRead": 1302154,
+    "cacheWrite": 219018,
+    "output": 51847,
+    "calls": 17
+   },
+   "standing-writer": {
+    "input": 115374,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 14357,
+    "calls": 17
+   }
+  },
+  "seconds": 539,
+  "stateBytes": 4822401,
+  "cueIngest": {
+   "exchanges": 1,
+   "writes": 2,
+   "saveRuns": 1
+  },
+  "suffix": {
+   "sessions": 15,
+   "exchanges": 24
+  }
+ }
+]

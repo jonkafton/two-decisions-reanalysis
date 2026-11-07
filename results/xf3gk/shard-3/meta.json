@@ -1,0 +1,193 @@
+{
+  "startedAt": "2026-11-06T22:26:49.750Z",
+  "registration": "xf3gk",
+  "fixture": null,
+  "data": {
+    "pool": {
+      "path": "/Users/jk/two-decisions-reanalysis/data/source/pool.json",
+      "sha256": "adc131899bf6242ab90c8e94f3078c09f08d26cf8e3a486323cdf9ac60977417"
+    },
+    "locomo": {
+      "path": "/Users/jk/two-decisions-reanalysis/data/source/locomo10.json",
+      "sha256": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4"
+    }
+  },
+  "harness": {
+    "dir": "/Users/jk/two-decisions-reanalysis",
+    "commit": "82fed76ea1a7ec63e71447a9d31bc714d030aa71",
+    "dirty": false
+  },
+  "system": {
+    "command": "npx tsx /Users/jk/PresenceAI/tests/eval/locomo/presence-system.ts",
+    "name": "1presence-memory",
+    "commit": "635e63cb82cfc22ec1484390c2590d64b0565617",
+    "dirty": true,
+    "models": {
+      "default": "claude-haiku-5-5",
+      "planner": "claude-haiku-5-5",
+      "standing-writer": "claude-haiku-5-5"
+    },
+    "switches": [
+      "planning",
+      "self",
+      "standing"
+    ],
+    "notes": "the production memory pipeline: proactive recall with a query planner, the curated standing state, the self-view; a scratch MemPalace per state; the save pass as a chat turn runs it"
+  },
+  "models": {
+    "answer": "claude-haiku-5-5",
+    "secondJudge": "claude-opus-5-5",
+    "claudeCli": "2.1.319 (Claude Code)",
+    "publishedJudge": {
+      "ready": true,
+      "protocol_lock": {
+        "backbone_model": "gpt-4o-mini",
+        "judge_provider": "google",
+        "judge_model": "gemini-2.5-flash",
+        "backbone_temperature": 0,
+        "judge_temperature": 0,
+        "max_tokens": 512,
+        "query_mode": "unified_conversational_no_task_disclosure",
+        "cognitive_labels": [
+          "correct",
+          "wrong"
+        ],
+        "judge_output_schema": {
+          "label": "string",
+          "reason": "string"
+        },
+        "judge_prompt_sha256": "7174feb3462a2636df0c2632da7634f78ea850e9bf5069ec2ceea607d9551ca1"
+      },
+      "file_sha256": {
+        "config.py": "7988336781a110fedc692ad2db5cd5d0c47eee67300bbde7c90c820991afc378",
+        "judge.py": "f331359e71a70a1c99716372dd148598906d72e4c9777b5e5452a22d2ae8841e",
+        "judge_prompts.py": "40b9de0c9f1f142e54ffb8d6b3cf5df5a21848acdb9fb7d109ad66d5047f1895"
+      },
+      "prompt_sha256": {
+        "fact": "e76281fe6f1c0b2a9e12e674c286c61a5b431570b899f5fe4e2a1802ee41ba41",
+        "temporal": "5e03f92f835f4a91929d0b36e8a54937dfc048bd13ecccb32a52ee04309c1dea",
+        "adversarial": "8649bb6fdd659ae781c900b0865ababe50a89c84fc3a722093a9825c00895e4a",
+        "cognitive": "7174feb3462a2636df0c2632da7634f78ea850e9bf5069ec2ceea607d9551ca1"
+      },
+      "python": "3.13.7"
+    },
+    "system": {
+      "default": "claude-haiku-5-5",
+      "planner": "claude-haiku-5-5",
+      "standing-writer": "claude-haiku-5-5"
+    }
+  },
+  "design": {
+    "studies": [
+      "H1",
+      "H2"
+    ],
+    "mapping": "transcript",
+    "batchTurns": 20,
+    "stitch": "suffix-replay",
+    "arms": [
+      "on",
+      "off",
+      "h1-on",
+      "h1-off"
+    ],
+    "armSwitches": {
+      "on": {
+        "planning": "on",
+        "self": "on",
+        "standing": "on"
+      },
+      "off": {
+        "planning": "off",
+        "self": "on",
+        "standing": "on"
+      },
+      "h1-on": {
+        "planning": "on",
+        "self": "off",
+        "standing": "on"
+      },
+      "h1-off": {
+        "planning": "on",
+        "self": "off",
+        "standing": "off"
+      }
+    },
+    "answerArms": [
+      "system-on",
+      "system-off",
+      "none",
+      "h1-on",
+      "h1-off"
+    ],
+    "probes": [
+      "trigger",
+      "far",
+      "paired",
+      "near"
+    ],
+    "controls": {
+      "far": {
+        "path": "/Users/jk/two-decisions-reanalysis/harness/h1-far-controls.json",
+        "sha256": "f23e85704d53e6969b73594d2b4d45478ed1a0bf248c3034b43437b261e2aad8",
+        "questions": 100
+      },
+      "near": {
+        "path": "harness/h1-near-variants.json",
+        "sha256": "0227a597b72ddd5aef98433406bcf18580f2291de1a261bd8e140ac4ea8e0cdd",
+        "variants": 100
+      }
+    },
+    "controlsAssigned": {
+      "far": 401,
+      "paired": 401,
+      "near": 100
+    },
+    "useJudge": "prompts.ts USE_JUDGE_PROMPT on every reply both judges pass",
+    "judges": [
+      "published",
+      "second"
+    ]
+  },
+  "counts": {
+    "bases": 10,
+    "cognitiveItems": 100,
+    "factualQuestions": 31,
+    "shard": "3/4"
+  },
+  "node": "v24.3.0",
+  "publishedJudge": {
+    "ready": true,
+    "protocol_lock": {
+      "backbone_model": "gpt-4o-mini",
+      "judge_provider": "google",
+      "judge_model": "gemini-2.5-flash",
+      "backbone_temperature": 0,
+      "judge_temperature": 0,
+      "max_tokens": 512,
+      "query_mode": "unified_conversational_no_task_disclosure",
+      "cognitive_labels": [
+        "correct",
+        "wrong"
+      ],
+      "judge_output_schema": {
+        "label": "string",
+        "reason": "string"
+      },
+      "judge_prompt_sha256": "7174feb3462a2636df0c2632da7634f78ea850e9bf5069ec2ceea607d9551ca1"
+    },
+    "file_sha256": {
+      "config.py": "7988336781a110fedc692ad2db5cd5d0c47eee67300bbde7c90c820991afc378",
+      "judge.py": "f331359e71a70a1c99716372dd148598906d72e4c9777b5e5452a22d2ae8841e",
+      "judge_prompts.py": "40b9de0c9f1f142e54ffb8d6b3cf5df5a21848acdb9fb7d109ad66d5047f1895"
+    },
+    "prompt_sha256": {
+      "fact": "e76281fe6f1c0b2a9e12e674c286c61a5b431570b899f5fe4e2a1802ee41ba41",
+      "temporal": "5e03f92f835f4a91929d0b36e8a54937dfc048bd13ecccb32a52ee04309c1dea",
+      "adversarial": "8649bb6fdd659ae781c900b0865ababe50a89c84fc3a722093a9825c00895e4a",
+      "cognitive": "7174feb3462a2636df0c2632da7634f78ea850e9bf5069ec2ceea607d9551ca1"
+    },
+    "python": "3.13.7"
+  },
+  "finishedAt": "2026-11-07T12:36:32.944Z"
+}

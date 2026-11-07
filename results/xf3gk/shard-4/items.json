@@ -1,0 +1,4226 @@
+{
+ "cognitive": [
+  {
+   "sampleId": "cog_0004",
+   "baseId": "conv-47",
+   "relation": "value",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "4d98b1cc8adfc969598d7b2602d08eb45c594807e82bb81f6c115ff72e59289e",
+     "textChars": 98
+    },
+    {
+     "speaker": "John",
+     "textSha256": "53d8ef6b50710da0e6321c87582179e652ca8a14717b7c754f8db53135ff2286",
+     "textChars": 51
+    }
+   ],
+   "cueDate": "2022-10-24",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 28,
+   "cuePosition": 629,
+   "triggerPosition": 691,
+   "suffixSessions": 3,
+   "suffixTurns": 60,
+   "cueDialogueSha256": "6145be2a24732cd030c7291742a23d4e5de8a7a520c2b79ea885ce0d1739c02b",
+   "cueDialogueChars": 156,
+   "triggerQuerySha256": "a6577fb70941fc632e6ca98b513afed52ab93f6115cf8b039ab7f2a7ffca690a",
+   "triggerQueryChars": 187,
+   "triggerTextSha256": "921ffc9fd21be0271faf4842864c0f58a1a7e0915c50178d3b1d2c0d5a0ed545",
+   "triggerTextChars": 184
+  },
+  {
+   "sampleId": "cog_0008",
+   "baseId": "conv-44",
+   "relation": "causal",
+   "timeGap": "about three months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "b3ac1873d52b18ce2c9acc1ca6f27d218de77361e7ea95d5c74f4c5a2d78cd20",
+     "textChars": 97
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "8ad2ba37be32f42229c6ede93430629d32d2feff2b4fb50531d75a5d88897caf",
+     "textChars": 51
+    }
+   ],
+   "cueDate": "2023-08-31",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 17,
+   "cuePosition": 403,
+   "triggerPosition": 677,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "f0e34c51ccd3e5aa6c32b501f4c78a7a032d887846fdaef4d2af4596cab44e42",
+   "cueDialogueChars": 155,
+   "triggerQuerySha256": "2766d5feabaa73c9dbfeb810cdb4f90e03f0abb7beaa0318929040e8ab472a8b",
+   "triggerQueryChars": 157,
+   "triggerTextSha256": "a9a821e0951616c75d4304280650a2d8ac5d5f262d602c1000482f767e500e79",
+   "triggerTextChars": 154
+  },
+  {
+   "sampleId": "cog_0012",
+   "baseId": "conv-48",
+   "relation": "value",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "255921d3fb5b56fa14cf286dfb5de830e41d818aa94fc8f324984d99318334ba",
+     "textChars": 88
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "eba99e66d9e2e6d4b32c9b446a929c12daaaba02ef381ec2634ba265ca6ce84d",
+     "textChars": 71
+    }
+   ],
+   "cueDate": "2023-07-29",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 15,
+   "cuePosition": 351,
+   "triggerPosition": 683,
+   "suffixSessions": 15,
+   "suffixTurns": 330,
+   "cueDialogueSha256": "b613f51f956574de84b9175c0032a4314bc28cd8367f2d3d753244fe9b352b49",
+   "cueDialogueChars": 166,
+   "triggerQuerySha256": "70a4e4a94f004957516aca654ebcb687245f10d90ae4b781abcbc28b9f288620",
+   "triggerQueryChars": 147,
+   "triggerTextSha256": "368f00ac3ced9f2e19566fdca56bcdd694f31e16a2e198b25945a44b710a3de3",
+   "triggerTextChars": 144
+  },
+  {
+   "sampleId": "cog_0016",
+   "baseId": "conv-26",
+   "relation": "goal",
+   "timeGap": "several months later",
+   "cueTurns": [
+    {
+     "speaker": "Caroline",
+     "textSha256": "ae685e4a24ca2649e044e3adb1bcd7568b5c86a941079450c4c1af6ad623b63d",
+     "textChars": 92
+    },
+    {
+     "speaker": "Melanie",
+     "textSha256": "6be03c6ec05b9bcf22307fea21ba65750d83871c3ba3aa97f966b86ebc77d4aa",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2023-10-29",
+   "queryDate": "2023-10-29",
+   "cueAfterSession": 19,
+   "cuePosition": 419,
+   "triggerPosition": 421,
+   "suffixSessions": 0,
+   "suffixTurns": 0,
+   "cueDialogueSha256": "f2e3dd99ec181e8b39adf128874ef5b7a7c7eeeaa5c854da9154fa0caa82fd31",
+   "cueDialogueChars": 168,
+   "triggerQuerySha256": "15a5dc559937a1a2603ae7ce585ef0a9cd5de5d6d1a58b3dfd901f9878f59c71",
+   "triggerQueryChars": 143,
+   "triggerTextSha256": "49f5a7322cf7ddf7e9a170a0f313ea54a1da47201a9b4cc507d6e816e3d0a6de",
+   "triggerTextChars": 140
+  },
+  {
+   "sampleId": "cog_0020",
+   "baseId": "conv-49",
+   "relation": "state",
+   "timeGap": "about three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "c60c49280f77998c14bb83494b5595c1a330607b4d3f562097bcadbdcce86192",
+     "textChars": 94
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "7329363900304e56b6ac54a2807c7c4ca93b50e8ddc09901923651587b533b22",
+     "textChars": 61
+    }
+   ],
+   "cueDate": "2023-12-28",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 21,
+   "cuePosition": 411,
+   "triggerPosition": 511,
+   "suffixSessions": 4,
+   "suffixTurns": 98,
+   "cueDialogueSha256": "7e34ee7c573e4870c2c3333fb451604b1334a80047c6218eb15a6de85f5e7f2b",
+   "cueDialogueChars": 162,
+   "triggerQuerySha256": "81f62ca714cb72889cb7658bc64c00cf4311839222492f38c6f0097452892f0f",
+   "triggerQueryChars": 129,
+   "triggerTextSha256": "fc54756a2eb15923a811de45f8c539d8043ee2e710a71e55c919f2fd73a80de7",
+   "triggerTextChars": 126
+  },
+  {
+   "sampleId": "cog_0024",
+   "baseId": "conv-49",
+   "relation": "causal",
+   "timeGap": "about one month later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "fbc68b848ba6f4a049046b77e32e224915b7626449a2197f586f15ca59753bbc",
+     "textChars": 91
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "b03dcc5c0f00288b18325a2e6dee4551f2258a8f9b2f8634ff9c9d1b91e3b555",
+     "textChars": 48
+    }
+   ],
+   "cueDate": "2023-12-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 20,
+   "cuePosition": 389,
+   "triggerPosition": 511,
+   "suffixSessions": 5,
+   "suffixTurns": 120,
+   "cueDialogueSha256": "da902e97a3fbadd9ddb1bfd36e195ada992d9f78afe3378d4524d0a8f0faed8c",
+   "cueDialogueChars": 146,
+   "triggerQuerySha256": "147f86198a6e8f7ebb950d585f905ac792bba8c40bb7806d1e287d1bb6eec468",
+   "triggerQueryChars": 147,
+   "triggerTextSha256": "09e3732403e47dd39e316908e4ce4404d74d3d24ffc791ef8d06d3b42f54b8e1",
+   "triggerTextChars": 144
+  },
+  {
+   "sampleId": "cog_0028",
+   "baseId": "conv-26",
+   "relation": "value",
+   "timeGap": "seven months later",
+   "cueTurns": [
+    {
+     "speaker": "Caroline",
+     "textSha256": "967a918697c50ba886470a3cfc0ad9154fe0ff216807866c920a6403383055a9",
+     "textChars": 98
+    },
+    {
+     "speaker": "Melanie",
+     "textSha256": "622d55559d6bc4c323a94768762f4899c0c2720a79eabcfe55050a3296f51c55",
+     "textChars": 42
+    }
+   ],
+   "cueDate": "2023-04-02",
+   "queryDate": "2023-10-29",
+   "cueAfterSession": 0,
+   "cuePosition": 0,
+   "triggerPosition": 421,
+   "suffixSessions": 19,
+   "suffixTurns": 419,
+   "cueDialogueSha256": "0af7b2cb09c73fe2852bbbe20fcb190fc64d4cc9be605a7dddca2c2ddd54aad4",
+   "cueDialogueChars": 147,
+   "triggerQuerySha256": "9de6b5665ee1fb88c08d3587ae401ddc3f68879edb5ab3be64805f21fb110651",
+   "triggerQueryChars": 138,
+   "triggerTextSha256": "80553732b3f538a5a9be10281bbafdf75b5cb2ed135075e3a86d1bc17be58296",
+   "triggerTextChars": 135
+  },
+  {
+   "sampleId": "cog_0032",
+   "baseId": "conv-44",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "0a4e467e0c0d3a1939100295a1c13ab4d8f73142e030a62c1ed3c3ca50ab3e20",
+     "textChars": 92
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "c1a222a9e034865ad7de361d0301116d1a81d6675ac7161e60dffbd843e8d810",
+     "textChars": 64
+    }
+   ],
+   "cueDate": "2023-09-30",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 19,
+   "cuePosition": 455,
+   "triggerPosition": 677,
+   "suffixSessions": 9,
+   "suffixTurns": 220,
+   "cueDialogueSha256": "af7db687365da53b3a3f4eb0dd73c9821ddba242a122ba11309605d096cb09a9",
+   "cueDialogueChars": 163,
+   "triggerQuerySha256": "08abadf3f5ef2af00dbbdfc0de51daffcb410df094c15aafcb96f26f462b11a7",
+   "triggerQueryChars": 128,
+   "triggerTextSha256": "fc44bf75cf1e62a9f7aa9384162b6973008967c8ae886964ef2645451dd0d01d",
+   "triggerTextChars": 125
+  },
+  {
+   "sampleId": "cog_0036",
+   "baseId": "conv-44",
+   "relation": "causal",
+   "timeGap": "about five months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "bf67fc419d0f0054a71d26acfcfd827c49f9f860693b8580a5db5e1e171c1d78",
+     "textChars": 98
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "b6292cc2738d3fd9aeaa9812fa73c25f89ee27d5399278e997348b3208559921",
+     "textChars": 46
+    }
+   ],
+   "cueDate": "2023-07-02",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 9,
+   "cuePosition": 217,
+   "triggerPosition": 677,
+   "suffixSessions": 19,
+   "suffixTurns": 458,
+   "cueDialogueSha256": "2ec67bc34b79389a3564d385220a3ae2c97e484528de3a7cfef8fb9227fb73b0",
+   "cueDialogueChars": 151,
+   "triggerQuerySha256": "a623e8c0b416f02bd8dbfa6e18d737a2553768b7e69426dec65f4e8b9e20839d",
+   "triggerQueryChars": 132,
+   "triggerTextSha256": "32f8ceef8a3695fd5bf6d68cd93aa6e8a91974d234a9574e38c3970815b78c43",
+   "triggerTextChars": 129
+  },
+  {
+   "sampleId": "cog_0040",
+   "baseId": "conv-41",
+   "relation": "state",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "ade6ac63fd8a1104df6074d1c02e02be6c8ee5e335bf9a828bbcf2b6f0a9a51d",
+     "textChars": 89
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "5b956ab5e65d0f071a3418b6f81c426486076dbf599a58e8ebdcc21f38f05ca9",
+     "textChars": 70
+    }
+   ],
+   "cueDate": "2023-08-02",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 26,
+   "cuePosition": 547,
+   "triggerPosition": 665,
+   "suffixSessions": 6,
+   "suffixTurns": 116,
+   "cueDialogueSha256": "8d18cfbc0035030b263bf7c6f4a32ade567fb419e3527588b63c9b9c5d86b18c",
+   "cueDialogueChars": 166,
+   "triggerQuerySha256": "be2024986da8ce8bddaa5aba2f9f80c6b0186c96f5212a51668a078ae74f4309",
+   "triggerQueryChars": 147,
+   "triggerTextSha256": "fdcc005881bf66b9ba76eb79f4458dbe262539b5914014769eb3edecb139e7f2",
+   "triggerTextChars": 144
+  },
+  {
+   "sampleId": "cog_0044",
+   "baseId": "conv-47",
+   "relation": "state",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "547e5192c226b685256f2608929b991862d64cb433f3ac2e19b6a407deae987f",
+     "textChars": 84
+    },
+    {
+     "speaker": "John",
+     "textSha256": "cd820d4cc43b0fbbb2b8a62f01c63407fa1f46a8a45096d62cfec545138925cf",
+     "textChars": 63
+    }
+   ],
+   "cueDate": "2022-05-18",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 11,
+   "cuePosition": 261,
+   "triggerPosition": 691,
+   "suffixSessions": 20,
+   "suffixTurns": 428,
+   "cueDialogueSha256": "010439ba322e7f9cdbf182d3bd7d595336fdea1de0cbfdebe6e9d118f0f8b046",
+   "cueDialogueChars": 154,
+   "triggerQuerySha256": "1ce3b32ac5fd0406804a25bfefc5ae28abd432252a5cd73140100d6c157fe969",
+   "triggerQueryChars": 175,
+   "triggerTextSha256": "4e6de5e346403789568e6f69fec5968eb4f565442f3bd53b9538b768164ff929",
+   "triggerTextChars": 172
+  },
+  {
+   "sampleId": "cog_0048",
+   "baseId": "conv-47",
+   "relation": "causal",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "e34842690b4da424008c0d4b5a4fe298eb6a7b45b811104f3bc1f41c818165c7",
+     "textChars": 63
+    },
+    {
+     "speaker": "John",
+     "textSha256": "a0f96510947de65f2de0ed693e8675317b64773e10b8622d754a04113c83c4ae",
+     "textChars": 71
+    }
+   ],
+   "cueDate": "2022-10-15",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 27,
+   "cuePosition": 594,
+   "triggerPosition": 691,
+   "suffixSessions": 4,
+   "suffixTurns": 95,
+   "cueDialogueSha256": "f79f21dfb841d869990f9fcc3795e6641feee0a97f3116ccabb4e77ba8ffa80f",
+   "cueDialogueChars": 141,
+   "triggerQuerySha256": "81936372962770d9da8a3da04776c36ddfc0d27fb8b6d3b195027a17755bcfb5",
+   "triggerQueryChars": 110,
+   "triggerTextSha256": "40d9cc8db86a22a38d4ffd9efbe038bde94bdcd6e4c189f863768b94cf314e4e",
+   "triggerTextChars": 107
+  },
+  {
+   "sampleId": "cog_0052",
+   "baseId": "conv-30",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "74f58a0a9c04b21266d50c4bdc5074fbcb620e9e9746c09e90e9fa3931e9668d",
+     "textChars": 85
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "cafe1ac2c9daa85072d9f4e27043e6918050f27b399dc8009a82fdeb3788fd99",
+     "textChars": 59
+    }
+   ],
+   "cueDate": "2023-05-31",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 12,
+   "cuePosition": 231,
+   "triggerPosition": 371,
+   "suffixSessions": 7,
+   "suffixTurns": 138,
+   "cueDialogueSha256": "cdd1bb3352afd975b215e03b6315870bd4192a8de4351d52704dff388a454cf9",
+   "cueDialogueChars": 151,
+   "triggerQuerySha256": "b40eb90984ae43b05383832f1160dce7fb0fcd53837c605b292569e3a435244d",
+   "triggerQueryChars": 79,
+   "triggerTextSha256": "2265c3accbb3244bca51640885deeb56e8d38f1024aa44e7bab8b5e5a2fc18a5",
+   "triggerTextChars": 76
+  },
+  {
+   "sampleId": "cog_0056",
+   "baseId": "conv-42",
+   "relation": "causal",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "eda7e23856676121a36a5091ba9c3d92f1bb0210f0918e7900d377a157ae21ad",
+     "textChars": 83
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "2b312a51219250813d450169a0b2cab71c797c582551a3e95a6fc821523503b3",
+     "textChars": 50
+    }
+   ],
+   "cueDate": "2022-10-28",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 25,
+   "cuePosition": 519,
+   "triggerPosition": 631,
+   "suffixSessions": 4,
+   "suffixTurns": 110,
+   "cueDialogueSha256": "826ba48d1eb107128e05c59a82bea44da95609040904ceaf38b0b96d43c5a98f",
+   "cueDialogueChars": 140,
+   "triggerQuerySha256": "38e758ae971a22aa449c0fc08b349a278923e6972848bfbe0e2e902dad9824e0",
+   "triggerQueryChars": 83,
+   "triggerTextSha256": "b0c43fbfb0a517a9ea754d5c452d1b8e6d09221a862f455b521c6e0e27583d6c",
+   "triggerTextChars": 80
+  },
+  {
+   "sampleId": "cog_0060",
+   "baseId": "conv-43",
+   "relation": "state",
+   "timeGap": "about two weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "cec33787b3559ea5a3106129af2dd0be5298253017a02f15648a0c3b426d801d",
+     "textChars": 92
+    },
+    {
+     "speaker": "John",
+     "textSha256": "36320de4cfdad5ee52d8a60a62e1b00da2095dbb9928842202ac5d8ab001f683",
+     "textChars": 48
+    }
+   ],
+   "cueDate": "2024-01-05",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 27,
+   "cuePosition": 644,
+   "triggerPosition": 682,
+   "suffixSessions": 2,
+   "suffixTurns": 36,
+   "cueDialogueSha256": "420dcc75d1dc780a1703ed240e457e9b92f5532cf153f18138a8325e8e6e960d",
+   "cueDialogueChars": 147,
+   "triggerQuerySha256": "15573259145acbac8936d2611716a31c1346cdcbb9f674cbb1c4fb89416e174d",
+   "triggerQueryChars": 122,
+   "triggerTextSha256": "0cd7a6492e9bf9981d646123a81688ed74fd3a7db80e117aec98a5027c915d7a",
+   "triggerTextChars": 119
+  },
+  {
+   "sampleId": "cog_0064",
+   "baseId": "conv-42",
+   "relation": "goal",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "efe9704b138e3217590d3e2aa30ad59168c633a623b8673e20a67368f597d165",
+     "textChars": 81
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "cd56ee07d42b274d198c37fcfb345385449e547969d36e85086634b8a59ce307",
+     "textChars": 68
+    }
+   ],
+   "cueDate": "2022-08-20",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 18,
+   "cuePosition": 357,
+   "triggerPosition": 631,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "c1e2198868a0974dfefeaa6df1560f72ebddc91b1aef6c8a5cacebaee0a500fa",
+   "cueDialogueChars": 156,
+   "triggerQuerySha256": "d793697ffaff2b265d2115c01a6a584374595adeeac348f9408e20ce305c9f50",
+   "triggerQueryChars": 155,
+   "triggerTextSha256": "24a64f381a6201e741ff057c7741c7ccef15c6e71d1a2235bca0212736304d3a",
+   "triggerTextChars": 152
+  },
+  {
+   "sampleId": "cog_0068",
+   "baseId": "conv-30",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "5a6a44922e36443db3e0d5d96d121d97dd45b18c5115221b957b8cf9a51bd9ee",
+     "textChars": 62
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "3f543fd8c448e075e9961b775d23abcc6cf2aba8f0b3fe7f28aab8be67588381",
+     "textChars": 44
+    }
+   ],
+   "cueDate": "2023-05-31",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 12,
+   "cuePosition": 231,
+   "triggerPosition": 371,
+   "suffixSessions": 7,
+   "suffixTurns": 138,
+   "cueDialogueSha256": "5140668e45b825e3411bfb52382c3e24057b4f55794b14bfbcc7c9fdce4d0c9a",
+   "cueDialogueChars": 113,
+   "triggerQuerySha256": "24d84ec1f8cd6d8475c3a0951dff1f08284eca42eaf7258ff45aea91d0b58763",
+   "triggerQueryChars": 74,
+   "triggerTextSha256": "a0ec1e3cd0b0cf0d1cb6734c74175dbde6bdf04c63c0ec32adaf761a45b91cce",
+   "triggerTextChars": 71
+  },
+  {
+   "sampleId": "cog_0072",
+   "baseId": "conv-47",
+   "relation": "causal",
+   "timeGap": "about three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "85067bb3b3e4d91c4ed1a2aabf70ffd61afa005a7d4cd901e94583f65c933a0a",
+     "textChars": 88
+    },
+    {
+     "speaker": "John",
+     "textSha256": "8c7b737c3e4a71f9f4778d07ec75c9ee7d997e5f63312b183bf3350cc58cc593",
+     "textChars": 58
+    }
+   ],
+   "cueDate": "2022-10-24",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 28,
+   "cuePosition": 629,
+   "triggerPosition": 691,
+   "suffixSessions": 3,
+   "suffixTurns": 60,
+   "cueDialogueSha256": "3b69aa58ead870b4fbf03ba98ad2c0f5532b6578ab7ae5b82a93572812d070c1",
+   "cueDialogueChars": 153,
+   "triggerQuerySha256": "5081ce67f3521a97487d35165f21835c341d4f352468fb05bf0e78d5e805d3fe",
+   "triggerQueryChars": 158,
+   "triggerTextSha256": "4a4a576a2b2236d1b38cb5d900964c2737324e2862e3f397ca64d00bbd1bddd0",
+   "triggerTextChars": 155
+  },
+  {
+   "sampleId": "cog_0076",
+   "baseId": "conv-30",
+   "relation": "value",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "87c169a6f91131f6671bdf17e71f2c661af9d3dffd74a89427eb7f64f01ffaff",
+     "textChars": 123
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "3f97f08d5d8bb2b4f18a324607e687836fe5c075acc17454e84a1ff0f1bc53f6",
+     "textChars": 41
+    }
+   ],
+   "cueDate": "2023-01-31",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 2,
+   "cuePosition": 44,
+   "triggerPosition": 371,
+   "suffixSessions": 17,
+   "suffixTurns": 325,
+   "cueDialogueSha256": "74c4169ed2b13369bcff157b4354f38e4ddbae9345bbe54d2a926a07599f2e20",
+   "cueDialogueChars": 171,
+   "triggerQuerySha256": "9e9ba15372cc7a38eea80b05a714789f1373d1b3f63d584c3d22fa8560146d9c",
+   "triggerQueryChars": 121,
+   "triggerTextSha256": "3086e28b673468654161c922927afbc5aa81926a8f7eb78cc4bd6817edd1a3f7",
+   "triggerTextChars": 118
+  },
+  {
+   "sampleId": "cog_0080",
+   "baseId": "conv-43",
+   "relation": "state",
+   "timeGap": "about one month later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "b4746559c9ff38ed3a8f841421a3bc73850babda2547a8f5e3cb8cd3218fdeb3",
+     "textChars": 88
+    },
+    {
+     "speaker": "John",
+     "textSha256": "7344d436390110fae1491b93c0d1dff51741c50b979ab2b5b85cfc1b43afe474",
+     "textChars": 59
+    }
+   ],
+   "cueDate": "2023-12-20",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 25,
+   "cuePosition": 566,
+   "triggerPosition": 682,
+   "suffixSessions": 4,
+   "suffixTurns": 114,
+   "cueDialogueSha256": "9e5ddbfb32cf941961987fa7f3666b2e5e2f1ddf4b6ad429dd82f86009a51fea",
+   "cueDialogueChars": 154,
+   "triggerQuerySha256": "d48bbcf8d7a013bc1c03e67cf7814a596adb738c655039fa59b5ed81dc88a964",
+   "triggerQueryChars": 182,
+   "triggerTextSha256": "acbca92429a05648c704cee8ebb9b4557a9d085ea48b39bbf1c5d59823197ef9",
+   "triggerTextChars": 179
+  },
+  {
+   "sampleId": "cog_0084",
+   "baseId": "conv-47",
+   "relation": "value",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "35b787687f4b645ac00699ce069c1b0b1bc87f4ab71a45a40d806519364a2ca5",
+     "textChars": 111
+    },
+    {
+     "speaker": "John",
+     "textSha256": "70eedf01fa951b5b676b3ac25061b5b06df4e7b7028175786e4be1eee3900917",
+     "textChars": 47
+    }
+   ],
+   "cueDate": "2022-09-15",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 23,
+   "cuePosition": 519,
+   "triggerPosition": 691,
+   "suffixSessions": 8,
+   "suffixTurns": 170,
+   "cueDialogueSha256": "91950f0e497de8ea2873c46b0af976ea5aad261e4fccde62bda828579becf2db",
+   "cueDialogueChars": 165,
+   "triggerQuerySha256": "523c3f3f1b95ef8791397fcb86b62f541dc4f0d6092dfe0d41c169abeca425e6",
+   "triggerQueryChars": 142,
+   "triggerTextSha256": "1f6c3ada4f4481212075eb53ccb4d19bbef03129260282420cc97b04b5bd5969",
+   "triggerTextChars": 139
+  },
+  {
+   "sampleId": "cog_0088",
+   "baseId": "conv-50",
+   "relation": "value",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "493ee3f98a4235727f6d67bc562f680dae39816ddb022a4c38bcdc39494d1979",
+     "textChars": 56
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "d85f75fb5742ba38b625222564dc5977e40226391b0502b6951af240dfc10860",
+     "textChars": 61
+    }
+   ],
+   "cueDate": "2023-10-25",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 25,
+   "cuePosition": 455,
+   "triggerPosition": 570,
+   "suffixSessions": 5,
+   "suffixTurns": 113,
+   "cueDialogueSha256": "7758c0a0357cdc7100e9cfac3089b7c41d8a57458b80557c83156dd33bff58ba",
+   "cueDialogueChars": 124,
+   "triggerQuerySha256": "bf548b17cace4135f202a3fc2b858b6ad8cf477ce36fd9b718d1de2f2b00e829",
+   "triggerQueryChars": 98,
+   "triggerTextSha256": "9c7b01430f8b200995f9e057371c8000a1832a2420d05a14316ee196bce3d9af",
+   "triggerTextChars": 95
+  },
+  {
+   "sampleId": "cog_0092",
+   "baseId": "conv-50",
+   "relation": "goal",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "98522dd6821eef6fe9250553bf70a277dfa85c5001944c7ccc75d5f12b60b59c",
+     "textChars": 97
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "66592996c06126325241425ea3cb55d626e26c52b970ca1b4bb277f46f930c6d",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2023-05-28",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 6,
+   "cuePosition": 119,
+   "triggerPosition": 570,
+   "suffixSessions": 24,
+   "suffixTurns": 449,
+   "cueDialogueSha256": "6e3d64105871ed83d41b97e5ea6c6e6f2007a28a422f41f444a371edf39f28c3",
+   "cueDialogueChars": 173,
+   "triggerQuerySha256": "c6e71851955c898edcbf77866fddf023afa9bd62816ed212c5ca420edc3bd05f",
+   "triggerQueryChars": 212,
+   "triggerTextSha256": "0d9cd838df9c50c73f32e0dc97275a2e9b2d6823876ff7f736db2a0c134af3df",
+   "triggerTextChars": 209
+  },
+  {
+   "sampleId": "cog_0096",
+   "baseId": "conv-47",
+   "relation": "state",
+   "timeGap": "four months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "1b0793626a173b76926460b21d6cd2a0d378871818d252bf9f693e7181d37044",
+     "textChars": 60
+    },
+    {
+     "speaker": "John",
+     "textSha256": "b4a1f78b6024a690d7e9f0f4daea968c0d716a3cf5530fbe15f677d07e52ec20",
+     "textChars": 37
+    }
+   ],
+   "cueDate": "2022-07-17",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 16,
+   "cuePosition": 364,
+   "triggerPosition": 691,
+   "suffixSessions": 15,
+   "suffixTurns": 325,
+   "cueDialogueSha256": "e96b5f328cc182fcdf1a46515b95ad69c92eb1a11695868f79001cbefb733655",
+   "cueDialogueChars": 104,
+   "triggerQuerySha256": "a2e4a74a3bddbcaa729bac56360e5a40872009cf625a64c7d5fd72144985b005",
+   "triggerQueryChars": 63,
+   "triggerTextSha256": "19920902537f5b1c9d68afd4a47ced70bfe27acef981519c9ca3fd5b0c9ae6c9",
+   "triggerTextChars": 60
+  },
+  {
+   "sampleId": "cog_0100",
+   "baseId": "conv-42",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "4ac290fc0c274d5d5ef43a32d174080d6dd3c431be367c1a1f6ead24d2acaa76",
+     "textChars": 100
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "c92eb349dd7fd463cf2c8055846e504b9e9b3ff4bd92252f380d35a1e292cd26",
+     "textChars": 50
+    }
+   ],
+   "cueDate": "2022-09-19",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 21,
+   "cuePosition": 418,
+   "triggerPosition": 631,
+   "suffixSessions": 8,
+   "suffixTurns": 211,
+   "cueDialogueSha256": "99390c016ba69a7d6eea3784faba97770488031df224ad4e68feaac797e4a56a",
+   "cueDialogueChars": 157,
+   "triggerQuerySha256": "2ed0d31a498633c02ca6a2351e4e55a2545b1ec980c9925b03120c09036e6c73",
+   "triggerQueryChars": 146,
+   "triggerTextSha256": "a15e324cc8dfff41e948f2658cc1cb1b092bbaba79ed3d9dba11891eb6d3fa81",
+   "triggerTextChars": 143
+  },
+  {
+   "sampleId": "cog_0104",
+   "baseId": "conv-44",
+   "relation": "value",
+   "timeGap": "several months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "1a3f9b856bdd3b6156e8308b11798b10d766ef923b55afe3e740f54ce6aa77e0",
+     "textChars": 113
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "41baf422977f82639801953bb93cce8ea6c45e4f58dd62f3041275f0440a1bd7",
+     "textChars": 31
+    }
+   ],
+   "cueDate": "2023-11-29",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 28,
+   "cuePosition": 675,
+   "triggerPosition": 677,
+   "suffixSessions": 0,
+   "suffixTurns": 0,
+   "cueDialogueSha256": "3ee3ea5ab08b6bae2601a03403ed2c0ff7d9b11e0e96a618cc75bee4648d9b6c",
+   "cueDialogueChars": 151,
+   "triggerQuerySha256": "000a8940cc9647af11316b1018848b39cb67b5f550d33823aa5fc4832b1f8ecd",
+   "triggerQueryChars": 102,
+   "triggerTextSha256": "81f6bcd27fbf813c92470edf1567df1a417b648fc0f1a8a0eeea54512cfa7b7d",
+   "triggerTextChars": 99
+  },
+  {
+   "sampleId": "cog_0108",
+   "baseId": "conv-43",
+   "relation": "goal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "efa1ea9b3a17d2bbe6c368e94f02d416f204f0283df899ad587bcc70bcd9ecf9",
+     "textChars": 99
+    },
+    {
+     "speaker": "John",
+     "textSha256": "36a6825070bbc44a90085a0cf0f4355c8cb26e687c7102f73891911a929057a2",
+     "textChars": 75
+    }
+   ],
+   "cueDate": "2023-11-20",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 18,
+   "cuePosition": 410,
+   "triggerPosition": 682,
+   "suffixSessions": 11,
+   "suffixTurns": 270,
+   "cueDialogueSha256": "3ca7a537c81930e82459be7d0e14ae897be84624033dc2125f218298d538df74",
+   "cueDialogueChars": 181,
+   "triggerQuerySha256": "e97867c498bd0532f080e5f59231626cbdb045c468c9b143c9405909231797ee",
+   "triggerQueryChars": 161,
+   "triggerTextSha256": "3715f9679cfc8e93cacb7a779a17b5c759ba48f3906808589099b10232449198",
+   "triggerTextChars": 158
+  },
+  {
+   "sampleId": "cog_0112",
+   "baseId": "conv-44",
+   "relation": "state",
+   "timeGap": "around five months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "df69644639b0052b995efb81556bb9a021ccf97f899738a44fa412cf82b7a2d8",
+     "textChars": 86
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "cd8ef6cbfefd0e2d79f86822fd12d7a334a73dcf051a6b0fd4a79425ad32dc91",
+     "textChars": 58
+    }
+   ],
+   "cueDate": "2023-07-02",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 9,
+   "cuePosition": 217,
+   "triggerPosition": 677,
+   "suffixSessions": 19,
+   "suffixTurns": 458,
+   "cueDialogueSha256": "19f3f66b426e68f4d214d2432c6e5ece87f24c55a54d2bbf37b274262b1ff3f0",
+   "cueDialogueChars": 151,
+   "triggerQuerySha256": "e7d1e9363e5bc1c3c6572c44fe672e4acd2e964199d69605eb8e621523b79d3f",
+   "triggerQueryChars": 168,
+   "triggerTextSha256": "b396bdf73dbff15d1bcbacce14c8a236dffe97d4dd8b20a31ac84efcc1707869",
+   "triggerTextChars": 165
+  },
+  {
+   "sampleId": "cog_0116",
+   "baseId": "conv-41",
+   "relation": "goal",
+   "timeGap": "about three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "48ebe120cf9c4752f0a143705b8b6362e1b95fcd9a70256e2969835870978d4d",
+     "textChars": 85
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "11b9cb2899848e3ea80068edaba46d8913c8f125b440f24c7c964dc509729932",
+     "textChars": 62
+    }
+   ],
+   "cueDate": "2023-08-02",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 26,
+   "cuePosition": 547,
+   "triggerPosition": 665,
+   "suffixSessions": 6,
+   "suffixTurns": 116,
+   "cueDialogueSha256": "fcb85cc0bca56d58b5e7d8de201e11b24882a9e79909ad3711d5cb1047915687",
+   "cueDialogueChars": 154,
+   "triggerQuerySha256": "6a29a708a7c24bc14f78a49a2a68461c5a7d34db65ddbe41ecc4202cedc40c51",
+   "triggerQueryChars": 113,
+   "triggerTextSha256": "e1409005690c3292176c01b78619a06bc13da96ecbbdbbffa8dcc99a270cddd1",
+   "triggerTextChars": 110
+  },
+  {
+   "sampleId": "cog_0120",
+   "baseId": "conv-41",
+   "relation": "causal",
+   "timeGap": "four months later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "891887bc184476feba7d9e6e6fbddd8f6a0b7eff1bebb9598ad01840ce6f6f00",
+     "textChars": 104
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "53b382c149fbd4824f6c9e8c50ec69fc2d05d5cbba5770968df7377660fb34c0",
+     "textChars": 64
+    }
+   ],
+   "cueDate": "2023-04-25",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 12,
+   "cuePosition": 248,
+   "triggerPosition": 665,
+   "suffixSessions": 20,
+   "suffixTurns": 415,
+   "cueDialogueSha256": "fb909fad39e8b917182eaa57f0a80456bf1903741c817a6fb874c1678da37e80",
+   "cueDialogueChars": 175,
+   "triggerQuerySha256": "3a91a168f371eab2cdb035d2feb741bfc1889e7801256cbdefcda159a9c6dc9f",
+   "triggerQueryChars": 169,
+   "triggerTextSha256": "dba99dfa09cb3ae3c9255cb6fac6dfb2f38fa243325cc4622c6e80057f331192",
+   "triggerTextChars": 166
+  },
+  {
+   "sampleId": "cog_0124",
+   "baseId": "conv-47",
+   "relation": "causal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "5fd4a543cffce0fdf41ba19c4e45a641eafe4e305e2792a7abe54805020419e2",
+     "textChars": 91
+    },
+    {
+     "speaker": "John",
+     "textSha256": "9072c5e523d611002b372baba51bf4f991b9928855501ab58667ad9b74f8533b",
+     "textChars": 58
+    }
+   ],
+   "cueDate": "2022-09-15",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 23,
+   "cuePosition": 519,
+   "triggerPosition": 691,
+   "suffixSessions": 8,
+   "suffixTurns": 170,
+   "cueDialogueSha256": "cbda5663bd24ee7dfba885de72652cad6a4449781d5bf61a5c26e24bf5fe87cd",
+   "cueDialogueChars": 156,
+   "triggerQuerySha256": "2665f52f4da4897ec8d961d8e3a6c2fa0855b12f2e2faa8390bd64db56a7c0cf",
+   "triggerQueryChars": 159,
+   "triggerTextSha256": "8b414725d40a70395e6e415aae50af4124c2d6ca4224c77b5c9cd91c438e0c0d",
+   "triggerTextChars": 156
+  },
+  {
+   "sampleId": "cog_0128",
+   "baseId": "conv-43",
+   "relation": "value",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "742a219298cae24d086e0fe80a57c394ca0e28f9a3a94e18a0b6b8ee38ee31b9",
+     "textChars": 93
+    }
+   ],
+   "cueDate": "2023-10-21",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 14,
+   "cuePosition": 321,
+   "triggerPosition": 681,
+   "suffixSessions": 15,
+   "suffixTurns": 359,
+   "cueDialogueSha256": "21d231848b3566e2573c0e1878f6c42239c0082d833ae19dadef70af6dbeb3dc",
+   "cueDialogueChars": 96,
+   "triggerQuerySha256": "f2aff303c875c658e9275fadbc177f7b631ab8f76225cfbfb5e398f60e93fed3",
+   "triggerQueryChars": 153,
+   "triggerTextSha256": "31626ef97927a36915e4d1fc1c8de1e6e9397e578033e07b14967dc7e402975f",
+   "triggerTextChars": 150
+  },
+  {
+   "sampleId": "cog_0132",
+   "baseId": "conv-50",
+   "relation": "goal",
+   "timeGap": "six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "576ff0f8ba6ae8a09629da235c349eabccd25ed8079811c51d5c98541f3e879f",
+     "textChars": 65
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "47189fc0cce3d9418440fd9f444e3c1060b108a6516f0694068e7379829fcf23",
+     "textChars": 47
+    }
+   ],
+   "cueDate": "2023-10-13",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 22,
+   "cuePosition": 383,
+   "triggerPosition": 570,
+   "suffixSessions": 8,
+   "suffixTurns": 185,
+   "cueDialogueSha256": "27f622546f102ff30e6826ad04147425139cd9cf40d159d7c6e8b50a9b1adeeb",
+   "cueDialogueChars": 119,
+   "triggerQuerySha256": "0140862e2ae7a587e713702586a4a93e16c52f5c48eaf060bd8f4d63f4cd1b8d",
+   "triggerQueryChars": 90,
+   "triggerTextSha256": "c6d3ba086b6cd2208de4c07b36c84ecf38fb8f93f7bf93fd004a88a5ad3627fc",
+   "triggerTextChars": 87
+  },
+  {
+   "sampleId": "cog_0136",
+   "baseId": "conv-48",
+   "relation": "value",
+   "timeGap": "one year later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "13e55c0ecfb13f3b5e61868e9c0f5aec0d593edec2ea540e3c4658bc8f9aa315",
+     "textChars": 118
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "2da60495e55f2c8554b6008bea5c2f2b7e56f9247faeacc11a01c184e1ca4ca5",
+     "textChars": 40
+    }
+   ],
+   "cueDate": "2022-09-27",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 0,
+   "cuePosition": 0,
+   "triggerPosition": 683,
+   "suffixSessions": 30,
+   "suffixTurns": 681,
+   "cueDialogueSha256": "9c4592a39e20aff230100b904575ad5c3c4ac444d0981a7dc9295e4ff14ed28e",
+   "cueDialogueChars": 165,
+   "triggerQuerySha256": "02398837bd44dd3a2bf5787fe40e0ee98fd4437a432fcfdfadd2070820034b82",
+   "triggerQueryChars": 91,
+   "triggerTextSha256": "17c38c1e2c8e7503b28464960c009f2d08dcae59a7add0758f7a758bd3d271e2",
+   "triggerTextChars": 88
+  },
+  {
+   "sampleId": "cog_0140",
+   "baseId": "conv-41",
+   "relation": "goal",
+   "timeGap": "four months later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "61a893c825a6a3deb03d3aa140acec2d380ea284b0fe77957aaf244defbaf7b2",
+     "textChars": 80
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "82d3f47e2c4cfdeef66ee7c60badd17989fa964a2198de92d31080b7da4846e2",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2023-04-25",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 12,
+   "cuePosition": 248,
+   "triggerPosition": 665,
+   "suffixSessions": 20,
+   "suffixTurns": 415,
+   "cueDialogueSha256": "6179e604b21dfdacebbdd98bc26b8612f092b5fa885a1104418ce1caaa9df8fe",
+   "cueDialogueChars": 156,
+   "triggerQuerySha256": "f2996ceded92ca9187d213b38140ff5a224f8155212eb04f11e6de1f0a6f538e",
+   "triggerQueryChars": 167,
+   "triggerTextSha256": "2442965457868fd1f42babbd982330625523e4ee60187e8e0678d7c9f0618bd6",
+   "triggerTextChars": 164
+  },
+  {
+   "sampleId": "cog_0144",
+   "baseId": "conv-50",
+   "relation": "goal",
+   "timeGap": "six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "01aa47b9e86fc0010bcc80d66d59fc1f34aca45aeb055586cf126cc560e56ce6",
+     "textChars": 100
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "b25f459fc39ab5003b6027dcbeb0e374998d9d9adff0e63db3104db2be05cdc3",
+     "textChars": 68
+    }
+   ],
+   "cueDate": "2023-10-13",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 22,
+   "cuePosition": 383,
+   "triggerPosition": 570,
+   "suffixSessions": 8,
+   "suffixTurns": 185,
+   "cueDialogueSha256": "bd8801a793e087be20a2182c0d61fbe5751949fa2e7d28bb2b75ea6592438352",
+   "cueDialogueChars": 175,
+   "triggerQuerySha256": "401618d62aa68f4edae6e7deed431b34411d5625ca3e6a32f57e488403c474f9",
+   "triggerQueryChars": 165,
+   "triggerTextSha256": "a5c501e3a58fe9f58ab44cc8a56d6260fb6ae910cd56606cb9f0b7c6b3a48cf1",
+   "triggerTextChars": 162
+  },
+  {
+   "sampleId": "cog_0148",
+   "baseId": "conv-43",
+   "relation": "goal",
+   "timeGap": "four months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "6c85d1682bca21695d7f117d137e2e83661277a0387be629404502bd6273f5b9",
+     "textChars": 161
+    }
+   ],
+   "cueDate": "2023-09-21",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 10,
+   "cuePosition": 217,
+   "triggerPosition": 681,
+   "suffixSessions": 19,
+   "suffixTurns": 463,
+   "cueDialogueSha256": "24795c3be1adca24d6f6cda6a2cf0d56d849c5fa90f3ccd54587d45f16042eb4",
+   "cueDialogueChars": 164,
+   "triggerQuerySha256": "fea1662f173ff7d2f87cbc56fb444b2e28c285f99f0c1455fc533a41b8f3852e",
+   "triggerQueryChars": 132,
+   "triggerTextSha256": "080f63e9ca87e78fcefcfd8b7775463b2db77c3f174e3d457aa748a36e40e99b",
+   "triggerTextChars": 129
+  },
+  {
+   "sampleId": "cog_0152",
+   "baseId": "conv-26",
+   "relation": "causal",
+   "timeGap": "six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Caroline",
+     "textSha256": "b64c0f03919a03a5db8b13a040e6191c411d3d11f091c564cb6c2dff38cb8305",
+     "textChars": 83
+    },
+    {
+     "speaker": "Melanie",
+     "textSha256": "70392961306be648ee45b81975e5f90b281626ad709da7eac0563cadec6fc48d",
+     "textChars": 59
+    }
+   ],
+   "cueDate": "2023-09-17",
+   "queryDate": "2023-10-29",
+   "cueAfterSession": 16,
+   "cuePosition": 354,
+   "triggerPosition": 421,
+   "suffixSessions": 3,
+   "suffixTurns": 65,
+   "cueDialogueSha256": "504c273259684c20cf9867e15ab61ab3c09f09c63812eb7e9231ae30cc5e6441",
+   "cueDialogueChars": 149,
+   "triggerQuerySha256": "b149e65977031fe4ab1336a0b34e699af3803e4c70cc3186e0c71ab0a1e49a1f",
+   "triggerQueryChars": 159,
+   "triggerTextSha256": "db91554f5812727acceeec29fb48647031221bce09df98a0b2a89ee680f5f02b",
+   "triggerTextChars": 156
+  },
+  {
+   "sampleId": "cog_0156",
+   "baseId": "conv-50",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "e9af99d0207f542da5edbaccb41d161b860be77529c3e029409cfd9956b708c2",
+     "textChars": 60
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "2812825a7a4cc2a848f94dcea607cde3297c1cfb926e942fa606d547e788d596",
+     "textChars": 47
+    }
+   ],
+   "cueDate": "2023-09-25",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 20,
+   "cuePosition": 351,
+   "triggerPosition": 570,
+   "suffixSessions": 10,
+   "suffixTurns": 217,
+   "cueDialogueSha256": "15619ab9a9050ac3100c3d973a8974a1b66b88a1e9f0fb049513c8ffa2a633a3",
+   "cueDialogueChars": 114,
+   "triggerQuerySha256": "dc76bb9181052a1dd862c9d39fc71dc4a804e112cba742749f262d4d109a3876",
+   "triggerQueryChars": 83,
+   "triggerTextSha256": "48b12147ad1152219d933ec2c5c4afc20a1a05236f731acbf15e804e4b57cca3",
+   "triggerTextChars": 80
+  },
+  {
+   "sampleId": "cog_0160",
+   "baseId": "conv-50",
+   "relation": "goal",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "816ef57c61a6b15a1dc9a028aaeb8b6a320becb33e869271bc6f359be488be59",
+     "textChars": 98
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "e127bfbc1df2aeb91fae90a68db596983f47599caea992193e699e835d1add63",
+     "textChars": 72
+    }
+   ],
+   "cueDate": "2023-08-26",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 15,
+   "cuePosition": 271,
+   "triggerPosition": 570,
+   "suffixSessions": 15,
+   "suffixTurns": 297,
+   "cueDialogueSha256": "70244527b14149002affdf119f2914a1a8adc36075ac985e8e850bae8871d6a6",
+   "cueDialogueChars": 177,
+   "triggerQuerySha256": "a0ec81f2cbd150b4722bc89061b20d74caf9959c04ea0886111eefe8d6d15a2a",
+   "triggerQueryChars": 153,
+   "triggerTextSha256": "4613359843fbf9b02440351e05344d5f3017955c50803d9c52ec39a4e7e43c63",
+   "triggerTextChars": 150
+  },
+  {
+   "sampleId": "cog_0164",
+   "baseId": "conv-47",
+   "relation": "value",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "6bc0335dd7062b2d57221a135ab751aa985d77b264376bc4b314da63dd6acdba",
+     "textChars": 104
+    },
+    {
+     "speaker": "John",
+     "textSha256": "51fd6289562d55894a23d408e43751c7059df2558fbcf5b60222fa9ead0a3096",
+     "textChars": 32
+    }
+   ],
+   "cueDate": "2022-05-18",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 11,
+   "cuePosition": 261,
+   "triggerPosition": 691,
+   "suffixSessions": 20,
+   "suffixTurns": 428,
+   "cueDialogueSha256": "a29f1f0f913fa5e9110bcf99acb8a74298078cf1e8bd6c715ce3fc4eb6f14930",
+   "cueDialogueChars": 143,
+   "triggerQuerySha256": "fd0104895f0ccf26b3256f08b6ab8546e78bfd853ca62e26c25fac7755b58482",
+   "triggerQueryChars": 109,
+   "triggerTextSha256": "13a2d9a7b27b439e2b9e9a5d1ef3366c4079b3bbc9bda67b1cbeca7b2a8bf084",
+   "triggerTextChars": 106
+  },
+  {
+   "sampleId": "cog_0168",
+   "baseId": "conv-30",
+   "relation": "state",
+   "timeGap": "about three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "6cf86931a3e18259ec898b40e77c4fbfe1c8ed85947bd9e63fdac3f4dc0870b8",
+     "textChars": 94
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "2eadc3cd39893a93dca222d73f773528eb8fa0df53097c9c872d4b2d2f0daf4f",
+     "textChars": 60
+    }
+   ],
+   "cueDate": "2023-07-09",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 17,
+   "cuePosition": 333,
+   "triggerPosition": 371,
+   "suffixSessions": 2,
+   "suffixTurns": 36,
+   "cueDialogueSha256": "fbaee3d145a3feef4dec527b614db6d3e324925b213a25e1aef15e83ea19f4ff",
+   "cueDialogueChars": 161,
+   "triggerQuerySha256": "c73f282a97a8fb901c2667d75910dbab1af7700223134b460aa8e10537c1b55e",
+   "triggerQueryChars": 128,
+   "triggerTextSha256": "ce2b11fe9c368b529312ed52dc51041a6bfb14f7eefcd4af8e57c76d47fc0605",
+   "triggerTextChars": 125
+  },
+  {
+   "sampleId": "cog_0172",
+   "baseId": "conv-49",
+   "relation": "value",
+   "timeGap": "five months later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "44a24998e65b11767960422f47c1d99cd20c942c8cdfbadbd33a71a32e6c503a",
+     "textChars": 105
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "9fd4ae146a733a6a5053de781a01c193251035bdecf2634a89737b25fc3046b8",
+     "textChars": 28
+    }
+   ],
+   "cueDate": "2023-08-21",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 8,
+   "cuePosition": 170,
+   "triggerPosition": 511,
+   "suffixSessions": 17,
+   "suffixTurns": 339,
+   "cueDialogueSha256": "2a830c99c62cd92df7450b3546bcab2e8e916b92d7a61176a3b509953c78694a",
+   "cueDialogueChars": 140,
+   "triggerQuerySha256": "4088ed2d8ca8342b1d12cd35d66daddba87a84534d153e25fc5872db19f24325",
+   "triggerQueryChars": 102,
+   "triggerTextSha256": "4c7d42b4cac138ed8214fe73a46fcd88593896ba4d0e7d68a8b57fdf75d2e96d",
+   "triggerTextChars": 99
+  },
+  {
+   "sampleId": "cog_0176",
+   "baseId": "conv-42",
+   "relation": "goal",
+   "timeGap": "about six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "a67bfe972e46b5974032933e72e5f77c9e2cf29f2b5b56fe470b5e1f807f5e1b",
+     "textChars": 94
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "103df8c2faca3a9db7c1aa9b8a6ac4743f3ac948b49c48e487c1af2cf1bf5212",
+     "textChars": 72
+    }
+   ],
+   "cueDate": "2022-10-07",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 22,
+   "cuePosition": 441,
+   "triggerPosition": 631,
+   "suffixSessions": 7,
+   "suffixTurns": 188,
+   "cueDialogueSha256": "0b973e9fe69c8d705cee758b132a2c2788b85d87cbb5194baae4a4bbc2cdde73",
+   "cueDialogueChars": 173,
+   "triggerQuerySha256": "e9310eba20d387c088fd7f863c73ac57f5c79213de1abbd312a5177f337a495e",
+   "triggerQueryChars": 174,
+   "triggerTextSha256": "a2550f7c432a9e089e9c9b8f886b8c75ca411bbd99ea78c4098446fe76479d66",
+   "triggerTextChars": 171
+  },
+  {
+   "sampleId": "cog_0180",
+   "baseId": "conv-48",
+   "relation": "goal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "8d0ffe852c5b68760cd77db113aa3e791f67cdfdcd0d27aac7772c574438f413",
+     "textChars": 94
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "003f6cc9f50ccc1b16751f93e827ecd35a512e86b8623ddbe5db27a59224c692",
+     "textChars": 60
+    }
+   ],
+   "cueDate": "2023-07-29",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 15,
+   "cuePosition": 351,
+   "triggerPosition": 683,
+   "suffixSessions": 15,
+   "suffixTurns": 330,
+   "cueDialogueSha256": "59ad8f3ad37f7e4a7278621f84ad1f2eb2a7f502609918aef9cf25372288b96b",
+   "cueDialogueChars": 161,
+   "triggerQuerySha256": "0875cbc95af7e0674b9a0018cf929ae2122ea11c336cdcc16e288e77e02e2e01",
+   "triggerQueryChars": 113,
+   "triggerTextSha256": "5cedc7e613fa4fb932cccb8fae2ffeb28357a4f468c455bf808883fa373e45bd",
+   "triggerTextChars": 110
+  },
+  {
+   "sampleId": "cog_0184",
+   "baseId": "conv-44",
+   "relation": "state",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "0aaadd547dfd22977b9dec9a36dcf88431a088e8536f8567b89031f036ece738",
+     "textChars": 77
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "01ae444f280eda97f3197083467219b2b39135de9ba77ed453d76fae3a3e0d08",
+     "textChars": 62
+    }
+   ],
+   "cueDate": "2023-08-31",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 17,
+   "cuePosition": 403,
+   "triggerPosition": 677,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "0219d22c7ec2b66ad7749e6946cfeb92c0a90fc1dd1a2846731aa914e73467ea",
+   "cueDialogueChars": 146,
+   "triggerQuerySha256": "2a35db50c6abb26fd3857e122a3ca5b900ea7af76214fecc3b334c4e47bd5e3b",
+   "triggerQueryChars": 162,
+   "triggerTextSha256": "e4cbb04b9ccc2efd3b9dc6e6e4a81954d004981a66b3525b927afa8b9a6f0fea",
+   "triggerTextChars": 159
+  },
+  {
+   "sampleId": "cog_0188",
+   "baseId": "conv-47",
+   "relation": "value",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "b872fd36192e9c8c66cd06123c5f22a1de7be83e11a6624c9f15d7bf1cf2e82f",
+     "textChars": 126
+    },
+    {
+     "speaker": "John",
+     "textSha256": "f856b326390419bc764b04537104dac6ab3bdf9f98cc2d55b88ab79ea7e162eb",
+     "textChars": 38
+    }
+   ],
+   "cueDate": "2022-05-18",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 11,
+   "cuePosition": 261,
+   "triggerPosition": 691,
+   "suffixSessions": 20,
+   "suffixTurns": 428,
+   "cueDialogueSha256": "acd74debf4472c27360db18deaa4855dde90ebdab1e2c2c8eb4d1d6a450f78d3",
+   "cueDialogueChars": 171,
+   "triggerQuerySha256": "0e8b65bb4ba8e413717b63ea8b31245f4ae0cd208079311cc88373a50762fff0",
+   "triggerQueryChars": 114,
+   "triggerTextSha256": "c70529650f6b0cac6654cc592f9a3958ad9b558433f9434ea74dc47d14f99616",
+   "triggerTextChars": 111
+  },
+  {
+   "sampleId": "cog_0192",
+   "baseId": "conv-48",
+   "relation": "goal",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "b2d81b4e985194f1a09028b4d7bab735393fa8c94f5815004e339725c4dff102",
+     "textChars": 96
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "6ec7f164596f198c7944da217cdec625e31260446079b1c0a7413c7e8ca8dcc7",
+     "textChars": 74
+    }
+   ],
+   "cueDate": "2023-09-06",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 24,
+   "cuePosition": 545,
+   "triggerPosition": 683,
+   "suffixSessions": 6,
+   "suffixTurns": 136,
+   "cueDialogueSha256": "80549b828c75e709357b807ef7f18206a82f60ed915c1c2096e2d277b1d4adbf",
+   "cueDialogueChars": 177,
+   "triggerQuerySha256": "ee18ccccfce7ae3a7645735a86c48f157c30e94d646f61602902b8de2e39d836",
+   "triggerQueryChars": 139,
+   "triggerTextSha256": "1930bf2105d9a7703f39b009ed0d248fa414475f8690bb7bb51db6045be85ebc",
+   "triggerTextChars": 136
+  },
+  {
+   "sampleId": "cog_0196",
+   "baseId": "conv-43",
+   "relation": "causal",
+   "timeGap": "around four months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "f5750ca7668cd1c537e40a06b55d9b0dc32f1f07862c876f2542b485005774a2",
+     "textChars": 105
+    },
+    {
+     "speaker": "John",
+     "textSha256": "a3ac94adc09437118ff9521aca34c6d971e4fbfcc4d3e41bbd173b01a07284c3",
+     "textChars": 76
+    }
+   ],
+   "cueDate": "2023-09-21",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 10,
+   "cuePosition": 217,
+   "triggerPosition": 682,
+   "suffixSessions": 19,
+   "suffixTurns": 463,
+   "cueDialogueSha256": "d2b213935b2bfdd95bbf623a029aa248d862cfbb9882cb0a2843de97ae96e64f",
+   "cueDialogueChars": 188,
+   "triggerQuerySha256": "094a307831e7b3d49389303fc1d53a0d05007091205c9d3ba8820546dd2a569e",
+   "triggerQueryChars": 146,
+   "triggerTextSha256": "88afffc46f1199306db6be087766cab88104e8068211e87b2ab8e38fc5dd95aa",
+   "triggerTextChars": 143
+  },
+  {
+   "sampleId": "cog_0200",
+   "baseId": "conv-43",
+   "relation": "goal",
+   "timeGap": "about eight months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "0a94dfa10387fb658312bd2577566457d5d803fddbf6ebe194b68bee0b7416b3",
+     "textChars": 95
+    },
+    {
+     "speaker": "John",
+     "textSha256": "4b70d8b9672b8ca1036f85c251b14149ed9c60d9262d0cae65d11c45ba9691d6",
+     "textChars": 67
+    }
+   ],
+   "cueDate": "2023-05-24",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 1,
+   "cuePosition": 20,
+   "triggerPosition": 682,
+   "suffixSessions": 28,
+   "suffixTurns": 660,
+   "cueDialogueSha256": "d880c4676f812b8be8c021fd9f8bd88b691dbdd20509c6137917cf1ef58937e7",
+   "cueDialogueChars": 169,
+   "triggerQuerySha256": "483002c51b431382c344b2e08725b0950c0c7fde633b4008c7ff37a117437333",
+   "triggerQueryChars": 167,
+   "triggerTextSha256": "4b57a565f037c442adf839044afe3afd0cfbbc92d55e2c5cb15547bb96cc772a",
+   "triggerTextChars": 164
+  },
+  {
+   "sampleId": "cog_0204",
+   "baseId": "conv-42",
+   "relation": "value",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "047ee1703118010716fdbf26fbc0454238616ea15231950d1bbbaec0f205b521",
+     "textChars": 101
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "d54f55cfb9a18f9470616c02f07d31eb9275e51ebd3a1febc00dc27f89c2c4d1",
+     "textChars": 29
+    }
+   ],
+   "cueDate": "2022-09-19",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 21,
+   "cuePosition": 418,
+   "triggerPosition": 631,
+   "suffixSessions": 8,
+   "suffixTurns": 211,
+   "cueDialogueSha256": "b13274798ce81ae2cf526e5f1d3d259c041cd6cc25626ebc1513eac3ea84c325",
+   "cueDialogueChars": 137,
+   "triggerQuerySha256": "43145c01acacdfe8f97f15b503c7529af5c08358abfbdd787426a851039a401f",
+   "triggerQueryChars": 108,
+   "triggerTextSha256": "2bef5c744a600f4d2468fcf78615e389bec3cf620190c5bc48efce3e54572e57",
+   "triggerTextChars": 105
+  },
+  {
+   "sampleId": "cog_0208",
+   "baseId": "conv-49",
+   "relation": "value",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "f05cd4294ec059ae240cdb5c7e580aacc6eb22aec9c50e6927f5892de4547c9f",
+     "textChars": 68
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "5d08e82770ffcf97c4ebe21abf1de1fda749e3e757283cce503d03c8b9cf4076",
+     "textChars": 41
+    }
+   ],
+   "cueDate": "2023-11-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 16,
+   "cuePosition": 314,
+   "triggerPosition": 511,
+   "suffixSessions": 9,
+   "suffixTurns": 195,
+   "cueDialogueSha256": "fb1d7b51cd347d49a07a3755addb71c273c28384432f95175884d26fef60e1c1",
+   "cueDialogueChars": 116,
+   "triggerQuerySha256": "12e7448c1c7dea5dc7971459e6f632ee11cef388c94c2759ee9e8b64a70e052f",
+   "triggerQueryChars": 107,
+   "triggerTextSha256": "2c2404df9a415028d6d01d8846213bd598390a81105a028adc816c7a86a1b493",
+   "triggerTextChars": 104
+  },
+  {
+   "sampleId": "cog_0212",
+   "baseId": "conv-42",
+   "relation": "goal",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "75bcd3f8d5cad80c7d2e1b7a2096d53519a3c51a5f1fb44337058a11002b7c3d",
+     "textChars": 99
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "8b3eeedd1bdb89ab949c717185c51ef7ca49079e2edec0ac44f43cf1978bde8a",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2022-05-22",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 12,
+   "cuePosition": 237,
+   "triggerPosition": 631,
+   "suffixSessions": 17,
+   "suffixTurns": 392,
+   "cueDialogueSha256": "fe4582ae57d5cb4ad90f98ffca903da86328708478731157740a18b9bb0a6ff2",
+   "cueDialogueChars": 175,
+   "triggerQuerySha256": "7f443ae03366eab570e7756530ae18eaa17a6109801aa453f67c1c04a01e3cd2",
+   "triggerQueryChars": 160,
+   "triggerTextSha256": "e4ef6c188e57e1157e9ab4b25ceedc0f31804d040b494c058ea68496b936eb18",
+   "triggerTextChars": 157
+  },
+  {
+   "sampleId": "cog_0216",
+   "baseId": "conv-30",
+   "relation": "causal",
+   "timeGap": "nine months later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "2d9f9b43137cb299e765794c90a9f90fc624de68488bfe6a6bd7f5d9b862b75f",
+     "textChars": 197
+    }
+   ],
+   "cueDate": "2022-11-02",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 0,
+   "cuePosition": 0,
+   "triggerPosition": 370,
+   "suffixSessions": 19,
+   "suffixTurns": 369,
+   "cueDialogueSha256": "6b7220ad028900a70a625237eecf6d05fa7a214ba50f31c3c2731fac771dacd3",
+   "cueDialogueChars": 200,
+   "triggerQuerySha256": "e2e36d72023a09b379f6dd080367e19e2b43713daad47c48bf275271395b9a7b",
+   "triggerQueryChars": 143,
+   "triggerTextSha256": "ecca0c48a18a82bd820f1ceaf760d9fe3332495f061a61ec290fc0a668b598a3",
+   "triggerTextChars": 140
+  },
+  {
+   "sampleId": "cog_0220",
+   "baseId": "conv-49",
+   "relation": "causal",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "9b5366049a6e7224c21a07741616b66d45149ccb1aa6c13ebbb35b54e082bbb6",
+     "textChars": 67
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "7c51624962e04f9ba13fe9d22483f96844e447560c22ffc350911ed163315fbc",
+     "textChars": 70
+    }
+   ],
+   "cueDate": "2023-12-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 20,
+   "cuePosition": 389,
+   "triggerPosition": 511,
+   "suffixSessions": 5,
+   "suffixTurns": 120,
+   "cueDialogueSha256": "9800e79098b00bbfe6816a6d0c1c28523b31f50fe8b7ffaa73a7bcc08daccd38",
+   "cueDialogueChars": 144,
+   "triggerQuerySha256": "c21435972ea6368b7f0db86c0d8c342866cb2cfffc63e91641d642a7117e28f8",
+   "triggerQueryChars": 81,
+   "triggerTextSha256": "8ba056bba6f2e0f510754fc62eff27df25a747c1ee31b2fad6366c357b9bb7d0",
+   "triggerTextChars": 78
+  },
+  {
+   "sampleId": "cog_0224",
+   "baseId": "conv-42",
+   "relation": "goal",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "026704e994dafaeead1489b23eb2474714c896a9942ec485785e228b55d8cd6a",
+     "textChars": 67
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "17da16d56997a6fcf070a6e56d9593b8f2ef12734801a2c9bf0ff14247e5588e",
+     "textChars": 41
+    }
+   ],
+   "cueDate": "2022-08-20",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 18,
+   "cuePosition": 357,
+   "triggerPosition": 631,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "a7d41490d115d49ea1015f803a7d6a8fd7804b972dfed2a16dfddac7dab77925",
+   "cueDialogueChars": 115,
+   "triggerQuerySha256": "26282543f7c56f71ed63a47896561b188fd749b87b885016363f005548586780",
+   "triggerQueryChars": 80,
+   "triggerTextSha256": "89eec01cbc0e3e0c4b5dead58810925a58e06fb8aba155a70ac5035e8de4e853",
+   "triggerTextChars": 77
+  },
+  {
+   "sampleId": "cog_0228",
+   "baseId": "conv-26",
+   "relation": "causal",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Caroline",
+     "textSha256": "725b2bb6610e3cb5b7aabb3a8e986779eb1d11e6f75ba652ba75a6b75cfcd3eb",
+     "textChars": 98
+    },
+    {
+     "speaker": "Melanie",
+     "textSha256": "215004b0895730c31227838285e792ea40657062c283917558fc65cc37a6b87c",
+     "textChars": 49
+    }
+   ],
+   "cueDate": "2023-10-08",
+   "queryDate": "2023-10-29",
+   "cueAfterSession": 16,
+   "cuePosition": 354,
+   "triggerPosition": 421,
+   "suffixSessions": 3,
+   "suffixTurns": 65,
+   "cueDialogueSha256": "4ea9c7fa6b2c06e8b175fa79d22a087789d6e83b8e1c43f583f3545180ad1b54",
+   "cueDialogueChars": 154,
+   "triggerQuerySha256": "44555c545bb9b657f3d672f82ee17d666260073c8cd4e5ec104aea1b7f7959cd",
+   "triggerQueryChars": 175,
+   "triggerTextSha256": "e2e082a220f3d975591544b61a8408f44e2a2297c55f7d69a5f78a7bde2b340b",
+   "triggerTextChars": 172
+  },
+  {
+   "sampleId": "cog_0232",
+   "baseId": "conv-26",
+   "relation": "value",
+   "timeGap": "a few weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Caroline",
+     "textSha256": "ca263769a9b4eba09e0f249baf7007e9d86685b5c9569884f4666a0e7de769d0",
+     "textChars": 117
+    },
+    {
+     "speaker": "Melanie",
+     "textSha256": "4745306c2583311dcd74edb3945b6ac51e6194894eb1a7e648aa303645aebe12",
+     "textChars": 33
+    }
+   ],
+   "cueDate": "2023-10-29",
+   "queryDate": "2023-10-29",
+   "cueAfterSession": 19,
+   "cuePosition": 419,
+   "triggerPosition": 421,
+   "suffixSessions": 0,
+   "suffixTurns": 0,
+   "cueDialogueSha256": "f0b5d9dbc5d9e2e0dd46b2c1ed588d0b0b563ff5149be5c2403a2319b4187be7",
+   "cueDialogueChars": 157,
+   "triggerQuerySha256": "f64af23bbcc089d911b2bce929bfa6891ba6c9a2e028dd0e6c59b6ca6ea4bf2b",
+   "triggerQueryChars": 99,
+   "triggerTextSha256": "1d754b92299878222bd77121fc0417c1da4aa64a01802102df81c8b68686984b",
+   "triggerTextChars": 96
+  },
+  {
+   "sampleId": "cog_0236",
+   "baseId": "conv-47",
+   "relation": "state",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "9ba3d2ca00d59628cd2d6b64862e7a4258f7e134c614ff260e824810db9a2f1a",
+     "textChars": 68
+    },
+    {
+     "speaker": "John",
+     "textSha256": "65143d69de1df274d7ed7c81d4ceee57a5d783029b5dc3970403fe20c016726f",
+     "textChars": 56
+    }
+   ],
+   "cueDate": "2022-08-16",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 19,
+   "cuePosition": 438,
+   "triggerPosition": 691,
+   "suffixSessions": 12,
+   "suffixTurns": 251,
+   "cueDialogueSha256": "2d1dc7797672989979848662a1aac04ab1c05634c675b0d0a2c3312207c730e7",
+   "cueDialogueChars": 131,
+   "triggerQuerySha256": "e1ceb35b9b5c33f7eb85779f57d5a304815121ca6fbb313fde3778291937767c",
+   "triggerQueryChars": 138,
+   "triggerTextSha256": "c6891f7f66244b8580836deffc44257bbfb8898d7d80aeb7dc03dc761aa2f017",
+   "triggerTextChars": 135
+  },
+  {
+   "sampleId": "cog_0240",
+   "baseId": "conv-42",
+   "relation": "state",
+   "timeGap": "about three months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "100017e1525868de76f5266d0aaa67337f759722f855b91dc20fcf996a480344",
+     "textChars": 83
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "65dd90383251f70e028c4be1b9a32cb668d240d5a9bf5c3a40665afb6f7b4390",
+     "textChars": 60
+    }
+   ],
+   "cueDate": "2022-08-20",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 18,
+   "cuePosition": 357,
+   "triggerPosition": 631,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "436dead7adfdc0812a58f2462f3ee9329e8f09b1c9a3e2b18e88f521a325d38f",
+   "cueDialogueChars": 150,
+   "triggerQuerySha256": "7cfba75552b4887eec5dd174de3df457babbf7174e42f02dc9b53cf32e4b2e6b",
+   "triggerQueryChars": 209,
+   "triggerTextSha256": "24215e85212c80370f389c8cb7497a71a805b6b79abd2ae8811cf4b694ac6c62",
+   "triggerTextChars": 206
+  },
+  {
+   "sampleId": "cog_0244",
+   "baseId": "conv-47",
+   "relation": "state",
+   "timeGap": "about six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "321e59ecbfd9dea6df05730a8e94869b53c21e38c4e959bb1dc47b5349cf97a3",
+     "textChars": 98
+    },
+    {
+     "speaker": "John",
+     "textSha256": "785f73de64f3fee71f6b04fd65622581500de33739994399de7ea12aeb4ead3d",
+     "textChars": 62
+    }
+   ],
+   "cueDate": "2022-10-03",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 26,
+   "cuePosition": 580,
+   "triggerPosition": 691,
+   "suffixSessions": 5,
+   "suffixTurns": 109,
+   "cueDialogueSha256": "b839960b9b73203d21ea1b9b2698fcbb534c3909839670aeb4f95acaef8822c3",
+   "cueDialogueChars": 167,
+   "triggerQuerySha256": "bdd64ada65417a819cae8557993f10f63aae82b91ec609a44892dceff7d5f651",
+   "triggerQueryChars": 203,
+   "triggerTextSha256": "0964e9879ccea01623a86c19bbfaa0cac9419a05e10d2a66e4f3f39301722141",
+   "triggerTextChars": 200
+  },
+  {
+   "sampleId": "cog_0248",
+   "baseId": "conv-44",
+   "relation": "state",
+   "timeGap": "one week later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "2fff60c223940970b3a40567d3ef10afd77dd81bbce4dd441ad062dee5845360",
+     "textChars": 93
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "9e3b14fa88483e74baf44f639f0f4a57025099239aaa6b8e5b0296acdbd75a3f",
+     "textChars": 60
+    }
+   ],
+   "cueDate": "2023-11-22",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 28,
+   "cuePosition": 675,
+   "triggerPosition": 677,
+   "suffixSessions": 0,
+   "suffixTurns": 0,
+   "cueDialogueSha256": "720684ff1f2dff991001570defa9e6f6a62ca8e129b87b2aafdf2dd020df46d8",
+   "cueDialogueChars": 160,
+   "triggerQuerySha256": "90f6ba7544b4efad8a829e5185d271893a40eb3613f504fb8afb3a371e979d51",
+   "triggerQueryChars": 154,
+   "triggerTextSha256": "e04fbfb59ac9e54856c89cdcf8fe9b38a863c84587e23a3ac86fcae2f989a0ff",
+   "triggerTextChars": 151
+  },
+  {
+   "sampleId": "cog_0252",
+   "baseId": "conv-41",
+   "relation": "value",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "d91f2722f962ecf810e8eeef88df1ca2242fd425cf8558292b9a5cf6955f7457",
+     "textChars": 54
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "a9e6644d76aedae48148c7141b1f9b94be6c0b9523335ea2983a381ad880b191",
+     "textChars": 53
+    }
+   ],
+   "cueDate": "2023-08-02",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 26,
+   "cuePosition": 547,
+   "triggerPosition": 665,
+   "suffixSessions": 6,
+   "suffixTurns": 116,
+   "cueDialogueSha256": "70b7e8c46ca7005332a9bff4c34fda0445f2853487126fab978f121109ae8ba7",
+   "cueDialogueChars": 114,
+   "triggerQuerySha256": "ad0bba522929aad6b6d8232d19f0116e91f1561dc64d9ec1968f443f680ea7b0",
+   "triggerQueryChars": 80,
+   "triggerTextSha256": "5014c8e98f673ae2b2b2fedd2bec5dbdc3f54f3eab91f0fc5b24bcb4707e26fd",
+   "triggerTextChars": 77
+  },
+  {
+   "sampleId": "cog_0256",
+   "baseId": "conv-47",
+   "relation": "value",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "7b391f99e3c353ca95881fbb038fa21d82e123b9c2a407512f9efdbba5aefb8d",
+     "textChars": 49
+    },
+    {
+     "speaker": "John",
+     "textSha256": "c30e441ba50d6c3b07eb67063bb4e15721d746d8c63f15b279d48a02e5e702f9",
+     "textChars": 58
+    }
+   ],
+   "cueDate": "2022-05-18",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 11,
+   "cuePosition": 261,
+   "triggerPosition": 691,
+   "suffixSessions": 20,
+   "suffixTurns": 428,
+   "cueDialogueSha256": "1efce1014ae659120ed80ea80f842d4f6429fb9a8851c4d6dde317fc7c94a362",
+   "cueDialogueChars": 114,
+   "triggerQuerySha256": "4f2e1f7a47a568ea46eba85a17e91dfde732128243c42d68bb90de3c17651220",
+   "triggerQueryChars": 94,
+   "triggerTextSha256": "11c560eebc0a823888744cf3bc4939c3e492cd228e4a276910e7004c9d4be9fc",
+   "triggerTextChars": 91
+  },
+  {
+   "sampleId": "cog_0260",
+   "baseId": "conv-30",
+   "relation": "state",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "a1335b464656e3fa373872cda76162ba6e2de6160ae0488bace27b7749660b57",
+     "textChars": 102
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "abada6ee2acb4a63583db37f6b40cf403cbcae0038cd0939146050e47cb210e2",
+     "textChars": 49
+    }
+   ],
+   "cueDate": "2023-01-31",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 2,
+   "cuePosition": 44,
+   "triggerPosition": 371,
+   "suffixSessions": 17,
+   "suffixTurns": 325,
+   "cueDialogueSha256": "ad69cd3b7e3be172c16eaabaa1b22aed74b760db9e50a6b6cae223c6f63a3d38",
+   "cueDialogueChars": 158,
+   "triggerQuerySha256": "40b120349bed53dcdd372e20aea95e43c4ba540cf6768dddb620c883a44de03c",
+   "triggerQueryChars": 112,
+   "triggerTextSha256": "1fd4fad8827cdd666a9acd247bcfad3b6ae71c3748a1cbc29759bf6aba71c4f5",
+   "triggerTextChars": 109
+  },
+  {
+   "sampleId": "cog_0264",
+   "baseId": "conv-41",
+   "relation": "value",
+   "timeGap": "three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "a5368289f697c2c0960bb25505f0d3474adb0eb9608c5febc17eb7e7bbb4ca0c",
+     "textChars": 134
+    }
+   ],
+   "cueDate": "2023-08-02",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 26,
+   "cuePosition": 547,
+   "triggerPosition": 664,
+   "suffixSessions": 6,
+   "suffixTurns": 116,
+   "cueDialogueSha256": "34ce5d2610151f31206ff8b45b9d98c032ba883d5cea63a719c161e2b6ee142b",
+   "cueDialogueChars": 137,
+   "triggerQuerySha256": "312fb8c67b759442fbe89cfc168e9e1d1464785e476fb564afc0ed8acc195dab",
+   "triggerQueryChars": 102,
+   "triggerTextSha256": "b0a3f4e525f3e37914618b13acb38b86b9b871623aba38357baade0304aef706",
+   "triggerTextChars": 99
+  },
+  {
+   "sampleId": "cog_0268",
+   "baseId": "conv-44",
+   "relation": "state",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "067a945e24a8a75d67c8b76db94d64d232a81eb3241efcfd30b007f859103874",
+     "textChars": 77
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "fc337ef826a07af11de6fdb1bd4e39594f292a5ad93c18f304b4dc2b8429699c",
+     "textChars": 66
+    }
+   ],
+   "cueDate": "2023-06-02",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 6,
+   "cuePosition": 149,
+   "triggerPosition": 677,
+   "suffixSessions": 22,
+   "suffixTurns": 526,
+   "cueDialogueSha256": "6682e6bcd34b10dce474e0e797dd4f9f767822d07829103622ce0a7417926338",
+   "cueDialogueChars": 150,
+   "triggerQuerySha256": "5d0441c6c36d4bce421836eb72e57022e8dbeaa97c2cfa40ae141e78acff31c9",
+   "triggerQueryChars": 122,
+   "triggerTextSha256": "de06ab870ec815cc6570e86331ced32c8c9f70be27982f21671f7cb7e6ce148d",
+   "triggerTextChars": 119
+  },
+  {
+   "sampleId": "cog_0272",
+   "baseId": "conv-44",
+   "relation": "goal",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "e2bb2f321aa82d820f2d5017821b8fabb087b47e04a56c5e084e4511e9d803e0",
+     "textChars": 171
+    }
+   ],
+   "cueDate": "2023-08-31",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 17,
+   "cuePosition": 403,
+   "triggerPosition": 676,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "dac1ccc2cc5610f3b8a9bf6b6212b575c669c5562979f19632c8b9b8e8b2bff4",
+   "cueDialogueChars": 174,
+   "triggerQuerySha256": "ed691a3b37b084e8012d15884be498fcef1e9cb0fa1f9035e1be4e8415cb00b1",
+   "triggerQueryChars": 135,
+   "triggerTextSha256": "a37661ada605bf00f6f11eb50f969d6d5850218aff698d596e2687d7b5f64c9d",
+   "triggerTextChars": 132
+  },
+  {
+   "sampleId": "cog_0276",
+   "baseId": "conv-43",
+   "relation": "state",
+   "timeGap": "about five months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "f5b3376cf0b7795340d95789eda10b195ac1079fb6d280ad345a140613e5d2f9",
+     "textChars": 82
+    },
+    {
+     "speaker": "John",
+     "textSha256": "d71cf5e1b901add1fd739f4f682112ef2e02373b3d37445b2bc1893a48dc9c66",
+     "textChars": 74
+    }
+   ],
+   "cueDate": "2023-08-22",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 8,
+   "cuePosition": 185,
+   "triggerPosition": 682,
+   "suffixSessions": 21,
+   "suffixTurns": 495,
+   "cueDialogueSha256": "8ee05946494f51937387947c313c389a8daeaaaea2ac431cdfac944aabee173d",
+   "cueDialogueChars": 163,
+   "triggerQuerySha256": "c9c5ebcc02e77b87a3407bffc150d576ce59603fc4a6dffd1ddfade164836283",
+   "triggerQueryChars": 199,
+   "triggerTextSha256": "7899a46579e10471ce3de70098d756cb1bf4126d9dd68a1ec6d388934c0dba1f",
+   "triggerTextChars": 196
+  },
+  {
+   "sampleId": "cog_0280",
+   "baseId": "conv-49",
+   "relation": "causal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "f707b1ff12a4404ee11fa7c0b5f13165aed1c253d500bd5c870b132fb0f3075b",
+     "textChars": 149
+    }
+   ],
+   "cueDate": "2023-11-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 16,
+   "cuePosition": 314,
+   "triggerPosition": 510,
+   "suffixSessions": 9,
+   "suffixTurns": 195,
+   "cueDialogueSha256": "d4c6142fcf07624e5a81e2a6988b875ed732fa708e3756ca12228600c2937f0b",
+   "cueDialogueChars": 152,
+   "triggerQuerySha256": "610e5ad27f549d34e497839c45a1bcdcba48ea41a0262099a4d4bde9e31e740f",
+   "triggerQueryChars": 121,
+   "triggerTextSha256": "dd85d61e247c6b790ee25f8848a939175fa4b32be95477b652d88aeb1fd085fc",
+   "triggerTextChars": 118
+  },
+  {
+   "sampleId": "cog_0284",
+   "baseId": "conv-30",
+   "relation": "goal",
+   "timeGap": "several years later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "5d79ab55db834e850cae8c42bce545b3e1494577a281a4408f84af6d5919ed5d",
+     "textChars": 102
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "72fa5963b011a760d5999a0ad6313e5d720adbe29f93609a454cd2f774cc6e50",
+     "textChars": 72
+    }
+   ],
+   "cueDate": "2023-07-30",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 19,
+   "cuePosition": 369,
+   "triggerPosition": 371,
+   "suffixSessions": 0,
+   "suffixTurns": 0,
+   "cueDialogueSha256": "1bcb0989ea76d6aa33164b5363592b0540890c21176084c797120f5bf3061b61",
+   "cueDialogueChars": 181,
+   "triggerQuerySha256": "e00c7d22bdfe358611a09ec112f51a6d77213d4d894aef3edd1fde3979417c4e",
+   "triggerQueryChars": 181,
+   "triggerTextSha256": "f145ac6c805b5572829bf28991c0c208189e0a0defd5856e64bafffbe9d51b05",
+   "triggerTextChars": 178
+  },
+  {
+   "sampleId": "cog_0288",
+   "baseId": "conv-42",
+   "relation": "goal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "9e528195feacdaba6236ea445640345d550979e4f7c1e614541b8411f41e0cfe",
+     "textChars": 102
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "7d9ba612220dd173d2f1f9bac3dc7d6fa2cb53166456fc1c9377c2b1d818c888",
+     "textChars": 67
+    }
+   ],
+   "cueDate": "2022-09-19",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 21,
+   "cuePosition": 418,
+   "triggerPosition": 631,
+   "suffixSessions": 8,
+   "suffixTurns": 211,
+   "cueDialogueSha256": "c4d619976b4130aea316da3a05d0212409dfea75cea72b674ac8754263d1dc17",
+   "cueDialogueChars": 176,
+   "triggerQuerySha256": "af1f7f885d4a6c8ca460e42309154199e721e2b231119169bb8d6da65dc9994e",
+   "triggerQueryChars": 214,
+   "triggerTextSha256": "1141500814b377a037d83c1fedb26823389802db480c5cdade2caa919ce3a0f3",
+   "triggerTextChars": 211
+  },
+  {
+   "sampleId": "cog_0292",
+   "baseId": "conv-42",
+   "relation": "goal",
+   "timeGap": "several months later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "10847043545aa240194c965e194498e2aa6207e3d0bacfc17a5ce601bfaa5175",
+     "textChars": 103
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "d12f24b60e1ebd974a6692f1c06c82b7d1d98a49487b5f2d678bf9ff3431933d",
+     "textChars": 36
+    }
+   ],
+   "cueDate": "2022-11-18",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 29,
+   "cuePosition": 629,
+   "triggerPosition": 631,
+   "suffixSessions": 0,
+   "suffixTurns": 0,
+   "cueDialogueSha256": "0407f1ab6a5a64b302b63fed01ba76025b92436a80b2af7bf17437b1ede5e5f7",
+   "cueDialogueChars": 146,
+   "triggerQuerySha256": "57f972592d3941cd0c542f5ff17841ebfe412be7b040ece7d5b79caa37ed6cc4",
+   "triggerQueryChars": 108,
+   "triggerTextSha256": "3df38c0203b23a830aaad9cc1399200ed24fa330be85bf14efbf5e40654fc3bc",
+   "triggerTextChars": 105
+  },
+  {
+   "sampleId": "cog_0296",
+   "baseId": "conv-50",
+   "relation": "goal",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "1244fa03a200c0df8f610c759604788310cf7314c272e4a5260d4a7603b33dc3",
+     "textChars": 111
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "94fa382642b04c703704e3be12b163e3d8ab5951d3358171c767d6dee49dd934",
+     "textChars": 54
+    }
+   ],
+   "cueDate": "2023-05-28",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 6,
+   "cuePosition": 119,
+   "triggerPosition": 570,
+   "suffixSessions": 24,
+   "suffixTurns": 449,
+   "cueDialogueSha256": "44078b83bc2cdac2fdaf5949cf7b90aae6291b3de29de2ea64dcd62fb0fe58a0",
+   "cueDialogueChars": 172,
+   "triggerQuerySha256": "230b2059be4762337653c4d801f3b5d2b6d6ca4191adb9e049b1c3ceae463c22",
+   "triggerQueryChars": 121,
+   "triggerTextSha256": "7234343a2f4eb2b48c4b6c7b675106582d41c8cf3551732b7a84d37ba4793b7d",
+   "triggerTextChars": 118
+  },
+  {
+   "sampleId": "cog_0300",
+   "baseId": "conv-44",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "3be4a4fffb6d5b104bd45f5d0b63f5e93fb13287e1c7c5a63aff70682dd019a8",
+     "textChars": 80
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "e08977200e0f7ba4a6f422060853bde69a789f3e154f53756955a53fbd1d3ef8",
+     "textChars": 52
+    }
+   ],
+   "cueDate": "2023-09-30",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 19,
+   "cuePosition": 455,
+   "triggerPosition": 677,
+   "suffixSessions": 9,
+   "suffixTurns": 220,
+   "cueDialogueSha256": "ccc1345d12b23fe9405f4ab2274a2e81eb4519cc5cb4b0396df11404a13c760f",
+   "cueDialogueChars": 139,
+   "triggerQuerySha256": "46df36fbcc6a38f4f9131fed6116e72dac4842ed61e02f415818d3de48e5fd18",
+   "triggerQueryChars": 128,
+   "triggerTextSha256": "e3a15f96ea6c91c833dc27e881398be9e4a13918a20b7587fe5fe419d1f751e4",
+   "triggerTextChars": 125
+  },
+  {
+   "sampleId": "cog_0304",
+   "baseId": "conv-30",
+   "relation": "value",
+   "timeGap": "two weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "8a0ae2bd667e36ea8bc925060b648b99f8987b89705380ad0da7446a2040f9f7",
+     "textChars": 56
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "f57f5aabfad14ee3864eb78a9f3cac670a4120919afc1c236c668ea4809ba81b",
+     "textChars": 55
+    }
+   ],
+   "cueDate": "2023-07-16",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 17,
+   "cuePosition": 333,
+   "triggerPosition": 371,
+   "suffixSessions": 2,
+   "suffixTurns": 36,
+   "cueDialogueSha256": "a32a750604570c3cda3345e4637f5840e3d7e8eecd8f2e53cd4c208c0865ec71",
+   "cueDialogueChars": 118,
+   "triggerQuerySha256": "98b2bf817b405c315736ffee44ef54113ed2acf6cd0e55ef0627842d45627bda",
+   "triggerQueryChars": 105,
+   "triggerTextSha256": "3ef7139dff8a86f46f2e926e3a05411c9a98d858561ef8f85510ee60117cc67f",
+   "triggerTextChars": 102
+  },
+  {
+   "sampleId": "cog_0308",
+   "baseId": "conv-50",
+   "relation": "state",
+   "timeGap": "six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "dc82c5bcf1c596e208219c52bfa8d3f033af55f3e77023633b1c6d7bc9f02ec1",
+     "textChars": 70
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "ddaaef2bd4ad4a0728eda49d383ac1a283390cce2805e76520162103a4288d99",
+     "textChars": 65
+    }
+   ],
+   "cueDate": "2023-10-13",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 22,
+   "cuePosition": 383,
+   "triggerPosition": 570,
+   "suffixSessions": 8,
+   "suffixTurns": 185,
+   "cueDialogueSha256": "31650efab54a84cdcb29ab9dead6ebab0ee2bd8c6af9fb4c00a6e23852e1879c",
+   "cueDialogueChars": 142,
+   "triggerQuerySha256": "471c7a6edf1f7894cfd806389dcc5815305c47afec49c73495e320975d779193",
+   "triggerQueryChars": 141,
+   "triggerTextSha256": "c3e71f8cbb44095f5d3c0c09c95e8eb4763dfd14785fc444ac85c0682ea9175f",
+   "triggerTextChars": 138
+  },
+  {
+   "sampleId": "cog_0312",
+   "baseId": "conv-47",
+   "relation": "goal",
+   "timeGap": "six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "54b549cf5eccce75b9ce3a9f696e4ab013a82164bd72da307e4f3d2326838a50",
+     "textChars": 93
+    },
+    {
+     "speaker": "John",
+     "textSha256": "dd4cc738010c3e673759d4feb80422e4be268ecd75bee3d34fbc45d2c9cd0d8a",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2022-10-03",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 26,
+   "cuePosition": 580,
+   "triggerPosition": 691,
+   "suffixSessions": 5,
+   "suffixTurns": 109,
+   "cueDialogueSha256": "bd7f89c83e33fd43ec9f0037151fb044726546e346a4e586e37603b0590a1f4a",
+   "cueDialogueChars": 169,
+   "triggerQuerySha256": "1929f84af59de38722dad239930ce252e6c6e7d32167100d1e2896a15ff16368",
+   "triggerQueryChars": 162,
+   "triggerTextSha256": "5348e549f6bc6fb5ded37fcf8c78c0c742ce6572a3cec904297bd82d6b049222",
+   "triggerTextChars": 159
+  },
+  {
+   "sampleId": "cog_0316",
+   "baseId": "conv-50",
+   "relation": "causal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "64e29e89aec16ae814cf9e41d377625bda5cf3e4396efe8ba7b4ea5347a03e8b",
+     "textChars": 95
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "4e373c8a87d392848db1056fe4c107a36ceb1f5db92e0de006fc2d1228bedef7",
+     "textChars": 54
+    }
+   ],
+   "cueDate": "2023-09-25",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 20,
+   "cuePosition": 351,
+   "triggerPosition": 570,
+   "suffixSessions": 10,
+   "suffixTurns": 217,
+   "cueDialogueSha256": "961e4272bc3c74f2547630c8605015dc1d133462c5eacff01c26a5f1e5a74e23",
+   "cueDialogueChars": 156,
+   "triggerQuerySha256": "8263e6b9277b87074179cc1e00b658d4ff713d38d0c3fe443d3ed4b6e6a4d607",
+   "triggerQueryChars": 165,
+   "triggerTextSha256": "1d085f0bab058fd2c714a1a5d3601d032325640fba0ed6bc577e0972a7a878be",
+   "triggerTextChars": 162
+  },
+  {
+   "sampleId": "cog_0320",
+   "baseId": "conv-50",
+   "relation": "state",
+   "timeGap": "about three weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "6f59fde8b73126370c2e7af9c29b14504547a023742858953bc67034814b0a7b",
+     "textChars": 95
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "ef5827342a74d6bd0920752c478e758f74861c95b367968e08e51bb8b7d12ae3",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2023-11-03",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 28,
+   "cuePosition": 526,
+   "triggerPosition": 570,
+   "suffixSessions": 2,
+   "suffixTurns": 42,
+   "cueDialogueSha256": "b8bffd6187755f6fc37fb4906e1b39014800d8ceaae1a9e1be805dbf8dca68d7",
+   "cueDialogueChars": 171,
+   "triggerQuerySha256": "e8cab63bcaaab0e8dc04c1b1d309c35bcb882248c81e647044a60fcecbd1d46c",
+   "triggerQueryChars": 146,
+   "triggerTextSha256": "e2c9c88b2ecf93e38c0348fd421ced43359a092ea312468c934352b72a45dee7",
+   "triggerTextChars": 143
+  },
+  {
+   "sampleId": "cog_0324",
+   "baseId": "conv-44",
+   "relation": "causal",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "9c2a3840c03e2de2147a007e6eadc21f19fe25cbcdeb8b7907eaee9a52d364ec",
+     "textChars": 105
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "a4021d75d89d88061cbd08334ae81ea9d2aff05bb2bdd12bbc59a46d323e2510",
+     "textChars": 59
+    }
+   ],
+   "cueDate": "2023-08-31",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 17,
+   "cuePosition": 403,
+   "triggerPosition": 677,
+   "suffixSessions": 11,
+   "suffixTurns": 272,
+   "cueDialogueSha256": "f4ec9a8b6648608e23a58c3847efa80428993d0f48af99615e67981a9c842afe",
+   "cueDialogueChars": 171,
+   "triggerQuerySha256": "4d42dc50bce7cf03f62a8e9ec58b5d8bd380d6c1443de796f4898ae1c39869ad",
+   "triggerQueryChars": 187,
+   "triggerTextSha256": "3bf9832545b09c9db57342ac0ee8e484d962865d3d12a9aeb723e08f99d4887d",
+   "triggerTextChars": 184
+  },
+  {
+   "sampleId": "cog_0328",
+   "baseId": "conv-30",
+   "relation": "causal",
+   "timeGap": "one year later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "045685a82ee007f9d0f1d18b104169253d180c70eeff0ed72cee23d93e2a1e0b",
+     "textChars": 168
+    }
+   ],
+   "cueDate": "2022-07-30",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 0,
+   "cuePosition": 0,
+   "triggerPosition": 370,
+   "suffixSessions": 19,
+   "suffixTurns": 369,
+   "cueDialogueSha256": "0449d4db55c5406b598ec66846dc812191545c901a3ab5a564e56db5337e6dd3",
+   "cueDialogueChars": 171,
+   "triggerQuerySha256": "3005d249560cef3dfac24e8bc2d157bd2ecc72af50437efb8f109cdba7d51ea7",
+   "triggerQueryChars": 145,
+   "triggerTextSha256": "172a3ab06e9448b45da191de8aa7308a7109ac374908917cf443366094fd0ac7",
+   "triggerTextChars": 142
+  },
+  {
+   "sampleId": "cog_0332",
+   "baseId": "conv-47",
+   "relation": "state",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "James",
+     "textSha256": "bf3642ab37153902d567d57615468476f665a492bc24da3276508d4dbb0635df",
+     "textChars": 80
+    },
+    {
+     "speaker": "John",
+     "textSha256": "1f1321415547ee93acf6d50ccc4b6088f9f9da1bc49d7bfabf6368e9ed20c5ed",
+     "textChars": 73
+    }
+   ],
+   "cueDate": "2022-10-15",
+   "queryDate": "2022-11-14",
+   "cueAfterSession": 27,
+   "cuePosition": 594,
+   "triggerPosition": 691,
+   "suffixSessions": 4,
+   "suffixTurns": 95,
+   "cueDialogueSha256": "557d96e38bbfc65780078afbe4bcd4c555b464384c231b999839d7e726a7f3a0",
+   "cueDialogueChars": 160,
+   "triggerQuerySha256": "9be47258552f7d3341080805e1e70bd33a6c9b0fba8585f2f44e80cd758d932e",
+   "triggerQueryChars": 166,
+   "triggerTextSha256": "55e4b6d89b007c2d0879762e952e8628fb627d05eb545158e3f6801e50397e6c",
+   "triggerTextChars": 163
+  },
+  {
+   "sampleId": "cog_0336",
+   "baseId": "conv-44",
+   "relation": "causal",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "4df07bc0b80d5754f1482904a7aae3ef7294007999208fc1423f6c6493be0fef",
+     "textChars": 154
+    }
+   ],
+   "cueDate": "2023-06-02",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 6,
+   "cuePosition": 149,
+   "triggerPosition": 676,
+   "suffixSessions": 22,
+   "suffixTurns": 526,
+   "cueDialogueSha256": "fb5c16c7102956e701558f2418c8b1e788fe70ca7990e605f83827d59552ecd0",
+   "cueDialogueChars": 157,
+   "triggerQuerySha256": "d3a8e77da3b768c1b92373b6cd3307702c1dc63e361a7c435db8d3423fe5b468",
+   "triggerQueryChars": 156,
+   "triggerTextSha256": "da712b996fd68c30296e6b502ea30189a4faeeadabd09cbef5973b839a9d21cb",
+   "triggerTextChars": 153
+  },
+  {
+   "sampleId": "cog_0340",
+   "baseId": "conv-41",
+   "relation": "value",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "ce1ca002efdbbc0c594cacd585235058ad8b2173d56ff4a997565b9765eafa7f",
+     "textChars": 109
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "af2105d5cbd3ab73058ea5305a1c1e95fc24046cc3b41d94a9063eb2db883435",
+     "textChars": 35
+    }
+   ],
+   "cueDate": "2023-07-24",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 25,
+   "cuePosition": 530,
+   "triggerPosition": 665,
+   "suffixSessions": 7,
+   "suffixTurns": 133,
+   "cueDialogueSha256": "56cda4e543be4875e15af4a262ee2ca3608fac14a9b4f215a4d8dbaf3350f4a3",
+   "cueDialogueChars": 151,
+   "triggerQuerySha256": "72d0dbea268cda61bb44eb5223c6073a44af9b45b3d20a4b25fca8531d65634b",
+   "triggerQueryChars": 86,
+   "triggerTextSha256": "77aac6ae26b2c26ec6ccdf07b2497e8432b56bc52b3763c12a43d4f0ba4cbd9f",
+   "triggerTextChars": 83
+  },
+  {
+   "sampleId": "cog_0344",
+   "baseId": "conv-49",
+   "relation": "causal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "de4eedf78eeb929c54c0ac418e52497306bd99f5d04bf9b90df06d0e019da513",
+     "textChars": 109
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "11d8f6f370116eadba0fa4bc645f31bdbb3f6f476a39b2e722fdbb9c63abcec5",
+     "textChars": 59
+    }
+   ],
+   "cueDate": "2023-11-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 16,
+   "cuePosition": 314,
+   "triggerPosition": 511,
+   "suffixSessions": 9,
+   "suffixTurns": 195,
+   "cueDialogueSha256": "6ed44e8cbf44643b26089cb8b9f8ca594fd33a498ca921678f5c36c6dc36a1a9",
+   "cueDialogueChars": 175,
+   "triggerQuerySha256": "e9f771be77f71b3df8e4303ffd559e50f4f8b251296f321bc138ac73b914a74c",
+   "triggerQueryChars": 152,
+   "triggerTextSha256": "691c24d6a56202f6b531dc812e0f0deb8f52d81c5a027a33bae915f33928ef6b",
+   "triggerTextChars": 149
+  },
+  {
+   "sampleId": "cog_0348",
+   "baseId": "conv-50",
+   "relation": "causal",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "Calvin",
+     "textSha256": "3492a15a2313d13022aa05bcd96160f8e73ddcd952b31524c83b452e51da44d7",
+     "textChars": 73
+    },
+    {
+     "speaker": "Dave",
+     "textSha256": "a82fa352353c91d9c8886d5f9b42ba924a4fdb8691c379b924538790a10cb333",
+     "textChars": 53
+    }
+   ],
+   "cueDate": "2023-10-25",
+   "queryDate": "2023-11-24",
+   "cueAfterSession": 25,
+   "cuePosition": 455,
+   "triggerPosition": 570,
+   "suffixSessions": 5,
+   "suffixTurns": 113,
+   "cueDialogueSha256": "51d59460048e13e04388d7601b852abdecae78ef37d6d23ec1faddb2178f1186",
+   "cueDialogueChars": 133,
+   "triggerQuerySha256": "1968f50ea9a590c4c9cd866565c8ac1e01bdafa0991eb97596e220ed1bb1f3da",
+   "triggerQueryChars": 130,
+   "triggerTextSha256": "fbd5cae3ed59d252ada5dcab6537f78d68e8c40793025122c887ab19b213aedc",
+   "triggerTextChars": 127
+  },
+  {
+   "sampleId": "cog_0352",
+   "baseId": "conv-30",
+   "relation": "state",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Jon",
+     "textSha256": "15461f7878e0179636c3efbf9efca76fe643158222d8e26c0a7a8b47ab1d84d5",
+     "textChars": 65
+    },
+    {
+     "speaker": "Gina",
+     "textSha256": "5a348c39fbf134d412fcdf95fb214d16c778cd1916608e10ca713c9e1f9e725a",
+     "textChars": 80
+    }
+   ],
+   "cueDate": "2023-05-31",
+   "queryDate": "2023-07-30",
+   "cueAfterSession": 12,
+   "cuePosition": 231,
+   "triggerPosition": 371,
+   "suffixSessions": 7,
+   "suffixTurns": 138,
+   "cueDialogueSha256": "b226f4c1bc36d5a1002e0b484a952ca937ff3628dba6dcd7b5b55c2b1487cc73",
+   "cueDialogueChars": 152,
+   "triggerQuerySha256": "df06b3207c8b0a1a0208b64cae7225332d9fa3951e1ac98a7a382ae397eef76e",
+   "triggerQueryChars": 190,
+   "triggerTextSha256": "5a94d223cc5510b64df7cdb5893df8529279720be4822eb8704d9818bdcb6290",
+   "triggerTextChars": 187
+  },
+  {
+   "sampleId": "cog_0356",
+   "baseId": "conv-48",
+   "relation": "value",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "3a1d7f2a54bc627cdd456f99cb6d2d5ee240fe1bae7fbd33402f055070f91ce7",
+     "textChars": 125
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "029a06476024d2baf051ae19964ef7429daf3e10eba38eb793b2f2bfe4396569",
+     "textChars": 40
+    }
+   ],
+   "cueDate": "2023-03-31",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 11,
+   "cuePosition": 246,
+   "triggerPosition": 683,
+   "suffixSessions": 19,
+   "suffixTurns": 435,
+   "cueDialogueSha256": "4cf3a817df0246f2d1896160c6eaa3899e4257ae681527b8265e3c63439ee507",
+   "cueDialogueChars": 172,
+   "triggerQuerySha256": "2e39976c1bc4004f527ec4b6928703a8f645154f2722ce9b9f8885410de0a339",
+   "triggerQueryChars": 122,
+   "triggerTextSha256": "697de194a1d76173fd8af1fb4c9fe55061dbe55b51ddc8aa5f3954631b22aabe",
+   "triggerTextChars": 119
+  },
+  {
+   "sampleId": "cog_0360",
+   "baseId": "conv-44",
+   "relation": "goal",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "Audrey",
+     "textSha256": "0fc3cdcbf720b2a2fb6f3d74a8fdb06fac48f402939f0ebd542d8e2106590ae5",
+     "textChars": 90
+    },
+    {
+     "speaker": "Andrew",
+     "textSha256": "1fca0c81cb233c839cb509e9abad7ccec84ffe1ecd18c486bb7e61dc624071e5",
+     "textChars": 69
+    }
+   ],
+   "cueDate": "2023-10-30",
+   "queryDate": "2023-11-29",
+   "cueAfterSession": 26,
+   "cuePosition": 639,
+   "triggerPosition": 677,
+   "suffixSessions": 2,
+   "suffixTurns": 36,
+   "cueDialogueSha256": "e25500149a57463b6ce7e0670444ab80dc9dbda983f561b9eb2bffd3464cc125",
+   "cueDialogueChars": 166,
+   "triggerQuerySha256": "73653aa603015e782dad7bf842d4d48a4421908ea71f7419657d4eabfb595b36",
+   "triggerQueryChars": 149,
+   "triggerTextSha256": "317328af8e3e12cb4d541064f7e7eac0d5ae13801d171d1f0927e81f85f79ea1",
+   "triggerTextChars": 146
+  },
+  {
+   "sampleId": "cog_0364",
+   "baseId": "conv-41",
+   "relation": "goal",
+   "timeGap": "four months later",
+   "cueTurns": [
+    {
+     "speaker": "John",
+     "textSha256": "b0ba46d24db36853b3972cc64dcf6b815dce4d5063d3927723a593eed997c6d4",
+     "textChars": 47
+    },
+    {
+     "speaker": "Maria",
+     "textSha256": "8d88842bd18870e2236510a3b9e5a1dbaddcf8f72b901b03e38f89bd005871d2",
+     "textChars": 39
+    }
+   ],
+   "cueDate": "2023-04-25",
+   "queryDate": "2023-08-23",
+   "cueAfterSession": 12,
+   "cuePosition": 248,
+   "triggerPosition": 665,
+   "suffixSessions": 20,
+   "suffixTurns": 415,
+   "cueDialogueSha256": "85ea2ba643a9b7397064d66d3e6ba05fd70e7b736a45fea843f5dd75625b8858",
+   "cueDialogueChars": 93,
+   "triggerQuerySha256": "c5793822402db89b7905a79bf1715465bd4575adb56ad5eed14e424cd0ea3bab",
+   "triggerQueryChars": 85,
+   "triggerTextSha256": "ff15b61e99cce87f89d2577bc9e603a05718b320e7599bf24de7c7bf461c6f75",
+   "triggerTextChars": 82
+  },
+  {
+   "sampleId": "cog_0368",
+   "baseId": "conv-43",
+   "relation": "goal",
+   "timeGap": "nine months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "164f74e80814cb312ba63bb4d57bb49d55486ba6a75b22b6a9a3968f36b07eef",
+     "textChars": 96
+    },
+    {
+     "speaker": "John",
+     "textSha256": "1656b88fdfbda9a454969067739ce4e61e137bfca5c5adefe9c8307988fb4552",
+     "textChars": 76
+    }
+   ],
+   "cueDate": "2023-04-24",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 0,
+   "cuePosition": 0,
+   "triggerPosition": 682,
+   "suffixSessions": 29,
+   "suffixTurns": 680,
+   "cueDialogueSha256": "ef9eef4fe2011cbc308f5a96ebcb962bce20adfde1fd6de48f1bca4283dfe70e",
+   "cueDialogueChars": 179,
+   "triggerQuerySha256": "70fc19d5058ffffcdab6c2e6946ef4d95db35e516f37fd374834ef132cfa32ae",
+   "triggerQueryChars": 176,
+   "triggerTextSha256": "e446a154565d9dfc70c5ab386bcdb8211585bf8fe67748207e163bbbeb7eaf66",
+   "triggerTextChars": 173
+  },
+  {
+   "sampleId": "cog_0372",
+   "baseId": "conv-43",
+   "relation": "value",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "86055b7d945c667ad6f56e4fe9c1c95e280df5e3aec144715c6e5782a9f2e7ba",
+     "textChars": 111
+    },
+    {
+     "speaker": "John",
+     "textSha256": "0d526bdc2e8462fc7a4e05d4c75825f7b34e6372d68ede94b3967c57ab9ec902",
+     "textChars": 41
+    }
+   ],
+   "cueDate": "2023-11-20",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 18,
+   "cuePosition": 410,
+   "triggerPosition": 682,
+   "suffixSessions": 11,
+   "suffixTurns": 270,
+   "cueDialogueSha256": "6dba555e1df4f8c3ea103dde70879141760435e1d2905b2503e11e11f211709c",
+   "cueDialogueChars": 159,
+   "triggerQuerySha256": "48a9ebe2f14249753c3575cfd116e554f54e5b8d8d09de00b919df1ccce2875b",
+   "triggerQueryChars": 140,
+   "triggerTextSha256": "9c5f3392e057f7116f538c506d8f8af5e2fce7e32516abe11587e5037648ac1e",
+   "triggerTextChars": 137
+  },
+  {
+   "sampleId": "cog_0376",
+   "baseId": "conv-42",
+   "relation": "causal",
+   "timeGap": "six weeks later",
+   "cueTurns": [
+    {
+     "speaker": "Joanna",
+     "textSha256": "11966a2629fb19375d7cb04bce9606236063d60589fe55a5104a4868b120a098",
+     "textChars": 92
+    },
+    {
+     "speaker": "Nate",
+     "textSha256": "4168e838f4ac92d7f1748c266a8bdf11cc0dfcc1767989b6273b39f83b503bab",
+     "textChars": 55
+    }
+   ],
+   "cueDate": "2022-10-07",
+   "queryDate": "2022-11-18",
+   "cueAfterSession": 22,
+   "cuePosition": 441,
+   "triggerPosition": 631,
+   "suffixSessions": 7,
+   "suffixTurns": 188,
+   "cueDialogueSha256": "38b181d5a90ea4af6af1761dcdfd55e97a509d72950b75b3f1a25f3f2fa725e6",
+   "cueDialogueChars": 154,
+   "triggerQuerySha256": "69f8c616eb7bd03c9fb6a9615b9a2cac04593399127108d42e356c3bef95d49a",
+   "triggerQueryChars": 151,
+   "triggerTextSha256": "e6b9810a7208cafac9f91e9b6c4397047d016be3734f12035e4c00432fc003d0",
+   "triggerTextChars": 148
+  },
+  {
+   "sampleId": "cog_0380",
+   "baseId": "conv-48",
+   "relation": "state",
+   "timeGap": "three months later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "65687a87eae28de882e846074fc0bc644c9de8a29c7cafa37b0d3980af8b459f",
+     "textChars": 94
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "099570dbf46cdf7512921f37072b3d4162c4ce05c493fd211cca767164e09790",
+     "textChars": 61
+    }
+   ],
+   "cueDate": "2023-06-29",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 14,
+   "cuePosition": 312,
+   "triggerPosition": 683,
+   "suffixSessions": 16,
+   "suffixTurns": 369,
+   "cueDialogueSha256": "45283959538d65f14bb8139ae34afe071cfa37762b7310ccaef9d8b012980848",
+   "cueDialogueChars": 162,
+   "triggerQuerySha256": "aa27de76dd7866cc078a2a791c878dca1ca9ffb111d8df11d0ec019967577a1c",
+   "triggerQueryChars": 125,
+   "triggerTextSha256": "14eb821b6a975a8f55d60add4f231b5f965f0ebf1d2d98ad8373d5e418d21977",
+   "triggerTextChars": 122
+  },
+  {
+   "sampleId": "cog_0384",
+   "baseId": "conv-48",
+   "relation": "goal",
+   "timeGap": "six months later",
+   "cueTurns": [
+    {
+     "speaker": "Deborah",
+     "textSha256": "ae0eb913e3d8c523d19048eb31b6fef40b0fb2e5f8f449f9b59d89b303b0dd80",
+     "textChars": 117
+    },
+    {
+     "speaker": "Jolene",
+     "textSha256": "f4e9753306a1cb09b665ab9f2e7d2abaf704428d0426e52fc51d9e421785a5c4",
+     "textChars": 46
+    }
+   ],
+   "cueDate": "2023-03-31",
+   "queryDate": "2023-09-27",
+   "cueAfterSession": 11,
+   "cuePosition": 246,
+   "triggerPosition": 683,
+   "suffixSessions": 19,
+   "suffixTurns": 435,
+   "cueDialogueSha256": "1eb15b1248f27dc7c30a23a080ee0abac9f49fb1828c490335aef8c01f84ffd3",
+   "cueDialogueChars": 170,
+   "triggerQuerySha256": "84ab41cd18c12236d6f2c4cf67e0718ef69455119b847c4348df3c535d23a883",
+   "triggerQueryChars": 102,
+   "triggerTextSha256": "8f242f32993bf1fd21fd56734e20358859f5adda20818d34097a3611e870e3a4",
+   "triggerTextChars": 99
+  },
+  {
+   "sampleId": "cog_0388",
+   "baseId": "conv-43",
+   "relation": "value",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "ddce374c104b2e6729af1fe884a0f8d7dc9c9b4dfe7cde47b4daf901f2ffb9b9",
+     "textChars": 124
+    },
+    {
+     "speaker": "John",
+     "textSha256": "6b707db7da5b0e369e3da04cf3fcb89669cd305b57fb63a993628fd2f87374fb",
+     "textChars": 44
+    }
+   ],
+   "cueDate": "2023-12-20",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 25,
+   "cuePosition": 566,
+   "triggerPosition": 682,
+   "suffixSessions": 4,
+   "suffixTurns": 114,
+   "cueDialogueSha256": "1cdcacbd9d0adda57d2eb28665afb1e762ffb68c174f77df4eadd62fb3cb8bcb",
+   "cueDialogueChars": 175,
+   "triggerQuerySha256": "b023355bb7eb27f945691b67556e748c00683302fb0d1660889a81f9a394f74b",
+   "triggerQueryChars": 106,
+   "triggerTextSha256": "7854c4ffd83ba5da9af65d932885305664f263a4d34da396b5812ba12a17d437",
+   "triggerTextChars": 103
+  },
+  {
+   "sampleId": "cog_0392",
+   "baseId": "conv-43",
+   "relation": "goal",
+   "timeGap": "eight months later",
+   "cueTurns": [
+    {
+     "speaker": "Tim",
+     "textSha256": "c59a45f7cab62de1ee01daf629e8a53f0f591018bd75fa329d64829decb4a74c",
+     "textChars": 102
+    },
+    {
+     "speaker": "John",
+     "textSha256": "9bae0b860795b288481158f6921086e6a758be5ca8497cf777f9ba44237693e7",
+     "textChars": 67
+    }
+   ],
+   "cueDate": "2023-05-24",
+   "queryDate": "2024-01-19",
+   "cueAfterSession": 1,
+   "cuePosition": 20,
+   "triggerPosition": 682,
+   "suffixSessions": 28,
+   "suffixTurns": 660,
+   "cueDialogueSha256": "1dfa4d7dc61e297a4468ce9f914d4ea0fd61f289b1bfcd07aa5305d4194f4bcd",
+   "cueDialogueChars": 176,
+   "triggerQuerySha256": "ada877035de17fdada586e8eed22aa9242fb3cb71ef4369f5de0391613274be0",
+   "triggerQueryChars": 143,
+   "triggerTextSha256": "19fc908a3f014f2a0b13e7ba95badb78adb44c6c8ecc66763bdb143379310c9a",
+   "triggerTextChars": 140
+  },
+  {
+   "sampleId": "cog_0396",
+   "baseId": "conv-49",
+   "relation": "goal",
+   "timeGap": "two months later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "a7e5fe5729e2e42a216343922f13b27ffbc6a64b8c2c6064dc117ce2a1d4beeb",
+     "textChars": 100
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "e9f7ae5338c454779e475e2edbdf8306b6d7154d859ef4496b5c49b9a1229a1c",
+     "textChars": 65
+    }
+   ],
+   "cueDate": "2023-11-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 16,
+   "cuePosition": 314,
+   "triggerPosition": 511,
+   "suffixSessions": 9,
+   "suffixTurns": 195,
+   "cueDialogueSha256": "00519206a2d0942ea3802c46244395dd0b4f5e918295eeff027bc1139cca716c",
+   "cueDialogueChars": 172,
+   "triggerQuerySha256": "9b91dc321c2212ad5ada1100b89d42f167f2401023fec2eb7cd2deeba2d5b65f",
+   "triggerQueryChars": 132,
+   "triggerTextSha256": "3022210ad3044431d05dd2b0989ef7f70a6d86ab1c068360f23066d207ceee60",
+   "triggerTextChars": 129
+  },
+  {
+   "sampleId": "cog_0400",
+   "baseId": "conv-49",
+   "relation": "causal",
+   "timeGap": "one month later",
+   "cueTurns": [
+    {
+     "speaker": "Evan",
+     "textSha256": "aa0ca50137c6db021a416db7cb05e19c0ecea01866c48dc4f60adb39b6eebec4",
+     "textChars": 99
+    },
+    {
+     "speaker": "Sam",
+     "textSha256": "a113c03b9f94da1a301c5c9d2740c15f663c8ff3d6bf7666a20211a3db8f326f",
+     "textChars": 59
+    }
+   ],
+   "cueDate": "2023-12-19",
+   "queryDate": "2024-01-18",
+   "cueAfterSession": 20,
+   "cuePosition": 389,
+   "triggerPosition": 511,
+   "suffixSessions": 5,
+   "suffixTurns": 120,
+   "cueDialogueSha256": "e326038dbe8ab431969708582329f65d3b9f6d722040e44fd6d9d31f62f8505f",
+   "cueDialogueChars": 165,
+   "triggerQuerySha256": "a588acddc67ebd10227dc8e9e8cf512f016485d26749f8036e6a40a0bf7b66e6",
+   "triggerQueryChars": 144,
+   "triggerTextSha256": "94ef0ff562ccfc5baf479ba9d745534665fad1170d3fd7ca63ee737e49505017",
+   "triggerTextChars": 141
+  }
+ ],
+ "factual": [
+  {
+   "baseId": "conv-26",
+   "qaIndex": 38,
+   "id": "conv-26#38",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D8:4",
+    "D8:6",
+    "D9:1",
+    "D6:4",
+    "D1:18",
+    "D3:14"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D8:4",
+     "session": 8,
+     "speaker": "Melanie",
+     "textSha256": "de80ced5fdacc6213eb52ca88a5d60906e9794a6c72418f4f881778b2c285e30",
+     "textChars": 181
+    },
+    {
+     "diaId": "D8:6",
+     "session": 8,
+     "speaker": "Melanie",
+     "textSha256": "31992a7841c3099e26c7822a9b5434252530d1a9241a2a0a9dfe9856784a13a5",
+     "textChars": 108
+    },
+    {
+     "diaId": "D9:1",
+     "session": 9,
+     "speaker": "Melanie",
+     "textSha256": "7ba3a49662516a22a09587bfd088c1c41fca9af3651cd342adb28a6eb775914d",
+     "textChars": 206
+    },
+    {
+     "diaId": "D6:4",
+     "session": 6,
+     "speaker": "Melanie",
+     "textSha256": "91bc702bd7b6ef2d16df0713a1173845392145c682930742d2b4246c9fa1683a",
+     "textChars": 173
+    },
+    {
+     "diaId": "D1:18",
+     "session": 1,
+     "speaker": "Melanie",
+     "textSha256": "38071485346e4b965be594bd013abf66b68dc5c4e2f5a2df8ba5c7365b8df1c5",
+     "textChars": 105
+    },
+    {
+     "diaId": "D3:14",
+     "session": 3,
+     "speaker": "Melanie",
+     "textSha256": "1eb73232830358876141f2d766483fbfe90f3a21b085b87a13ae2ba6b93e426e",
+     "textChars": 62
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 9,
+   "queryDate": "2023-10-23",
+   "questionSha256": "2a3564492522411a962db7af457c3ac0140789f546db184579a27f98aedaaf46",
+   "questionChars": 49,
+   "goldSha256": "d7b7a6d52e1ed3e45c2fe45759e4ff19727a18d9f12f44220c2fd763c1b1094f",
+   "goldChars": 52,
+   "answerSha256": "d7b7a6d52e1ed3e45c2fe45759e4ff19727a18d9f12f44220c2fd763c1b1094f",
+   "answerChars": 52
+  },
+  {
+   "baseId": "conv-26",
+   "qaIndex": 69,
+   "id": "conv-26#69",
+   "category": 3,
+   "categoryName": "open-domain",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D16:18",
+    "D13:16",
+    "D7:4"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D16:18",
+     "session": 16,
+     "speaker": "Melanie",
+     "textSha256": "fde1302aace4b6adb09b00f3570ce236fa018cad3380766686d040c21e2a59a9",
+     "textChars": 105
+    },
+    {
+     "diaId": "D13:16",
+     "session": 13,
+     "speaker": "Melanie",
+     "textSha256": "700bddf1fb7c1318d2f4c13629d3cc3c67c32f95e38a81cb036e4162782e0b63",
+     "textChars": 130
+    },
+    {
+     "diaId": "D7:4",
+     "session": 7,
+     "speaker": "Melanie",
+     "textSha256": "0207df1751b35c1648701fa766760d4b51d467e493638f90e6d42ee5daa3cee3",
+     "textChars": 118
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 16,
+   "queryDate": "2023-10-23",
+   "questionSha256": "e15696858b9179d2193f0526f143603a0c08053ff3c30f37db1255d06046b3e4",
+   "questionChars": 55,
+   "goldSha256": "de61e32850f85cc80c986994800f47dad209316ff825859693cdfd9a6ba406d3",
+   "goldChars": 29,
+   "answerSha256": "de61e32850f85cc80c986994800f47dad209316ff825859693cdfd9a6ba406d3",
+   "answerChars": 29
+  },
+  {
+   "baseId": "conv-30",
+   "qaIndex": 63,
+   "id": "conv-30#63",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D12:1"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D12:1",
+     "session": 12,
+     "speaker": "Gina",
+     "textSha256": "9797d187aa04adecbda46b7ed9ed6f891080f801e72d5a59af8958835b656c6e",
+     "textChars": 92
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 12,
+   "queryDate": "2023-07-24",
+   "questionSha256": "3c44921b73972d49c6afcfdfd227fc096443262ca756774585767dd41093825a",
+   "questionChars": 79,
+   "goldSha256": "1f19f8fea75be6c35dff7bd023780a37a3ff81eaf587346d54a511d69314f5a7",
+   "goldChars": 18,
+   "answerSha256": "1f19f8fea75be6c35dff7bd023780a37a3ff81eaf587346d54a511d69314f5a7",
+   "answerChars": 18
+  },
+  {
+   "baseId": "conv-41",
+   "qaIndex": 36,
+   "id": "conv-41#36",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D20:4",
+    "D8:12"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D20:4",
+     "session": 20,
+     "speaker": "John",
+     "textSha256": "50044657a6eace68e3e13b4bfa4dff6ed0420ca875c92f4d3618c0a436c1de10",
+     "textChars": 310
+    },
+    {
+     "diaId": "D8:12",
+     "session": 8,
+     "speaker": "John",
+     "textSha256": "2ef8301a5a2472e63d418b26108c9a2b73fc98cd3340ee5843b9ecd5f0f39c56",
+     "textChars": 231
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 20,
+   "queryDate": "2023-08-17",
+   "questionSha256": "6caa7863dc9affbd20b4f4dbf3cfca8462cdce028a7535f02c30f2248770b495",
+   "questionChars": 36,
+   "goldSha256": "430a64e723c9ae3a3adcb03afb8c4a4c4993895d6f2f9f4a396196ec4dc097a0",
+   "goldChars": 32,
+   "answerSha256": "430a64e723c9ae3a3adcb03afb8c4a4c4993895d6f2f9f4a396196ec4dc097a0",
+   "answerChars": 32
+  },
+  {
+   "baseId": "conv-41",
+   "qaIndex": 68,
+   "id": "conv-41#68",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D1:3"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D1:3",
+     "session": 1,
+     "speaker": "Maria",
+     "textSha256": "fb8375876f2db41f0d67d2a8e8d46c7438c692867afac1abdcf1c8023906c299",
+     "textChars": 154
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 1,
+   "queryDate": "2023-08-17",
+   "questionSha256": "20c340f54cb5ef61c504288701e3f795389dc6b255448a2ce551b9e4db4928d3",
+   "questionChars": 66,
+   "goldSha256": "258bb2cf71895a28bb8612b45dc8b501d7ba6dc0b1cb8d5c1c2272512b1bfd63",
+   "goldChars": 11,
+   "answerSha256": "258bb2cf71895a28bb8612b45dc8b501d7ba6dc0b1cb8d5c1c2272512b1bfd63",
+   "answerChars": 11
+  },
+  {
+   "baseId": "conv-42",
+   "qaIndex": 14,
+   "id": "conv-42#14",
+   "category": 3,
+   "categoryName": "open-domain",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D7:1"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D7:1",
+     "session": 7,
+     "speaker": "Nate",
+     "textSha256": "59c636aaee023fd2b802f75be014002fe29a9b1656b268b56050397abf1f3e59",
+     "textChars": 60
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 7,
+   "queryDate": "2022-11-12",
+   "questionSha256": "de041199bce3eba8c888e05743fda5e509f06770b2f9c257ac198a6ccd8ea836",
+   "questionChars": 39,
+   "goldSha256": "78ae3ce3f04fbd00860f777693b1b173ae8d58915fd54c02100ff39967a1201c",
+   "goldChars": 2,
+   "answerSha256": "78ae3ce3f04fbd00860f777693b1b173ae8d58915fd54c02100ff39967a1201c",
+   "answerChars": 2
+  },
+  {
+   "baseId": "conv-42",
+   "qaIndex": 39,
+   "id": "conv-42#39",
+   "category": 2,
+   "categoryName": "temporal",
+   "prompt": "temporal",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D21:4"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D21:4",
+     "session": 21,
+     "speaker": "Nate",
+     "textSha256": "660782fe44201c825ae843a38a1be52ecaf25a9c8db5708d254139c826f49f0e",
+     "textChars": 266
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 21,
+   "queryDate": "2022-11-12",
+   "questionSha256": "9fdf5605691b3c40722b9e7cd246b7efb7c4bb255af0a63b36bf782f3eb87e75",
+   "questionChars": 36,
+   "goldSha256": "caa5c02fad4c7cfff1fd5292f4ca98b80a36c17ae2b230ae335b650444e4ef75",
+   "goldChars": 35,
+   "answerSha256": "caa5c02fad4c7cfff1fd5292f4ca98b80a36c17ae2b230ae335b650444e4ef75",
+   "answerChars": 35
+  },
+  {
+   "baseId": "conv-42",
+   "qaIndex": 82,
+   "id": "conv-42#82",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D3:4",
+    "D4:3"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D3:4",
+     "session": 3,
+     "speaker": "Nate",
+     "textSha256": "d925311c947b2ecbc6cdace6b8d7b3ef63dc9a960ee0de9fb182f31c45725f4f",
+     "textChars": 176
+    },
+    {
+     "diaId": "D4:3",
+     "session": 4,
+     "speaker": "Nate",
+     "textSha256": "4d563b0e10b19fb67fd896a7259d0afbb9941bf23531bff45d56d46867995385",
+     "textChars": 46
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 4,
+   "queryDate": "2022-11-12",
+   "questionSha256": "526fbe9a13086ba419926aae548532b40a87532fcfec14498f3a52987fd9acd5",
+   "questionChars": 27,
+   "goldSha256": "d6437687c9607b4f24df0f2beda7a1186977fa7a574f1bb703f59f9ec5c39864",
+   "goldChars": 50,
+   "answerSha256": "d6437687c9607b4f24df0f2beda7a1186977fa7a574f1bb703f59f9ec5c39864",
+   "answerChars": 50
+  },
+  {
+   "baseId": "conv-42",
+   "qaIndex": 128,
+   "id": "conv-42#128",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D15:3"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D15:3",
+     "session": 15,
+     "speaker": "Joanna",
+     "textSha256": "8d4bd20c6cd6416082483e2fc9580f2364698ef6cb9b1de8885113d19d3cbab8",
+     "textChars": 352
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 15,
+   "queryDate": "2022-11-12",
+   "questionSha256": "d80e37b97eecc819e60510e452765b5919e1b14441558e29d6a1e3f04c6f0942",
+   "questionChars": 34,
+   "goldSha256": "acc5298da7e6c28972547fee04ae882f6ee7f582566e2f78d23b63253c8a4741",
+   "goldChars": 10,
+   "answerSha256": "acc5298da7e6c28972547fee04ae882f6ee7f582566e2f78d23b63253c8a4741",
+   "answerChars": 10
+  },
+  {
+   "baseId": "conv-42",
+   "qaIndex": 246,
+   "id": "conv-42#246",
+   "category": 5,
+   "categoryName": "adversarial",
+   "prompt": "adversarial",
+   "gold": "No information available: the conversation does not mention this; the model should say so rather than answer.",
+   "answer": null,
+   "evidence": [
+    "D25:8"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D25:8",
+     "session": 25,
+     "speaker": "Joanna",
+     "textSha256": "1ccf81b3460205e43ec204712c0afb3fef22ea438abb8f0f464228a51b373bd0",
+     "textChars": 106
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 25,
+   "queryDate": "2022-11-12",
+   "questionSha256": "a213e41c3025a5db483300289a516f3234cee5cdac0231c6ed115d425f36de54",
+   "questionChars": 56,
+   "adversarialAnswerSha256": "97a6a18794cce18b91e0264b827e466d145068cf63c58d25b85c14056a6651af",
+   "adversarialAnswerChars": 78
+  },
+  {
+   "baseId": "conv-43",
+   "qaIndex": 18,
+   "id": "conv-43#18",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D1:14",
+    "D2:7",
+    "D4:7",
+    "D5:15",
+    "D:11:26",
+    "D20:21",
+    "D26:36"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D1:14",
+     "session": 1,
+     "speaker": "Tim",
+     "textSha256": "f06c624e79bb08cd7745ec82af164c5892f5d9c35effc40726667ab9ed573cda",
+     "textChars": 166
+    },
+    {
+     "diaId": "D2:7",
+     "session": 2,
+     "speaker": "Tim",
+     "textSha256": "e7aa30c0effefb4a397c9ef601b98cfbcf1cc690b69d2c5995dc871dfaefe5ec",
+     "textChars": 100
+    },
+    {
+     "diaId": "D4:7",
+     "session": 4,
+     "speaker": "Tim",
+     "textSha256": "0e8558123386aa729e466384b6b1e9abed2465929ad81e79d1bc5e3c3c5f5d98",
+     "textChars": 109
+    },
+    {
+     "diaId": "D5:15",
+     "session": 5,
+     "speaker": "Tim",
+     "textSha256": "8a1ee1aabbfdb6b312d4d3ea7e8732c4507253972fb425d25bedcd6d4cf620bf",
+     "textChars": 132
+    },
+    {
+     "diaId": "D20:21",
+     "session": 20,
+     "speaker": "Tim",
+     "textSha256": "3168894807f7478cac0fc0b14f3f947ce1cc8e2032d6945acd18c5d57880df44",
+     "textChars": 110
+    },
+    {
+     "diaId": "D26:36",
+     "session": 26,
+     "speaker": "Tim",
+     "textSha256": "52d0d211eae8db1206a829a7405fd7871a1ed60b11fafc8e8886279def38e6c7",
+     "textChars": 128
+    }
+   ],
+   "unparsedEvidence": [
+    "D:11:26"
+   ],
+   "scopeThroughSession": 26,
+   "queryDate": "2024-01-13",
+   "questionSha256": "9385966b38c18d7e48820ccb6b0128c03b3bcca805df1e42aa9ff7abb2f462c5",
+   "questionChars": 37,
+   "goldSha256": "7a01744bb57a300151a97d5359fd8c5dd620cbf23c70bf91dc7f29896777eb2c",
+   "goldChars": 80,
+   "answerSha256": "7a01744bb57a300151a97d5359fd8c5dd620cbf23c70bf91dc7f29896777eb2c",
+   "answerChars": 80
+  },
+  {
+   "baseId": "conv-43",
+   "qaIndex": 71,
+   "id": "conv-43#71",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D1:5"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D1:5",
+     "session": 1,
+     "speaker": "John",
+     "textSha256": "60d6d546002645e73f25c282e45aafbabeb7dafd4b8b8e6e9a59d4a6f2a5e6ea",
+     "textChars": 53
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 1,
+   "queryDate": "2024-01-13",
+   "questionSha256": "fdf150537e932cf28251b4b79609280d4c97efad2fcaa1ee56204be22ed46621",
+   "questionChars": 46,
+   "goldSha256": "ad167c4116180621af2c107c8a2c1af7ede876a8e23f98625daed8528bbc8513",
+   "goldChars": 20,
+   "answerSha256": "ad167c4116180621af2c107c8a2c1af7ede876a8e23f98625daed8528bbc8513",
+   "answerChars": 20
+  },
+  {
+   "baseId": "conv-44",
+   "qaIndex": 8,
+   "id": "conv-44#8",
+   "category": 2,
+   "categoryName": "temporal",
+   "prompt": "temporal",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D2:8"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D2:8",
+     "session": 2,
+     "speaker": "Andrew",
+     "textSha256": "6baf811e12816e0ea81be704bb1924cf8bebc5190a6dc181a60fc77059821e70",
+     "textChars": 170
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 2,
+   "queryDate": "2023-11-23",
+   "questionSha256": "ffbc139efe2e234c03412f0c3ed1461213c8ad982716a699a620b73a383d9c81",
+   "questionChars": 44,
+   "goldSha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+   "goldChars": 2,
+   "answerSha256": "1ea442a134b2a184bd5d40104401f2a37fbc09ccf3f4bc9da161c6099be3691d",
+   "answerChars": 2
+  },
+  {
+   "baseId": "conv-44",
+   "qaIndex": 43,
+   "id": "conv-44#43",
+   "category": 3,
+   "categoryName": "open-domain",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D11:9"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D11:9",
+     "session": 11,
+     "speaker": "Andrew",
+     "textSha256": "762cee5342258f4bb004b65a8ed93f3070d71795b0ef97d6781d8371828345f4",
+     "textChars": 112
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 11,
+   "queryDate": "2023-11-23",
+   "questionSha256": "e238b0c07772101fcb1ae19f32d59f3c490ae9476db1ce20ed7d6ba642b9a4cd",
+   "questionChars": 56,
+   "goldSha256": "6180a0af19cac6f2b9da4469b031e5097c429f3856e907a13ed2131badeb1740",
+   "goldChars": 9,
+   "answerSha256": "6180a0af19cac6f2b9da4469b031e5097c429f3856e907a13ed2131badeb1740",
+   "answerChars": 9
+  },
+  {
+   "baseId": "conv-44",
+   "qaIndex": 125,
+   "id": "conv-44#125",
+   "category": 5,
+   "categoryName": "adversarial",
+   "prompt": "adversarial",
+   "gold": "No information available: the conversation does not mention this; the model should say so rather than answer.",
+   "answer": null,
+   "evidence": [
+    "D5:3"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D5:3",
+     "session": 5,
+     "speaker": "Andrew",
+     "textSha256": "f17b7e8f9e056d2571bcd4fd2e7eb0a324fe5a250a1bc93cec003190d4df49d4",
+     "textChars": 303
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 5,
+   "queryDate": "2023-11-23",
+   "questionSha256": "69e77933511acfb93b2c36d90299e1eab2dd71f0d06d42a00d2906630caeffc0",
+   "questionChars": 71,
+   "adversarialAnswerSha256": "ced61429db4ba7e9c10ffe8ff41f3f062a089e319c282f14993090fda7f9e04a",
+   "adversarialAnswerChars": 11
+  },
+  {
+   "baseId": "conv-47",
+   "qaIndex": 41,
+   "id": "conv-47#41",
+   "category": 2,
+   "categoryName": "temporal",
+   "prompt": "temporal",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D19:12"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D19:12",
+     "session": 19,
+     "speaker": "James",
+     "textSha256": "69268555685fd04984c66c19297f889fa6e2828dd31d714b4b349004f12156c9",
+     "textChars": 92
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 19,
+   "queryDate": "2022-11-08",
+   "questionSha256": "2da8d1bd638d93237eaeffd212a606039c2115c0539c8d0620cc4903c9e816fc",
+   "questionChars": 29,
+   "goldSha256": "407df5dc9f7b37a009caa404d999ae5496ec40034c14dfa47742caf9bb70af33",
+   "goldChars": 14,
+   "answerSha256": "407df5dc9f7b37a009caa404d999ae5496ec40034c14dfa47742caf9bb70af33",
+   "answerChars": 14
+  },
+  {
+   "baseId": "conv-47",
+   "qaIndex": 90,
+   "id": "conv-47#90",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D10:10"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D10:10",
+     "session": 10,
+     "speaker": "John",
+     "textSha256": "8cc794bdd05c9312576f52dd02741ee638b72194da462697141aead49fcf52c0",
+     "textChars": 113
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 10,
+   "queryDate": "2022-11-08",
+   "questionSha256": "3b531363920e79550d8cb2f2ccfade615dde1d6906c6249655e180a249a7e375",
+   "questionChars": 117,
+   "goldSha256": "97941ff2c9cc757496d14f519048f93fa4abec1e9e73bf222cb97b00255ab6e9",
+   "goldChars": 29,
+   "answerSha256": "97941ff2c9cc757496d14f519048f93fa4abec1e9e73bf222cb97b00255ab6e9",
+   "answerChars": 29
+  },
+  {
+   "baseId": "conv-47",
+   "qaIndex": 183,
+   "id": "conv-47#183",
+   "category": 5,
+   "categoryName": "adversarial",
+   "prompt": "adversarial",
+   "gold": "No information available: the conversation does not mention this; the model should say so rather than answer.",
+   "answer": null,
+   "evidence": [
+    "D29:1",
+    "D29:3"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D29:1",
+     "session": 29,
+     "speaker": "John",
+     "textSha256": "417ff1647a1cc3b16929f6d174ed3ec2341bfcc77c9076126668c8faee46df26",
+     "textChars": 255
+    },
+    {
+     "diaId": "D29:3",
+     "session": 29,
+     "speaker": "John",
+     "textSha256": "a409a00daa9a122b2045da96ea0c28d3a66840f71589c3eeb56c430482b3b493",
+     "textChars": 313
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 29,
+   "queryDate": "2022-11-08",
+   "questionSha256": "8df1c269d01ccd530140de9144f962e9ac6cd2fdb21305b8e1b605d85b006f6e",
+   "questionChars": 85,
+   "adversarialAnswerSha256": "ef661f1833ee4139585da300290bbb7ced1b1bd3bae307bc5035c154846291ce",
+   "adversarialAnswerChars": 40
+  },
+  {
+   "baseId": "conv-48",
+   "qaIndex": 13,
+   "id": "conv-48#13",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D2:13",
+    "D4:34",
+    "D6:10",
+    "D19:17"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D2:13",
+     "session": 2,
+     "speaker": "Deborah",
+     "textSha256": "db041d69f0f4d88569151a09a794984611224d09fa54ed0c22a5d30efe3aa747",
+     "textChars": 123
+    },
+    {
+     "diaId": "D4:34",
+     "session": 4,
+     "speaker": "Deborah",
+     "textSha256": "ecc0154f7449cd74850b8fd3f34566335254060735117c8324f3d8eaca93adc8",
+     "textChars": 304
+    },
+    {
+     "diaId": "D6:10",
+     "session": 6,
+     "speaker": "Deborah",
+     "textSha256": "49f6e428c107921fbc4c2f52adda63898de509dc6cce0f0591c8cf1ab118a057",
+     "textChars": 143
+    },
+    {
+     "diaId": "D19:17",
+     "session": 19,
+     "speaker": "Deborah",
+     "textSha256": "0c8d8688bcd5fd05feaf46904844fd98adb21a1737d3edd01ba8134cf8f58999",
+     "textChars": 203
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 19,
+   "queryDate": "2023-09-21",
+   "questionSha256": "12b43cf3b33075f45f00e491d35ec2840f874c7a6500d4481edb3932a03f2ac8",
+   "questionChars": 31,
+   "goldSha256": "5e32b00b3a87ceb9f04c008d5a518d3c7acc6d95f9197cb3b3971352845f42bc",
+   "goldChars": 109,
+   "answerSha256": "5e32b00b3a87ceb9f04c008d5a518d3c7acc6d95f9197cb3b3971352845f42bc",
+   "answerChars": 109
+  },
+  {
+   "baseId": "conv-48",
+   "qaIndex": 41,
+   "id": "conv-48#41",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D11:4",
+    "D11:7",
+    "D28:16",
+    "D28:18"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D11:4",
+     "session": 11,
+     "speaker": "Deborah",
+     "textSha256": "80ad586dd1a8d748a2d35ab66723f569a4eeda9af3fb3028c0bd4628a82b6ced",
+     "textChars": 147
+    },
+    {
+     "diaId": "D11:7",
+     "session": 11,
+     "speaker": "Jolene",
+     "textSha256": "f67d48aed0cf623c50515538f5dd3e94aa2251d0b89b4a37cf44c80e60e1eedb",
+     "textChars": 43
+    },
+    {
+     "diaId": "D28:16",
+     "session": 28,
+     "speaker": "Jolene",
+     "textSha256": "4be884f18372860c1d4f440d20ec1844b251be29e90766dc89b0306ed3cbbf84",
+     "textChars": 156
+    },
+    {
+     "diaId": "D28:18",
+     "session": 28,
+     "speaker": "Jolene",
+     "textSha256": "16438fc604c7533c7fc562363c5c99b1a0d1d54be61f85347f089e1c33ead215",
+     "textChars": 196
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 28,
+   "queryDate": "2023-09-21",
+   "questionSha256": "3ed56cc37633c269808d272c3e9c5f1e578003bd4055c708faf19da93a9f4454",
+   "questionChars": 67,
+   "goldSha256": "0841afde8e6c5b3d47913dc59f572ddb03a274e976cef11f2128eca74661ff13",
+   "goldChars": 30,
+   "answerSha256": "0841afde8e6c5b3d47913dc59f572ddb03a274e976cef11f2128eca74661ff13",
+   "answerChars": 30
+  },
+  {
+   "baseId": "conv-48",
+   "qaIndex": 81,
+   "id": "conv-48#81",
+   "category": 2,
+   "categoryName": "temporal",
+   "prompt": "temporal",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D29:34"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D29:34",
+     "session": 29,
+     "speaker": "Jolene",
+     "textSha256": "626dbab23d39f960ee9b5ed8d9d5486ad74c3621bb649463c1069e7d9376435d",
+     "textChars": 80
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 29,
+   "queryDate": "2023-09-21",
+   "questionSha256": "27f8a0bc3c6f29a06dab121677d19e312a54e52adeb235f76b284003ea835e30",
+   "questionChars": 52,
+   "goldSha256": "ad3b55edd6e1c620fe9fb4214af5124995809b3dc40e26efc84ae30cfc4687e9",
+   "goldChars": 15,
+   "answerSha256": "ad3b55edd6e1c620fe9fb4214af5124995809b3dc40e26efc84ae30cfc4687e9",
+   "answerChars": 15
+  },
+  {
+   "baseId": "conv-48",
+   "qaIndex": 146,
+   "id": "conv-48#146",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D16:15"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D16:15",
+     "session": 16,
+     "speaker": "Deborah",
+     "textSha256": "fcad0c7359ca71192ce825a81bad3a8d6520c388f6f1af7364364e1d1ce0e219",
+     "textChars": 194
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 16,
+   "queryDate": "2023-09-21",
+   "questionSha256": "174b6f5768c1697a2ff153f084756d3ad658c2985e9b57bb74c46eb0ad435738",
+   "questionChars": 59,
+   "goldSha256": "401226424f522004ac0019b548dcfbd33655f6fe7edabd3b58736b2ab185e926",
+   "goldChars": 56,
+   "answerSha256": "401226424f522004ac0019b548dcfbd33655f6fe7edabd3b58736b2ab185e926",
+   "answerChars": 56
+  },
+  {
+   "baseId": "conv-48",
+   "qaIndex": 211,
+   "id": "conv-48#211",
+   "category": 5,
+   "categoryName": "adversarial",
+   "prompt": "adversarial",
+   "gold": "No information available: the conversation does not mention this; the model should say so rather than answer.",
+   "answer": null,
+   "evidence": [
+    "D14:6"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D14:6",
+     "session": 14,
+     "speaker": "Jolene",
+     "textSha256": "445199717c414ec7218de3317d105390a496ec249262d627bab125fb348af073",
+     "textChars": 134
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 14,
+   "queryDate": "2023-09-21",
+   "questionSha256": "3520714d390e373f106216d356550b8cac40a5d2a70308eff14f41fe696c6ce5",
+   "questionChars": 45,
+   "adversarialAnswerSha256": "c5b246c0e3aeb7593f49def6cbf80e8c028a34114adecf45cc0e9a5ec1d1f56c",
+   "adversarialAnswerChars": 8
+  },
+  {
+   "baseId": "conv-49",
+   "qaIndex": 24,
+   "id": "conv-49#24",
+   "category": 2,
+   "categoryName": "temporal",
+   "prompt": "temporal",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D5:1"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D5:1",
+     "session": 5,
+     "speaker": "Evan",
+     "textSha256": "a3b3633ba0140c1e52135ca8cfafec6e7e178e2470773eafc65d1130393b24ca",
+     "textChars": 226
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 5,
+   "queryDate": "2024-01-12",
+   "questionSha256": "4d58c7846e45aa41a03f7507204ec112f227ade901057e0c217fa7ef0295fd67",
+   "questionChars": 77,
+   "goldSha256": "6f65016260fa5b426a413ab3f1c88d555be954d05843589488aaf6dcde61153f",
+   "goldChars": 37,
+   "answerSha256": "6f65016260fa5b426a413ab3f1c88d555be954d05843589488aaf6dcde61153f",
+   "answerChars": 37
+  },
+  {
+   "baseId": "conv-49",
+   "qaIndex": 50,
+   "id": "conv-49#50",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D1:14",
+    "D1:6",
+    "D4:8",
+    "D6:1",
+    "D8:30",
+    "D9:6",
+    "D25:8",
+    "D25:10"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D1:14",
+     "session": 1,
+     "speaker": "Evan",
+     "textSha256": "1a1a5bdf741264b2730c0cc45adadf2286e201138497023db8c200e9ca1c2da8",
+     "textChars": 71
+    },
+    {
+     "diaId": "D1:6",
+     "session": 1,
+     "speaker": "Evan",
+     "textSha256": "b5cdf33f402d94ba32073e5fcfa9afc0854847e9bf9e90a184119af003d770ef",
+     "textChars": 59
+    },
+    {
+     "diaId": "D4:8",
+     "session": 4,
+     "speaker": "Evan",
+     "textSha256": "1ffe4962e18f2e28580a087592564355b25aa983df43336e06b5c9263ea33a21",
+     "textChars": 213
+    },
+    {
+     "diaId": "D6:1",
+     "session": 6,
+     "speaker": "Evan",
+     "textSha256": "c75cfc2f8ca74f84810532879dce49357bd6da4d94ea6a69f1c757298f4db56a",
+     "textChars": 253
+    },
+    {
+     "diaId": "D8:30",
+     "session": 8,
+     "speaker": "Evan",
+     "textSha256": "0f1e96af12dd650a29434d7a7b49ff8e9f37cd3ac358c947dfbccbd99d6232a8",
+     "textChars": 76
+    },
+    {
+     "diaId": "D9:6",
+     "session": 9,
+     "speaker": "Evan",
+     "textSha256": "622cbefa602fc1fa02910d2ed375aff52157ef875ff0c48a3dfa7d3b0c3c9443",
+     "textChars": 141
+    },
+    {
+     "diaId": "D25:8",
+     "session": 25,
+     "speaker": "Evan",
+     "textSha256": "8f864557910928af2d7ad37fff16226b5145f91cf4dd0de40bf5b029d4590a4c",
+     "textChars": 231
+    },
+    {
+     "diaId": "D25:10",
+     "session": 25,
+     "speaker": "Evan",
+     "textSha256": "739f1f2f4a358f937fb7fc1ea110088ed90001ae130bc657b36c55e57d55117b",
+     "textChars": 132
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 25,
+   "queryDate": "2024-01-12",
+   "questionSha256": "9d32867bcf6993bb26e2f8207c4d865296078d0261f293b3b5260b593ae218be",
+   "questionChars": 38,
+   "goldSha256": "78a576e32c07da9a4e5137713f65774ee352e73b4689efa373ad178490291249",
+   "goldChars": 103,
+   "answerSha256": "78a576e32c07da9a4e5137713f65774ee352e73b4689efa373ad178490291249",
+   "answerChars": 103
+  },
+  {
+   "baseId": "conv-49",
+   "qaIndex": 69,
+   "id": "conv-49#69",
+   "category": 1,
+   "categoryName": "multi-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D19:1",
+    "D21:2"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D19:1",
+     "session": 19,
+     "speaker": "Evan",
+     "textSha256": "f6c49f0c71f1d04e7deddfa0776e8761efd0fc612f3f6d9e9b0da8dc4e13def2",
+     "textChars": 157
+    },
+    {
+     "diaId": "D21:2",
+     "session": 21,
+     "speaker": "Evan",
+     "textSha256": "f123a3ef9cc2ae00afd49500ee5e26880aeb44463b2c1674b224d2e330afb1a7",
+     "textChars": 90
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 21,
+   "queryDate": "2024-01-12",
+   "questionSha256": "23b3735e6de3613a5abc23dd539228f08e33070e33f207603a2e00653a3f2835",
+   "questionChars": 89,
+   "goldSha256": "43f9a23626ca8dc90388183813949ee62d8b51dacf731d9acef072589f021d9e",
+   "goldChars": 46,
+   "answerSha256": "43f9a23626ca8dc90388183813949ee62d8b51dacf731d9acef072589f021d9e",
+   "answerChars": 46
+  },
+  {
+   "baseId": "conv-49",
+   "qaIndex": 125,
+   "id": "conv-49#125",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D15:8"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D15:8",
+     "session": 15,
+     "speaker": "Evan",
+     "textSha256": "3ddb5d1ee20280d6d1cfc92186ce3721157d4ed0ad0a3ac5246334ab56459e19",
+     "textChars": 123
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 15,
+   "queryDate": "2024-01-12",
+   "questionSha256": "147913ed1b0fb1baa37de87197cc12806753ab80d6c95f1af0620bc70e87fdc4",
+   "questionChars": 60,
+   "goldSha256": "dff69b127a5a7dd7c302342d6745478c5023312ccaf24c9d0362fb68c8252bda",
+   "goldChars": 46,
+   "answerSha256": "dff69b127a5a7dd7c302342d6745478c5023312ccaf24c9d0362fb68c8252bda",
+   "answerChars": 46
+  },
+  {
+   "baseId": "conv-49",
+   "qaIndex": 178,
+   "id": "conv-49#178",
+   "category": 5,
+   "categoryName": "adversarial",
+   "prompt": "adversarial",
+   "gold": "No information available: the conversation does not mention this; the model should say so rather than answer.",
+   "answer": null,
+   "evidence": [
+    "D13:14"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D13:14",
+     "session": 13,
+     "speaker": "Sam",
+     "textSha256": "9b9fc72ee813e6a007f208ef3e25290612124e27e0ac388ff9f1ec558b99c347",
+     "textChars": 68
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 13,
+   "queryDate": "2024-01-12",
+   "questionSha256": "513e4374240c4bd3fcbe8fa6237852a4ef707bfa77fb569bed328abefe254d65",
+   "questionChars": 49,
+   "adversarialAnswerSha256": "0d89c324c780e0553010772e864ba94f02b15215c5c6d3dfe5fc7cca3e710488",
+   "adversarialAnswerChars": 10
+  },
+  {
+   "baseId": "conv-50",
+   "qaIndex": 13,
+   "id": "conv-50#13",
+   "category": 3,
+   "categoryName": "open-domain",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D7:11"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D7:11",
+     "session": 7,
+     "speaker": "Calvin",
+     "textSha256": "13017e6f7a0e5fcb3e6a067e10d91b1df203127bdc1cc10c8e9a648c8803949e",
+     "textChars": 135
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 7,
+   "queryDate": "2023-11-18",
+   "questionSha256": "d9c37a4bc30bb8a26f958544cee1cf805e3544b88451faca3ce20caddde26e24",
+   "questionChars": 52,
+   "goldSha256": "1a95dea877144f08073d16d9a3636c5880040ff6dde9dea9cb07875cfe39e081",
+   "goldChars": 69,
+   "answerSha256": "1a95dea877144f08073d16d9a3636c5880040ff6dde9dea9cb07875cfe39e081",
+   "answerChars": 69
+  },
+  {
+   "baseId": "conv-50",
+   "qaIndex": 52,
+   "id": "conv-50#52",
+   "category": 2,
+   "categoryName": "temporal",
+   "prompt": "temporal",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D24:17"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D24:17",
+     "session": 24,
+     "speaker": "Calvin",
+     "textSha256": "fe840690bd49f7509569355a0c02994530279c0be052391c6f1c1de7a2c030ed",
+     "textChars": 166
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 24,
+   "queryDate": "2023-11-18",
+   "questionSha256": "67e60be616ee15cbe5144c4d5b77ad57ecfdbdc10e8ae2358cc09f4b296443ef",
+   "questionChars": 60,
+   "goldSha256": "e69c0d0941613a92d310b2b015f10809eea1561b1567a4752340b6747677fe1b",
+   "goldChars": 13,
+   "answerSha256": "e69c0d0941613a92d310b2b015f10809eea1561b1567a4752340b6747677fe1b",
+   "answerChars": 13
+  },
+  {
+   "baseId": "conv-50",
+   "qaIndex": 81,
+   "id": "conv-50#81",
+   "category": 4,
+   "categoryName": "single-hop",
+   "prompt": "fact",
+   "adversarialAnswer": null,
+   "evidence": [
+    "D6:3"
+   ],
+   "evidenceTurns": [
+    {
+     "diaId": "D6:3",
+     "session": 6,
+     "speaker": "Calvin",
+     "textSha256": "0ce5de1ef7c55c905693f0212fd246cb7d9829f58f4af8eb2be7647b7134aedd",
+     "textChars": 272
+    }
+   ],
+   "unparsedEvidence": [],
+   "scopeThroughSession": 6,
+   "queryDate": "2023-11-18",
+   "questionSha256": "3f7ff389adb2c2d691107127ab894e67a0cfc16a16aca88fe083f277dd0e0a49",
+   "questionChars": 57,
+   "goldSha256": "251aa9043c86caa786ad25d5dcf85a9f295aaaf9f3e20ccaba0d18480ee6e1b6",
+   "goldChars": 34,
+   "answerSha256": "251aa9043c86caa786ad25d5dcf85a9f295aaaf9f3e20ccaba0d18480ee6e1b6",
+   "answerChars": 34
+  }
+ ]
+}

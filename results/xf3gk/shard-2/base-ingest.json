@@ -1,0 +1,402 @@
+[
+ {
+  "baseId": "conv-26",
+  "sessions": 19,
+  "exchanges": 28,
+  "usage": {
+   "ingest-recall": {
+    "input": 118057,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 7594,
+    "calls": 28
+   },
+   "capture-judge": {
+    "input": 131143,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6462,
+    "calls": 28
+   },
+   "save-pass": {
+    "input": 158,
+    "cacheRead": 1474716,
+    "cacheWrite": 206401,
+    "output": 70920,
+    "calls": 20
+   },
+   "standing-writer": {
+    "input": 125618,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 13597,
+    "calls": 20
+   }
+  },
+  "recallCalls": 28,
+  "recallFallbacks": 0,
+  "writes": 109,
+  "saveRuns": 20,
+  "seconds": 559
+ },
+ {
+  "baseId": "conv-30",
+  "sessions": 19,
+  "exchanges": 27,
+  "usage": {
+   "ingest-recall": {
+    "input": 107858,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6609,
+    "calls": 27
+   },
+   "capture-judge": {
+    "input": 113689,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 6448,
+    "calls": 27
+   },
+   "save-pass": {
+    "input": 172,
+    "cacheRead": 1641315,
+    "cacheWrite": 187690,
+    "output": 58549,
+    "calls": 20
+   },
+   "standing-writer": {
+    "input": 136372,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 18880,
+    "calls": 20
+   }
+  },
+  "recallCalls": 27,
+  "recallFallbacks": 0,
+  "writes": 99,
+  "saveRuns": 20,
+  "seconds": 630
+ },
+ {
+  "baseId": "conv-41",
+  "sessions": 32,
+  "exchanges": 46,
+  "usage": {
+   "ingest-recall": {
+    "input": 187144,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11425,
+    "calls": 46
+   },
+   "capture-judge": {
+    "input": 197387,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10956,
+    "calls": 46
+   },
+   "save-pass": {
+    "input": 262,
+    "cacheRead": 2426594,
+    "cacheWrite": 349250,
+    "output": 100525,
+    "calls": 33
+   },
+   "standing-writer": {
+    "input": 268832,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 52273,
+    "calls": 33
+   }
+  },
+  "recallCalls": 46,
+  "recallFallbacks": 0,
+  "writes": 164,
+  "saveRuns": 33,
+  "seconds": 1102
+ },
+ {
+  "baseId": "conv-42",
+  "sessions": 29,
+  "exchanges": 44,
+  "usage": {
+   "ingest-recall": {
+    "input": 177465,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11350,
+    "calls": 44
+   },
+   "capture-judge": {
+    "input": 194514,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11031,
+    "calls": 44
+   },
+   "save-pass": {
+    "input": 254,
+    "cacheRead": 2349151,
+    "cacheWrite": 326072,
+    "output": 107607,
+    "calls": 32
+   },
+   "standing-writer": {
+    "input": 238304,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 32092,
+    "calls": 32
+   }
+  },
+  "recallCalls": 44,
+  "recallFallbacks": 0,
+  "writes": 191,
+  "saveRuns": 32,
+  "seconds": 1016
+ },
+ {
+  "baseId": "conv-43",
+  "sessions": 29,
+  "exchanges": 43,
+  "usage": {
+   "ingest-recall": {
+    "input": 177999,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10729,
+    "calls": 43
+   },
+   "capture-judge": {
+    "input": 186469,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10655,
+    "calls": 43
+   },
+   "save-pass": {
+    "input": 238,
+    "cacheRead": 2237776,
+    "cacheWrite": 328379,
+    "output": 94370,
+    "calls": 29
+   },
+   "standing-writer": {
+    "input": 196977,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 31143,
+    "calls": 29
+   }
+  },
+  "recallCalls": 43,
+  "recallFallbacks": 0,
+  "writes": 174,
+  "saveRuns": 29,
+  "seconds": 987
+ },
+ {
+  "baseId": "conv-44",
+  "sessions": 28,
+  "exchanges": 46,
+  "usage": {
+   "ingest-recall": {
+    "input": 191193,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 12241,
+    "calls": 46
+   },
+   "capture-judge": {
+    "input": 208761,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10220,
+    "calls": 46
+   },
+   "save-pass": {
+    "input": 226,
+    "cacheRead": 2120836,
+    "cacheWrite": 355828,
+    "output": 99672,
+    "calls": 29
+   },
+   "standing-writer": {
+    "input": 197661,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 22514,
+    "calls": 29
+   }
+  },
+  "recallCalls": 46,
+  "recallFallbacks": 0,
+  "writes": 149,
+  "saveRuns": 29,
+  "seconds": 962
+ },
+ {
+  "baseId": "conv-47",
+  "sessions": 31,
+  "exchanges": 46,
+  "usage": {
+   "ingest-recall": {
+    "input": 183329,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11090,
+    "calls": 46
+   },
+   "capture-judge": {
+    "input": 177963,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11929,
+    "calls": 46
+   },
+   "save-pass": {
+    "input": 270,
+    "cacheRead": 2472509,
+    "cacheWrite": 335824,
+    "output": 119720,
+    "calls": 34
+   },
+   "standing-writer": {
+    "input": 179714,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 24111,
+    "calls": 34
+   }
+  },
+  "recallCalls": 46,
+  "recallFallbacks": 0,
+  "writes": 239,
+  "saveRuns": 34,
+  "seconds": 1089
+ },
+ {
+  "baseId": "conv-48",
+  "sessions": 30,
+  "exchanges": 46,
+  "usage": {
+   "ingest-recall": {
+    "input": 185503,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 12076,
+    "calls": 46
+   },
+   "capture-judge": {
+    "input": 198092,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 11357,
+    "calls": 46
+   },
+   "save-pass": {
+    "input": 260,
+    "cacheRead": 2400567,
+    "cacheWrite": 340245,
+    "output": 111422,
+    "calls": 33
+   },
+   "standing-writer": {
+    "input": 178910,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 13417,
+    "calls": 33
+   }
+  },
+  "recallCalls": 46,
+  "recallFallbacks": 0,
+  "writes": 187,
+  "saveRuns": 33,
+  "seconds": 997
+ },
+ {
+  "baseId": "conv-49",
+  "sessions": 25,
+  "exchanges": 34,
+  "usage": {
+   "ingest-recall": {
+    "input": 137508,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8729,
+    "calls": 34
+   },
+   "capture-judge": {
+    "input": 153009,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 8663,
+    "calls": 34
+   },
+   "save-pass": {
+    "input": 210,
+    "cacheRead": 1977330,
+    "cacheWrite": 299445,
+    "output": 82687,
+    "calls": 26
+   },
+   "standing-writer": {
+    "input": 193443,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 28262,
+    "calls": 26
+   }
+  },
+  "recallCalls": 34,
+  "recallFallbacks": 0,
+  "writes": 135,
+  "saveRuns": 26,
+  "seconds": 849
+ },
+ {
+  "baseId": "conv-50",
+  "sessions": 30,
+  "exchanges": 39,
+  "usage": {
+   "ingest-recall": {
+    "input": 161108,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 10151,
+    "calls": 39
+   },
+   "capture-judge": {
+    "input": 193811,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 9344,
+    "calls": 39
+   },
+   "save-pass": {
+    "input": 252,
+    "cacheRead": 2363697,
+    "cacheWrite": 304422,
+    "output": 93790,
+    "calls": 31
+   },
+   "standing-writer": {
+    "input": 235969,
+    "cacheRead": 0,
+    "cacheWrite": 0,
+    "output": 35244,
+    "calls": 31
+   }
+  },
+  "recallCalls": 39,
+  "recallFallbacks": 0,
+  "writes": 176,
+  "saveRuns": 31,
+  "seconds": 988
+ }
+]

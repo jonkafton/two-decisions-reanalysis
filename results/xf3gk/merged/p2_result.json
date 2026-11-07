@@ -1,0 +1,276 @@
+{
+ "prediction": 2,
+ "registration": "xf3gk",
+ "run": "/Users/jk/two-decisions-runs/xf3gk/merged",
+ "judges_required": [
+  "published",
+  "second"
+ ],
+ "design": {
+  "studies": [
+   "H1",
+   "H2"
+  ],
+  "mapping": "transcript",
+  "batchTurns": 20,
+  "stitch": "suffix-replay",
+  "arms": [
+   "on",
+   "off",
+   "h1-on",
+   "h1-off"
+  ],
+  "armSwitches": {
+   "on": {
+    "planning": "on",
+    "self": "on",
+    "standing": "on"
+   },
+   "off": {
+    "planning": "off",
+    "self": "on",
+    "standing": "on"
+   },
+   "h1-on": {
+    "planning": "on",
+    "self": "off",
+    "standing": "on"
+   },
+   "h1-off": {
+    "planning": "on",
+    "self": "off",
+    "standing": "off"
+   }
+  },
+  "answerArms": [
+   "system-on",
+   "system-off",
+   "none",
+   "h1-on",
+   "h1-off"
+  ],
+  "probes": [
+   "trigger",
+   "far",
+   "paired",
+   "near"
+  ],
+  "controls": {
+   "far": {
+    "path": "/Users/jk/two-decisions-reanalysis/harness/h1-far-controls.json",
+    "sha256": "f23e85704d53e6969b73594d2b4d45478ed1a0bf248c3034b43437b261e2aad8",
+    "questions": 100
+   },
+   "near": {
+    "path": "harness/h1-near-variants.json",
+    "sha256": "0227a597b72ddd5aef98433406bcf18580f2291de1a261bd8e140ac4ea8e0cdd",
+    "variants": 100
+   }
+  },
+  "controlsAssigned": {
+   "far": 401,
+   "paired": 401,
+   "near": 100
+  },
+  "useJudge": "prompts.ts USE_JUDGE_PROMPT on every reply both judges pass",
+  "judges": [
+   "published",
+   "second"
+  ]
+ },
+ "models": {
+  "answer": "claude-haiku-5-5",
+  "secondJudge": "claude-opus-5-5",
+  "claudeCli": "2.1.319 (Claude Code)",
+  "publishedJudge": {
+   "ready": true,
+   "protocol_lock": {
+    "backbone_model": "gpt-4o-mini",
+    "judge_provider": "google",
+    "judge_model": "gemini-2.5-flash",
+    "backbone_temperature": 0,
+    "judge_temperature": 0,
+    "max_tokens": 512,
+    "query_mode": "unified_conversational_no_task_disclosure",
+    "cognitive_labels": [
+     "correct",
+     "wrong"
+    ],
+    "judge_output_schema": {
+     "label": "string",
+     "reason": "string"
+    },
+    "judge_prompt_sha256": "7174feb3462a2636df0c2632da7634f78ea850e9bf5069ec2ceea607d9551ca1"
+   },
+   "file_sha256": {
+    "config.py": "7988336781a110fedc692ad2db5cd5d0c47eee67300bbde7c90c820991afc378",
+    "judge.py": "f331359e71a70a1c99716372dd148598906d72e4c9777b5e5452a22d2ae8841e",
+    "judge_prompts.py": "40b9de0c9f1f142e54ffb8d6b3cf5df5a21848acdb9fb7d109ad66d5047f1895"
+   },
+   "prompt_sha256": {
+    "fact": "e76281fe6f1c0b2a9e12e674c286c61a5b431570b899f5fe4e2a1802ee41ba41",
+    "temporal": "5e03f92f835f4a91929d0b36e8a54937dfc048bd13ecccb32a52ee04309c1dea",
+    "adversarial": "8649bb6fdd659ae781c900b0865ababe50a89c84fc3a722093a9825c00895e4a",
+    "cognitive": "7174feb3462a2636df0c2632da7634f78ea850e9bf5069ec2ceea607d9551ca1"
+   },
+   "python": "3.13.7"
+  },
+  "system": {
+   "default": "claude-haiku-5-5",
+   "planner": "claude-haiku-5-5",
+   "standing-writer": "claude-haiku-5-5"
+  }
+ },
+ "switches": null,
+ "cognitive": {
+  "items": 401,
+  "excluded_failed_lookup": 0,
+  "incomplete_verdicts": 0,
+  "scored": 401,
+  "accuracy_both_pass": {
+   "system-on": {
+    "n": 401,
+    "correct": 117,
+    "pct": 29.18,
+    "wilson95_pct": [
+     24.9,
+     33.8
+    ]
+   },
+   "system-off": {
+    "n": 401,
+    "correct": 139,
+    "pct": 34.66,
+    "wilson95_pct": [
+     30.2,
+     39.4
+    ]
+   },
+   "none": {
+    "n": 401,
+    "correct": 5,
+    "pct": 1.25,
+    "wilson95_pct": [
+     0.5,
+     2.9
+    ]
+   }
+  },
+  "gain_on_minus_off_points": -5.48,
+  "by_group_exploratory": {
+   "causal": {
+    "n": 101,
+    "system-on": 24,
+    "system-off": 33,
+    "none": 0
+   },
+   "goal": {
+    "n": 100,
+    "system-on": 35,
+    "system-off": 41,
+    "none": 1
+   },
+   "state": {
+    "n": 100,
+    "system-on": 42,
+    "system-off": 48,
+    "none": 3
+   },
+   "value": {
+    "n": 100,
+    "system-on": 16,
+    "system-off": 17,
+    "none": 1
+   }
+  }
+ },
+ "factual": {
+  "items": 125,
+  "excluded_failed_lookup": 0,
+  "incomplete_verdicts": 0,
+  "scored": 125,
+  "accuracy_both_pass": {
+   "system-on": {
+    "n": 125,
+    "correct": 46,
+    "pct": 36.8,
+    "wilson95_pct": [
+     28.9,
+     45.5
+    ]
+   },
+   "system-off": {
+    "n": 125,
+    "correct": 34,
+    "pct": 27.2,
+    "wilson95_pct": [
+     20.2,
+     35.6
+    ]
+   },
+   "none": {
+    "n": 125,
+    "correct": 25,
+    "pct": 20.0,
+    "wilson95_pct": [
+     13.9,
+     27.9
+    ]
+   }
+  },
+  "gain_on_minus_off_points": 9.6,
+  "by_group_exploratory": {
+   "adversarial": {
+    "n": 25,
+    "system-on": 19,
+    "system-off": 13,
+    "none": 25
+   },
+   "multi-hop": {
+    "n": 25,
+    "system-on": 3,
+    "system-off": 3,
+    "none": 0
+   },
+   "open-domain": {
+    "n": 25,
+    "system-on": 7,
+    "system-off": 5,
+    "none": 0
+   },
+   "single-hop": {
+    "n": 25,
+    "system-on": 8,
+    "system-off": 7,
+    "none": 0
+   },
+   "temporal": {
+    "n": 25,
+    "system-on": 9,
+    "system-off": 6,
+    "none": 0
+   }
+  }
+ },
+ "statistic_factual_gain_minus_cognitive_gain_points": 15.08,
+ "bootstrap": {
+  "seed": 20261104,
+  "draws": 10000,
+  "percentile95": [
+   7.14,
+   23.43
+  ],
+  "method": "items resampled with replacement within each track, independently; interval does not decide"
+ },
+ "decision": "supported",
+ "thresholds": {
+  "supported_if_at_least": 5,
+  "failed_if_at_most": 0,
+  "min_items_per_track": 100
+ },
+ "flagged_verdicts_counted_wrong": {
+  "published": 41
+ },
+ "verdict_errors_not_scored": {},
+ "exclusions": []
+}

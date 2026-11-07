@@ -17,6 +17,7 @@ The study designs for predictions 1 and 2 of the registration at https://osf.io/
 | `h1-far-controls.json` | The far-control list |
 | `h1-score.ts` | H1's registered decision rule over a run directory (H2's is `../preregistration/h2/p2_score.py`) |
 | `rates.json` | Dollars per million tokens for the cost figure in `summary.json`; nothing else reads it |
+| `deposit.ts` | Builds a run's release set: benchmark text replaced by SHA-256 and length, the pipeline's own outputs in full, a `SHA256SUMS` and the set's digest for timestamping |
 | `fixtures/` | A synthetic two-speaker fixture in the benchmarks' exact shapes, for the smoke test; no benchmark text |
 
 ## The protocol

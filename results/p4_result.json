@@ -1,0 +1,12 @@
+{
+ "prediction": 4,
+ "labelled_by_A": 60,
+ "labelled_by_B": 60,
+ "raw_agreement": 0.7333,
+ "cohen_kappa": 0.2649,
+ "agreed_items_k": 44,
+ "agreed_with_second_judge_a": 39,
+ "agreed_with_published_judge": 5,
+ "decision": "supported",
+ "rule": "supported if 3a >= 2k; failed if 2(k-a) >= k; otherwise, or if k < 20, inconclusive"
+}

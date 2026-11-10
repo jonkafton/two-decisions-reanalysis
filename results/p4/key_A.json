@@ -1,0 +1,242 @@
+{
+ "1": {
+  "sample_id": "cog_0047",
+  "system": "letta"
+ },
+ "2": {
+  "sample_id": "cog_0254",
+  "system": "zep"
+ },
+ "3": {
+  "sample_id": "cog_0197",
+  "system": "mem0"
+ },
+ "4": {
+  "sample_id": "cog_0294",
+  "system": "mem0"
+ },
+ "5": {
+  "sample_id": "cog_0144",
+  "system": "mem0"
+ },
+ "6": {
+  "sample_id": "cog_0229",
+  "system": "letta"
+ },
+ "7": {
+  "sample_id": "cog_0257",
+  "system": "zep"
+ },
+ "8": {
+  "sample_id": "cog_0013",
+  "system": "mem0"
+ },
+ "9": {
+  "sample_id": "cog_0332",
+  "system": "letta"
+ },
+ "10": {
+  "sample_id": "cog_0335",
+  "system": "zep"
+ },
+ "11": {
+  "sample_id": "cog_0292",
+  "system": "letta"
+ },
+ "12": {
+  "sample_id": "cog_0186",
+  "system": "zep"
+ },
+ "13": {
+  "sample_id": "cog_0355",
+  "system": "mem0"
+ },
+ "14": {
+  "sample_id": "cog_0216",
+  "system": "mem0"
+ },
+ "15": {
+  "sample_id": "cog_0224",
+  "system": "zep"
+ },
+ "16": {
+  "sample_id": "cog_0237",
+  "system": "mem0"
+ },
+ "17": {
+  "sample_id": "cog_0228",
+  "system": "zep"
+ },
+ "18": {
+  "sample_id": "cog_0054",
+  "system": "zep"
+ },
+ "19": {
+  "sample_id": "cog_0099",
+  "system": "zep"
+ },
+ "20": {
+  "sample_id": "cog_0303",
+  "system": "zep"
+ },
+ "21": {
+  "sample_id": "cog_0229",
+  "system": "mem0"
+ },
+ "22": {
+  "sample_id": "cog_0143",
+  "system": "letta"
+ },
+ "23": {
+  "sample_id": "cog_0113",
+  "system": "zep"
+ },
+ "24": {
+  "sample_id": "cog_0004",
+  "system": "zep"
+ },
+ "25": {
+  "sample_id": "cog_0139",
+  "system": "zep"
+ },
+ "26": {
+  "sample_id": "cog_0327",
+  "system": "letta"
+ },
+ "27": {
+  "sample_id": "cog_0253",
+  "system": "letta"
+ },
+ "28": {
+  "sample_id": "cog_0175",
+  "system": "zep"
+ },
+ "29": {
+  "sample_id": "cog_0293",
+  "system": "letta"
+ },
+ "30": {
+  "sample_id": "cog_0255",
+  "system": "mem0"
+ },
+ "31": {
+  "sample_id": "cog_0028",
+  "system": "mem0"
+ },
+ "32": {
+  "sample_id": "cog_0393",
+  "system": "mem0"
+ },
+ "33": {
+  "sample_id": "cog_0377",
+  "system": "zep"
+ },
+ "34": {
+  "sample_id": "cog_0085",
+  "system": "letta"
+ },
+ "35": {
+  "sample_id": "cog_0105",
+  "system": "zep"
+ },
+ "36": {
+  "sample_id": "cog_0320",
+  "system": "letta"
+ },
+ "37": {
+  "sample_id": "cog_0247",
+  "system": "letta"
+ },
+ "38": {
+  "sample_id": "cog_0229",
+  "system": "zep"
+ },
+ "39": {
+  "sample_id": "cog_0292",
+  "system": "mem0"
+ },
+ "40": {
+  "sample_id": "cog_0122",
+  "system": "letta"
+ },
+ "41": {
+  "sample_id": "cog_0139",
+  "system": "letta"
+ },
+ "42": {
+  "sample_id": "cog_0147",
+  "system": "mem0"
+ },
+ "43": {
+  "sample_id": "cog_0257",
+  "system": "letta"
+ },
+ "44": {
+  "sample_id": "cog_0347",
+  "system": "letta"
+ },
+ "45": {
+  "sample_id": "cog_0395",
+  "system": "mem0"
+ },
+ "46": {
+  "sample_id": "cog_0072",
+  "system": "mem0"
+ },
+ "47": {
+  "sample_id": "cog_0047",
+  "system": "zep"
+ },
+ "48": {
+  "sample_id": "cog_0061",
+  "system": "letta"
+ },
+ "49": {
+  "sample_id": "cog_0318",
+  "system": "letta"
+ },
+ "50": {
+  "sample_id": "cog_0372",
+  "system": "letta"
+ },
+ "51": {
+  "sample_id": "cog_0282",
+  "system": "letta"
+ },
+ "52": {
+  "sample_id": "cog_0363",
+  "system": "zep"
+ },
+ "53": {
+  "sample_id": "cog_0124",
+  "system": "zep"
+ },
+ "54": {
+  "sample_id": "cog_0102",
+  "system": "zep"
+ },
+ "55": {
+  "sample_id": "cog_0195",
+  "system": "zep"
+ },
+ "56": {
+  "sample_id": "cog_0208",
+  "system": "mem0"
+ },
+ "57": {
+  "sample_id": "cog_0175",
+  "system": "letta"
+ },
+ "58": {
+  "sample_id": "cog_0067",
+  "system": "mem0"
+ },
+ "59": {
+  "sample_id": "cog_0381",
+  "system": "letta"
+ },
+ "60": {
+  "sample_id": "cog_0061",
+  "system": "zep"
+ }
+}

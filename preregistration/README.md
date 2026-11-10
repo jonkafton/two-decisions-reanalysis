@@ -2,7 +2,7 @@
 
 The paper's four predictions were registered on OSF on 3 November 2026, before any of them was tested: https://osf.io/xufd9. The registration is embargoed until the paper is listed, and until 31 December 2026 at the latest, so the address shows nothing to the public before then.
 
-This folder holds everything the registration fixes for predictions 3 and 4. Both run on the 368 matched items and need no new system. Predictions 1 and 2 need studies that do not exist yet; each will get its own registration before its data are collected.
+This folder holds everything the registration fixes for predictions 3 and 4. Both run on the 368 matched items and need no new system. Predictions 1 and 2 needed a new study. It was registered on 6 November 2026, before any item ran (https://osf.io/xf3gk); its design is in `h2/` and its per-item record is in `../results/xf3gk/`.
 
 | File | What it is |
 |---|---|
@@ -22,7 +22,7 @@ This folder holds everything the registration fixes for predictions 3 and 4. Bot
 
 1. Nothing here runs against a real model, or reaches an annotator, before the registration is approved. A `--stub` run makes no calls and is the only exception.
 2. `./fetch_data.sh`. It also fetches the published judge's `evaluation/judge.py` and `config.py`, hash-checked, so that prediction 3 is scored by that code and not by a copy of it.
-3. Prediction 3: `pip install -r preregistration/requirements-p3.txt`, then `OPENAI_API_KEY=... GOOGLE_API_KEY=... python3 preregistration/p3_trigger_only.py`, then `python3 preregistration/p3_score.py`. The second judge runs through the Claude Code CLI, as in `scripts/second_judge_run.py`.
-4. Prediction 4: `python3 preregistration/p4_annotation.py packets`. Give each annotator only their own packet and blank labels file; the keys stay with the author. Then `python3 preregistration/p4_annotation.py score --a labels_A.csv --b labels_B.csv`.
+3. Prediction 3: `pip install -r preregistration/requirements-p3.txt`, then `OPENAI_API_KEY=... GOOGLE_API_KEY=... python3 preregistration/p3_trigger_only.py`, then `python3 preregistration/p3_score.py`. The second judge runs through the Claude Code CLI, as in `scripts/second_judge_run.py`. The replies, both judges' verdicts and the run record are `results/p3_replies.jsonl`, `results/p3_verdicts.jsonl` and `results/p3_meta.jsonl`; the score is `results/p3_result.json`.
+4. Prediction 4: `python3 preregistration/p4_annotation.py packets`. Give each annotator only their own packet and blank labels file; the keys stay with the author. Then `python3 preregistration/p4_annotation.py score --a labels_A.csv --b labels_B.csv`. The returned labels, the keys and the annotators' notes are in `results/p4/`; the score is `results/p4_result.json`.
 
 The packets hold the benchmark's text, so they are written to `preregistration/packets/`, which is git-ignored, and are never published here.
